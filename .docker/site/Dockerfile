@@ -1,5 +1,4 @@
 FROM		alpine:latest
-MAINTAINER	Matt Finucane <matfin@gmail.com>
 
 ARG			hugo_version
 RUN			rm -rf /opt/public
