@@ -1,0 +1,40 @@
+version: '3'
+
+services:
+  nnpn-site:
+    container_name: nnpn_site
+    restart: on-failure
+    build:
+      context: .docker/site
+      dockerfile: Dockerfile
+      args:
+        hugo_version: "0.34"
+    volumes:
+      - ./:/opt:rw
+    command: hugo -s /opt/site -b http://nnpn.build --config=./site/build.yml -d ../public
+
+  nnpn-nginx:
+    container_name: nnpn_nginx
+    build:
+      context: .docker/nginx
+      dockerfile: Dockerfile
+      args:
+        nginx_conf: nginx.build.conf
+    volumes:
+      - ./media:/opt/media:ro
+      - ./public:/opt/public:ro
+    links:
+      - nnpn-site
+    ports:
+      - "80:80"
+    command: nginx -g "daemon off;"
+
+  nnpn-webpack:
+    container_name: nnpn_webpack
+    build:
+      context: .
+      dockerfile: ./.docker/node/Dockerfile.build
+    volumes:
+      - .:/opt:rw
+      - /opt/node_modules
+    command: ["npm", "run", "build"]

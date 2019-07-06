@@ -1,0 +1,6 @@
+FROM        node:9.1.0
+ENV         NPM_CONFIG_LOGLEVEL warn
+COPY        package.json /opt/package.json
+WORKDIR     /opt
+RUN         npm install -g webpack && npm install --loglevel verbose && npm cache verify
+

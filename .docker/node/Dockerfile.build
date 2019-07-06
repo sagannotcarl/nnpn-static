@@ -1,0 +1,4 @@
+FROM        node:9.1.0
+COPY        package.json /opt/package.json
+WORKDIR     /opt
+RUN         npm install -g webpack && npm install

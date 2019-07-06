@@ -1,0 +1,6 @@
+**/.DS_Store
+.idea/
+coverage/
+public/
+node_modules/
+site/static/*
