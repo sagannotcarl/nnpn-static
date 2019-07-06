@@ -1,11 +1,14 @@
 /**
  *  Base set up
  */
-@import "variables";
+@import "variables/colors";
+@import "variables/typography";
+@import "variables/layout";
 // @import "mixins";
-// @import "typography";
+@import "typography";
 @import "setup";
 @import "base";
+@import "layout";
 
 /**
  *  Shortcodes and partials
