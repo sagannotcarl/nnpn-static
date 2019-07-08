@@ -1,0 +1,149 @@
+@function emify($target, $context) {
+   @if $target == 0 { @return 0 }
+   @return $target / $context + 0em;
+}
+
+// Make px to ems using base-font-size
+// echo as: font-size: em-font(#px);
+@function em-font($target, $context: $base-font-size) {
+   @return emify($target, $context);
+}
+
+// Make px to ems using base-line-height
+// echo as: font-size: em-base(#px);
+@function em-base($target, $context: $base-line-height) {
+   @return emify($target, $context);
+}
+
+@function remify($target) {
+  @return $target / $base-font-size + 0rem;
+}
+
+@mixin remify-style($style, $target) {
+  #{ $style }: $target;
+  #{ $style}: remify($target);
+}
+
+@mixin item-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 0;
+  }
+}
+
+@mixin link-colors($normal, $hover: false, $active: false, $visited: false, $focus: false) {
+  color: $normal;
+  @if $visited {
+    &:visited {
+      color: $visited;
+    }
+  }
+  @if $hover {
+    &:hover {
+      color: $hover;
+    }
+  }
+  @if $focus {
+    &:focus {
+      color: $focus;
+    }
+  } @else if $hover {
+    &:focus {
+      color: $hover;
+    }
+  }
+  @if $active {
+    &:active {
+      color: $active;
+    }
+  }
+}
+
+@mixin small-menu-style {
+  .menu,
+  .links {
+    @include item-list;
+    // @include padding-leader(0.5);
+    // @include padding-trailer(0.5);
+
+    li {
+      list-style: none;
+
+      &:first-child a {
+        border-top-color: transparent;
+      }
+
+      &:hover + li a,
+      &.active + li a {
+        border-top-color: transparent;
+      }
+    }
+  }
+
+  a {
+    @include remify-style(padding-left, $small-spacing);
+    @include remify-style(padding-right, $small-spacing);
+    @include remify-style(padding-top, 11px);
+    @include remify-style(padding-bottom, 11px);
+    border-top: 1px dotted black;
+    border-bottom: none;
+    display: block;
+    color: $black;
+
+    &:hover,
+    &:focus {
+      background: $lime;
+      border-top-color: transparent;
+    }
+
+    &:active {
+      background: $light-gray;
+    }
+
+    &.active,
+    &.active-trail {
+      background: $lime;
+      border-top-color: transparent;
+
+      &:hover,
+      &:focus {
+        background: $light-gray;
+      }
+
+      &:active {
+        background: $medium-gray;
+      }
+    }
+  }
+}
+
+@mixin image-replace {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  word-wrap: normal;
+}
+
+@mixin image-replace-link {
+  @include image-replace;
+  display: block;
+  border-bottom: none;
+}
+
+@mixin image-replace-undo {
+  text-indent: 0;
+  white-space: normal;
+  overflow: auto;
+  word-wrap: normal;
+}
+
+
+@mixin image-replace-link-undo {
+  @include image-replace-undo;
+//  display: inline;
+  height: auto;
+  width: auto;
+}

@@ -1,11 +1,108 @@
+body {
+  font-family: $gotham-narrow;
+  color: $black;
+}
+
 h1 {
   margin: 0;
+  margin-bottom: 1em;
+  font-size: $h1-fz;
   font-family: $gotham-narrow;
   font-weight: $black-fw;
   color: $violet;
   text-transform: uppercase;
 }
 
-p {
+h2 {
+  margin: 0;
   margin-bottom: 1em;
+  font-size: $h2-fz;
+  font-family: $gotham-narrow;
+  font-weight: $black-fw;
+  color: $cool-gray;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 0;
+  margin-bottom: 1em;
+  font-size: $h3-fz;
+  font-family: $gotham-narrow;
+  font-weight: $black-fw;
+  color: $black;
+  text-transform: uppercase;
+}
+
+h4 {
+  margin: 0;
+  margin-bottom: 1em;
+  font-size: $h4-fz;
+  font-family: $gotham-narrow;
+  font-weight: $black-fw;
+  font-style: italic;
+  color: $black;
+  text-transform: uppercase;
+}
+
+h5 {
+  margin: 0;
+  margin-bottom: 1em;
+  font-size: $h5-fz;
+  font-family: $gotham-narrow;
+  font-weight: $black-fw;
+  color: $cool-gray;
+}
+
+h6 {
+  margin: 0;
+  margin-bottom: 1em;
+  font-size: $h6-fz;
+  font-family: $gotham-narrow;
+  font-weight: $book-fw;
+  color: $black;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 1em;
+  color: $black;
+}
+
+a {
+  @include remify-style(line-height, $base-line-height - 1);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  color: $magenta;
+
+  &:visited {
+    border-bottom: 1px solid transparent;
+    color: $magenta;
+  }
+
+  &:hover,
+  &:focus {
+    border-bottom: 1px dotted $magenta;
+  }
+
+  &:active,
+  &.active-trail {
+    color: $light-gray;
+    border-bottom: 1px dotted $light-gray;
+  }
+}
+
+i,
+em {
+  font-style: italic;
+}
+
+b,
+strong {
+  fonte-weight: $bold-fw;
+}
+
+em strong,
+strong em {
+  font-weight: $bold-fw;
+  font-style: italic;
 }

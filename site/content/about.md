@@ -1,6 +1,7 @@
 ---
 title: 			"About"
-identifier:		"about"
+identifier:	"about_overview"
+menu:        ["about", "main"]
 ---
 
 <span class="lead-in">

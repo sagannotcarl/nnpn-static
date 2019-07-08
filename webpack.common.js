@@ -46,6 +46,10 @@ module.exports = {
       {
         from: './assets/svg',
         to: '../svg'
+      },
+      {
+        from: './assets/images',
+        to: '../images'
       }
     ])
   ]

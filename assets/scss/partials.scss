@@ -1,0 +1,30 @@
+nav.about-nav {
+  @include small-menu-style;
+  font-weight: $book-fw;
+  padding: $medium-spacing;
+
+  a {
+    &:hover,
+    &:focus {
+      font-weight: $black-fw;
+    }
+
+    &.active,
+    &.active-trail {
+      font-weight: $black-fw;
+    }
+  }
+}
+
+header.site-header {
+  max-width: $wide-width;
+  margin: auto;
+
+  .site-title {
+    @include image-replace;
+    background: url("/images/nnpn_logo.png") no-repeat;
+    background-size: 280px 132px;
+    height: 132px;
+    width: 280px;
+  }
+}

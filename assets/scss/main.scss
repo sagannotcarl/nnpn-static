@@ -4,7 +4,7 @@
 @import "variables/colors";
 @import "variables/typography";
 @import "variables/layout";
-// @import "mixins";
+@import "mixins";
 @import "typography";
 @import "setup";
 @import "base";
@@ -13,7 +13,7 @@
 /**
  *  Shortcodes and partials
  */
-// @import "layouts/partials";
+@import "partials";
 // @import "layouts/shortcodes";
 
 /**
