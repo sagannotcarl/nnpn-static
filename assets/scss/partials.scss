@@ -19,6 +19,9 @@ nav.about-nav {
 header.site-header {
   max-width: $wide-width;
   margin: auto;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  position: relative;
 
   .site-title {
     @include image-replace;
@@ -26,5 +29,30 @@ header.site-header {
     background-size: 280px 132px;
     height: 132px;
     width: 280px;
+    grid-column: 1 / span 2;
+  }
+}
+
+nav.main-nav {
+  grid-column: 3 / span 6;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  text-transform: uppercase;
+
+  .menu {
+    @include item-list;
+    font-size: $x-large-fz;
+    font-weight: $ultra-fw;
+
+    a {
+      @include link-colors($normal: $light-gray, $hover: $black);
+      padding: $medium-spacing;
+
+      &:hover {
+        background-color: $lime;
+        border-bottom: none;
+      }
+    }
   }
 }
