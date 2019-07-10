@@ -21,6 +21,11 @@ section.main {
 
 section.header {
   background-color: $white;
-  padding-bottom: $base-line-height;
   margin-bottom: $large-spacing;
+}
+
+section.footer {
+  background-color: $white;
+  margin-top: $x-large-spacing * 2;
+  overflow: auto;
 }

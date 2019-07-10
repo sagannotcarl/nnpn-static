@@ -120,6 +120,55 @@
   }
 }
 
+@mixin top-menu-style {
+  .menu,
+  .links {
+    @include item-list;
+
+    li {
+      font-size: $x-small-fz;
+      color: $cool-gray;
+      float: left;
+
+      & + li:before {
+        @include remify-style(padding-left, 10px);
+        @include remify-style(padding-right, 5px);
+        content: " | ";
+      }
+    }
+
+    a {
+      font-size: $medium-fz;
+      @include remify-style(line-height, $base-line-height - 1);
+      border-bottom: 1px solid transparent;
+      color: $cool-gray;
+      text-transform: uppercase;
+
+      &:visited {
+        border-bottom: 1px solid transparent;
+        color: $cool-gray;
+      }
+
+      &:hover,
+      &:focus {
+        border-bottom: 1px dotted $cool-gray;
+      }
+
+      &:active {
+        color: $light-gray;
+        border-bottom: 1px solid transparent;
+      }
+
+      &.active-trail,
+      &.active {
+        font-family: $gotham-narrow-ultra;
+        font-weight: $ultra-fw;
+        color: $light-gray;
+      }
+    }
+  }
+}
+
 @mixin image-replace {
   text-indent: 100%;
   white-space: nowrap;
