@@ -17,7 +17,7 @@ nav.about-nav {
 }
 
 header.site-header {
-  max-width: $wide-width;
+  max-width: $wide;
   margin: auto;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
@@ -39,7 +39,7 @@ header.site-header {
 }
 
 footer.site-footer {
-  max-width: $wide-width;
+  max-width: $wide;
   margin: auto;
 
   .footer-logo {

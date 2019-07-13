@@ -1,9 +1,37 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-	<head>
+  <head>
     {{ partial "head" . }}
-	</head>
-	<body>
-		{{ .Content }}
-	</body>
+  </head>
+  <body>
+    <section class="header">
+      {{ partial "header" . }}
+    </section>
+    <section class="banner">
+      <div class="banner-image">
+        {{ with .Resources.ByType "image" }}
+          <div class="Image">
+          {{ range . }}
+            {{ $image := .Fill "1220x425" }}
+            <img src="{{ $image.RelPermalink }}">
+          {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
+    <section class="main">
+      <div class="content">
+        <h1>
+          {{ .Title }}
+        </h1>
+        {{ .Content }}
+      </div>
+      <aside>
+        {{ partial "about_nav" . }}
+      </aside>
+    </section>
+    <section class="footer">
+      {{ partial "footer" . }}
+    </section>
+  </body>
 </html>

@@ -2,6 +2,7 @@
 title: 			"About"
 identifier:	"about_overview"
 menu:        ["about", "main"]
+weight:      -10
 ---
 
 <span class="lead-in">
