@@ -6,7 +6,7 @@ menu:         "main"
 
 Intro to member theaters.
 
-## Core Members
+### Core Members
 
 - [16th Street Theater](http://wp.16thstreettheater.org/) *Berwyn, IL*
 - [Actor’s Express](http://www.actors-express.com/) *Atlanta, GA*
@@ -42,7 +42,7 @@ Intro to member theaters.
 - Writers Theatre of New Jersey *Madison, NJ*
 
 
-## Associate Members
+### Associate Members
 
 - 59E59 Theaters *New York, NY*
 - A Contemporary Theatre *Seattle, WA*
