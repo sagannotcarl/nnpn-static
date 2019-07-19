@@ -3,14 +3,19 @@ section.main {
   margin: auto;
   column-gap: $large-spacing;
 
+  .content {
+    background-color: $white;
+    padding: $large-spacing;
+  }
+}
+
+section.main.has-sidebar {
   @media(min-width: $normal) {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
   }
 
   .content {
-    background-color: $white;
-    padding: $large-spacing;
     grid-column: 3 / span 6;
     grid-row: 1;
   }

@@ -1,0 +1,28 @@
+body.member-theaters {
+  .content {
+    @media(min-width: $normal) {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+
+      h1,
+      p {
+        grid-column: 1 / span 2;
+      }
+
+      h2 {
+        grid-row: 12;
+      }
+
+      ul {
+        @include item-list;
+        grid-row: 13;
+      }
+    }
+
+    em {
+      font-size: 13px;
+      font-style: italic;
+      color: #888;
+    }
+  }
+}

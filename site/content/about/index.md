@@ -2,6 +2,7 @@
 title: 			"About"
 identifier:	"about_overview"
 menu:        ["about", "main"]
+type:       "about"
 weight:      -10
 ---
 

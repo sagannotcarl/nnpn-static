@@ -73,6 +73,10 @@ nav.main-nav {
       font-size: $x-large-fz;
       font-weight: $ultra-fw;
 
+      li {
+        float: left;
+      }
+
       a {
         @include link-colors($normal: $light-gray, $hover: $black);
         display: block;

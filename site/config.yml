@@ -11,4 +11,7 @@ params:
   author:        "Jordana"
   title:    "National New Play Network"
   no_index:      true
+
+taxonomies:
+  member_type: member_types
 ...

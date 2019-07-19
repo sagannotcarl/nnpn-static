@@ -4,6 +4,26 @@
     {{ partial "head" . }}
   </head>
   <body>
-    {{ .Content }}
+    <section class="header">
+      {{ partial "header" . }}
+    </section>
+    <section class="main">
+      <div class="content">
+        <h1>
+          {{ .Title }}
+        </h1>
+        {{ .Content }}
+        <ul>
+        {{ range .Pages }}
+            <li>
+                {{ .Params.Title }}
+            </li>
+        {{ end }}
+        </ul>
+      </div>
+    </section>
+    <section class="footer">
+      {{ partial "footer" . }}
+    </section>
   </body>
 </html>
