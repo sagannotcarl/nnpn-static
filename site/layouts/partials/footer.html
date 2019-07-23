@@ -1,6 +1,12 @@
 <footer class="site-footer">
-  <a class="footer-logo" href="{{ .Site.BaseURL }}">Home</a>
-  {{ partial "main_nav" . }}
-  {{ partial "top_nav" . }}
-  {{ partial "footer_address" . }}
+  <div class="footer-nav">
+    <a class="footer-logo" href="{{ .Site.BaseURL }}">Home</a>
+    {{ partial "main_nav" . }}
+    {{ partial "top_nav" . }}
+  </div>
+  <div class="footer-address">
+    {{ partial "footer_address" . }}
+  </div>
+  <div class="footer-share">
+  </div>
 </footer>
