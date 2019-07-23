@@ -10,7 +10,11 @@
       </div>
     {{ end }}
     <div class="entry-data">
-      <a class="artist-name" href="//{{ .Params.url }}">{{ .Title }}</a>
+      {{ if .Params.url }}
+        <a class="artist-name" href="//{{ .Params.url }}">{{ .Title }}</a>
+      {{ else }}
+        <div class="artist-name">{{ .Title }}</div>
+      {{ end }}
       {{ .Content }}
     </div>
   </li>

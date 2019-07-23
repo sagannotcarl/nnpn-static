@@ -4,3 +4,4 @@ coverage/
 public/
 node_modules/
 site/static/*
+site/resources/_gen

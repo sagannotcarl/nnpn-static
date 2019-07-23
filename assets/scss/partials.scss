@@ -135,6 +135,8 @@ li.program-entry {
   overflow: auto;
   border-bottom: 1px dotted $black;
   font-size: $x-large-fz;
+  padding-bottom: $medium-spacing;
+  margin-bottom: $medium-spacing;
 
   .artist-name {
     font-weight: $black-fw;
@@ -147,5 +149,6 @@ li.program-entry {
 
   .entry-data {
     margin-left: 160px;
+    margin-top: $medium-spacing * 3;
   }
 }
