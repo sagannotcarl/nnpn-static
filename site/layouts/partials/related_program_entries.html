@@ -1,0 +1,19 @@
+{{ $related := .Site.RegularPages.Related . }}
+{{ with $related }}
+<ul>
+  {{ range . }}
+  <li class="program-entry">
+    {{ with .Page.Resources.GetMatch ("images/*") }}
+      <div class="artist-photo">
+        {{ $image := .Fill "130x130 Center" }}
+        <img src="{{ $image.RelPermalink }}">
+      </div>
+    {{ end }}
+    <div class="entry-data">
+      <a class="artist-name" href="//{{ .Params.url }}">{{ .Title }}</a>
+      {{ .Content }}
+    </div>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

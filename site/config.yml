@@ -13,5 +13,13 @@ params:
   no_index:      true
 
 taxonomies:
-  member_type: member_types
+  program: programs
+
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: false
+  indices:
+  - name: program
+    weight: 100
 ...

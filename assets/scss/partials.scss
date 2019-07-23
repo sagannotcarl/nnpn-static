@@ -1,4 +1,4 @@
-nav.about-nav {
+nav.sidebar-nav {
   @include small-menu-style;
   font-weight: $book-fw;
   padding: $medium-spacing;
@@ -128,5 +128,24 @@ footer {
         margin-right: $medium-spacing;
       }
     }
+  }
+}
+
+li.program-entry {
+  overflow: auto;
+  border-bottom: 1px dotted $black;
+  font-size: $x-large-fz;
+
+  .artist-name {
+    font-weight: $black-fw;
+  }
+
+  .artist-photo {
+    float: left;
+    margin-right: $large-spacing;
+  }
+
+  .entry-data {
+    margin-left: 160px;
   }
 }

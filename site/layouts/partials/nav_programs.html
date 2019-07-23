@@ -1,6 +1,6 @@
-{{ $menu      := .Site.Menus.about}}
+{{ $menu      := .Site.Menus.programs}}
 {{ $pageIdentifier  := .Page.Params.Identifier }}
-<nav class="sidebar-nav about-nav">
+<nav class="sidebar-nav programs-nav">
   <ul class="menu">
     {{ range $menu }}
       {{ $isCurrent := eq $pageIdentifier .Identifier }}
