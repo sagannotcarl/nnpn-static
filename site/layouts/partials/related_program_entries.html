@@ -1,11 +1,34 @@
 {{ $related := .Site.RegularPages.Related . }}
 {{ with $related }}
+<h3>Current</h3>
 <ul>
-  {{ range where . "Params.type" "!=" "artist_type" }}
+  {{ range where (where . "Params.current" "==" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
     {{ with .Page.Resources.GetMatch ("images/*") }}
       <div class="artist-photo">
-        {{ $image := .Fill "130x130 Center" }}
+        {{ $image := .Fill "260x260 Center" }}
+        <img src="{{ $image.RelPermalink }}">
+      </div>
+    {{ end }}
+    <div class="entry-data">
+      {{ if .Params.url }}
+        <a class="artist-name" href="//{{ .Params.url }}">{{ .Title }}</a>
+      {{ else }}
+        <div class="artist-name">{{ .Title }}</div>
+      {{ end }}
+      {{ .Content }}
+    </div>
+  </li>
+  {{ end }}
+</ul>
+
+<h3>Alumni</h3>
+<ul>
+  {{ range where (where . "Params.current" "!=" "true" ) "Params.type" "!=" "artist_type"  }}
+  <li class="program-entry">
+    {{ with .Page.Resources.GetMatch ("images/*") }}
+      <div class="artist-photo">
+        {{ $image := .Fill "260x260 Center" }}
         <img src="{{ $image.RelPermalink }}">
       </div>
     {{ end }}

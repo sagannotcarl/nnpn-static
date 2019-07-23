@@ -1,6 +1,7 @@
 ---
-title:      "India Burton"
-image:      "india_burton.jpg"
+title:    "India Burton"
+image:    "india_burton.jpg"
+current:  "true"
 program:
 - Producers in Residence
 ---

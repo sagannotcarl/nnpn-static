@@ -5,7 +5,7 @@
   <li class="program-entry">
     {{ with .Page.Resources.GetMatch ("images/*") }}
       <div class="artist-photo">
-        {{ $image := .Fill "130x130 Center" }}
+        {{ $image := .Fill "260x260 Center" }}
         <img src="{{ $image.RelPermalink }}">
       </div>
     {{ end }}

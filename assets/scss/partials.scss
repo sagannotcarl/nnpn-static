@@ -145,6 +145,11 @@ li.program-entry {
   .artist-photo {
     float: left;
     margin-right: $large-spacing;
+
+    img {
+      width: 130px;
+      height: 130px;
+    }
   }
 
   .entry-data {
