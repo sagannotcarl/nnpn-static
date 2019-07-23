@@ -12,5 +12,3 @@ program:
 The program aims to revolutionize the way theaters support rising leaders in the new play field by embedding the selected Residents in Core Member theaters for 3 to 10 months. While immersed in the day-to-day, per production, and seasonal operations of a new play theater, Residents learn about NNPN’s successful models for collaboration, deepen their connections to the artists and leaders of the Network, and increase their visibility to the field.
 
 Residents are chosen from proposals prepared with and submitted by Core Members. Proposals must include a plan for the programs and projects that the theater and the resident will work on during their time together, expectations regarding hours and duties, and the details of any additional fees, salary, or benefits that the host theater will offer above the stipend. Our applicant pool generally includes recent graduates of Arts Administration MFA programs and others wishing to begin or refocus their careers as management leaders in not for profit theaters.
-
-### Current Producers
