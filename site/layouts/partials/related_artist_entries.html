@@ -1,7 +1,7 @@
 {{ $related := .Site.RegularPages.Related . }}
 {{ with $related }}
 <ul>
-  {{ range where . "Params.type" "!=" "artist_type" }}
+  {{ range where . "Params.type" "!=" "programs" }}
   <li class="program-entry">
     {{ with .Page.Resources.GetMatch ("images/*") }}
       <div class="artist-photo">
@@ -15,7 +15,7 @@
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
       {{ end }}
-      {{ .Content }}
+      <div>{{ .Params.program }}</div>
     </div>
   </li>
   {{ end }}

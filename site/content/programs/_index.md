@@ -1,7 +1,7 @@
 ---
 title:      "Programs"
 identifier: "programs"
-menu:        ["main", "programs"]
+menu:       ["main", "programs"]
 type:       "programs"
 weight:     -10
 ---
