@@ -2,6 +2,7 @@
 title:        "Support"
 identifier:   "support"
 menu:         "top"
+weight:       2
 ---
 
 {{< donate >}}

@@ -70,7 +70,7 @@ header.site-header {
   nav.main-nav {
     grid-column: 3 / span 6;
     position: absolute;
-    bottom: $large-spacing;
+    bottom: $small-spacing;
     right: 0;
 
     .menu {

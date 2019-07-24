@@ -2,6 +2,7 @@
 title:        "Join"
 identifier:   "join"
 menu:         "top"
+weight:       1
 ---
 
 As an organization driven and governed by its members, National New Play Network (NNPN) is a community of professional, nonprofit theaters that produces and develops new work. The Network offers two levels of engagement for these companies, designated as Associate Members and Core Members.
