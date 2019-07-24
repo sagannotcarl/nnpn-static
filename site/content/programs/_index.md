@@ -3,7 +3,7 @@ title:      "Programs"
 identifier: "programs"
 menu:       ["main", "programs"]
 type:       "programs"
-weight:     -10
+weight:     -9
 ---
 
 <span class="lead-in">NNPN STRIVES TO PIONEER, IMPLEMENT, AND DISSEMINATE PROGRAMS THAT REVOLUTIONIZE THE WAY THEATERS COLLABORATE TO SUPPORT NEW PLAYS AND PLAYWRIGHTS.</span>

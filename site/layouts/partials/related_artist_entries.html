@@ -1,6 +1,6 @@
 {{ $related := .Site.RegularPages.Related . }}
 {{ with $related }}
-<ul>
+<ul class="program-entry-list">>
   {{ range where . "Params.type" "!=" "programs" }}
   <li class="program-entry">
     {{ with .Page.Resources.GetMatch ("images/*") }}

@@ -1,7 +1,7 @@
 {{ $related := .Site.RegularPages.Related . }}
 {{ with $related }}
 <h3>Current</h3>
-<ul>
+<ul class="program-entry-list">
   {{ range where (where . "Params.current" "==" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
     {{ with .Page.Resources.GetMatch ("images/*") }}
@@ -23,7 +23,7 @@
 </ul>
 
 <h3>Alumni</h3>
-<ul>
+<ul class="program-entry-list">
   {{ range where (where . "Params.current" "!=" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
     {{ with .Page.Resources.GetMatch ("images/*") }}

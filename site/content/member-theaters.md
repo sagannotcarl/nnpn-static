@@ -2,6 +2,7 @@
 title:        "Member Theaters"
 identifier:   "member-theaters"
 menu:         "main"
+weight:       -7
 ---
 
 Intro to member theaters.
