@@ -2,6 +2,7 @@
 title:      "Addie Gorlin"
 url:        "newplayexchange.org/users/539/addie-gorlin"
 program:
+- Affiliated Artists Council
 ---
 
-Kitchen Dog Theater
+[Contact Addie](mailto:addie.gorlin@gmail.com)

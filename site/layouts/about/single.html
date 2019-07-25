@@ -11,7 +11,7 @@
       <div class="banner-image">
         {{ with .Page.Resources.GetMatch ("images/banner/*") }}
           <div class="Image">
-            {{ $image := .Fill "1220x425" }}
+            {{ $image := .Fill "1220x425 Center" }}
             <img src="{{ $image.RelPermalink }}">
           </div>
         {{ end }}
@@ -23,6 +23,7 @@
           {{ .Title }}
         </h1>
         {{ .Content }}
+        {{ partial "related_artists_batch" . }}
       </div>
       <aside>
         {{ partial "about_nav" . }}

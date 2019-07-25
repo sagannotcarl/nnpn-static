@@ -2,6 +2,7 @@
 title:      "Addie Gorlin"
 url:        "newplayexchange.org/users/539/addie-gorlin"
 program:
+- Producers in Residence
 ---
 
-Kitchen Dog Theater
+Mixed Blood Theatre (2 Year)
