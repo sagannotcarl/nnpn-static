@@ -1,7 +1,0 @@
----
-title:      "Addie Gorlin"
-url:        "newplayexchange.org/users/539/addie-gorlin"
-program:
----
-
-Kitchen Dog Theater
