@@ -3,6 +3,7 @@ title:      "History"
 identifier: "history"
 type:       "about"
 menu:       "about"
+weight:     2
 ---
 
 <span class="lead-in">IN 1998, DAVID GOLDMAN AND A SMALL GROUP OF THEATER LEADERS founded National new play network ON THE BELIEF THAT THE NEXT GENERATION OF NEW PLAY DEVELOPMENT SHOULD BE DECENTRALIZED, DYNAMIC, AND COLLABORATIVE IN SCOPE AND PRACTICE, and that there should be a pipeline for sharing new work nationwide.</span>

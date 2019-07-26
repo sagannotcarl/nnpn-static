@@ -3,6 +3,7 @@ title:      "Supporters"
 identifier: "supporters"
 menu:       "about"
 type:       "about"
+weight:     3
 ---
 National New Play Network and its member theaters, affiliated artists, and audiences are deeply grateful for the support of the following patrons of new work. NNPN’s worldwide impact would not be possible without these generous donors.
 

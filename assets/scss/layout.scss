@@ -36,6 +36,10 @@ section.banner {
 section.header {
   background-color: $white;
   margin-bottom: $large-spacing;
+
+  // Unify with NPX styles
+  // background-color: $violet;
+  // color: $white;
 }
 
 section.footer {

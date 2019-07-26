@@ -9,10 +9,18 @@
     </section>
     <section class="banner">
       <div class="banner-image">
+        {{ $caption := .Params.banner_caption }}
         {{ with .Page.Resources.GetMatch ("images/banner/*") }}
           <div class="Image">
             {{ $image := .Fill "1220x425 Center" }}
-            <img src="{{ $image.RelPermalink }}">
+            <figure>
+              <img src="{{ $image.RelPermalink }}">
+              {{ if $caption }}
+                <figcaption>
+                    {{ $caption | markdownify }}
+                </figcaption>
+              {{ end }}
+            </figure>
           </div>
         {{ end }}
       </div>

@@ -3,6 +3,7 @@ title:      "Ambassadors Council"
 identifier: "ambassadors_council"
 type:       "about"
 menu:       "about"
+weight:     6
 ---
 
 Artist Ambassadors
