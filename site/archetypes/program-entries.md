@@ -1,5 +1,5 @@
 ---
 title:      ""
 related:   []
-url:        ""
+link:        ""
 ---

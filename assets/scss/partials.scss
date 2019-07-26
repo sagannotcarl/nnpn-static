@@ -198,7 +198,6 @@ li.program-entry {
 
   .entry-data {
     margin-left: 160px;
-    margin-top: $medium-spacing * 3;
   }
 }
 
@@ -214,6 +213,7 @@ section.banner {
   figcaption {
     background-color: $black;
     background-color: rgba(0, 0, 0, 0.95);
+    line-height: 22px;
     padding: 15px;
     font-weight: 400;
     margin-bottom: 0;
