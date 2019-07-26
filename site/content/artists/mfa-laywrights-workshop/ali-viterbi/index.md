@@ -2,7 +2,7 @@
 title:      "Ali Viterbi"
 url:        "newplayexchange.org/users/2286/ali-viterbi"
 current:    "true"
-program:
+related:
 - MFA Playwrights’ Workshop
 ---
 

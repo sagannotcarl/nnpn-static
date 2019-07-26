@@ -13,13 +13,13 @@ params:
   no_index:      true
 
 taxonomies:
-  program: programs
+  related: related
 
 related:
   threshold: 80
   includeNewer: true
   toLower: false
   indices:
-  - name: program
+  - name: related
     weight: 100
 ...

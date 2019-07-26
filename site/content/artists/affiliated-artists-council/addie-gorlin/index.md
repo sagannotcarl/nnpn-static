@@ -1,7 +1,7 @@
 ---
 title:      "Addie Gorlin"
 url:        "newplayexchange.org/users/539/addie-gorlin"
-program:
+related:
 - Affiliated Artists Council
 ---
 

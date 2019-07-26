@@ -3,7 +3,7 @@ title:      "International Exchange"
 identifier: "international-exchange"
 menu:       "programs"
 type:       "programs"
-program:
+related:
 - International Exchange
 ---
 

@@ -3,7 +3,7 @@ title:      "Affiliated Artists Council"
 identifier: "affiliated-artists-council"
 menu:       "about"
 type:       "about"
-program:
+related:
 - Affiliated Artists Council
 ---
 

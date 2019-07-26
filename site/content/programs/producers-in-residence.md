@@ -3,7 +3,7 @@ title:      "Producers in Residence"
 identifier: "producers-in-residence"
 menu:       "programs"
 type:       "programs"
-program:
+related:
 - Producers in Residence
 ---
 

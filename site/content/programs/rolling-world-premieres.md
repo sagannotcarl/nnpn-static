@@ -3,7 +3,7 @@ title:      "Rolling World Premieres"
 identifier: "rolling-world-premieres"
 menu:       "programs"
 type:       "programs"
-program:
+related:
 - Rolling World Premieres
 ---
 

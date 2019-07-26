@@ -3,7 +3,7 @@ title:      "MFA Playwrights’ Workshop"
 identifier: "mfa-playwrights-workshop"
 menu:       "programs"
 type:       "programs"
-program:
+related:
 - MFA Playwrights’ Workshop
 ---
 

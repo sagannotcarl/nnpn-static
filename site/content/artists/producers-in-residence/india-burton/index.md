@@ -1,7 +1,7 @@
 ---
 title:    "India Burton"
 current:  "true"
-program:
+related:
 - Producers in Residence
 ---
 

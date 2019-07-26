@@ -1,6 +1,6 @@
 ---
 title: 			"About"
-identifier:	"about_overview"
+identifier:	"about-overview"
 menu:        ["about", "main"]
 type:       "about"
 weight:      -10
