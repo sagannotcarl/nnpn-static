@@ -3,6 +3,7 @@ title:    "Jump"
 link:     "newplayexchange.org/users/975/charly-evon-simpson"
 author:   "Charly Evon Simpson"
 current:  "true"
+type:     "rolling_premier"
 related:
 - Rolling World Premieres
 ---
