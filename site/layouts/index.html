@@ -3,25 +3,25 @@
   <head>
     {{ partial "head" . }}
   </head>
-  <body>
+  <body class="home">
     <section class="header">
       {{ partial "header" . }}
     </section>
     <section class="main">
-      <h2>Current Rolling World Premieres</h2>
-      <div class="content">
+      <h2 class="rolling-premiers">Current Rolling World Premieres</h2>
+      <div class="content rolling-premiers">
         {{ range first 3 (where .Pages ".Params.type" "==" "rolling_premier") }}
           {{ .Content }}
         {{ end }}
       </div>
-      <h2>Updates</h2>
-      <div class="content">
+      <h2 class="updates">Updates</h2>
+      <div class="content updates">
         {{ range first 4 (where .Pages ".Params.type" "==" "news") }}
           {{ .Title }}
         {{ end }}
       </div>
-      <h2>Core Members</h2>
-      <div class="content">
+      <h2 class="members">Core Members</h2>
+      <div class="content members">
         {{ .Content }}
       </div>
     </section>

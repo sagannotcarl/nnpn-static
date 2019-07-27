@@ -1,3 +1,64 @@
+body.home {
+  section.main {
+    h2 {
+      margin-left: $large-spacing;
+
+      @media(min-width: $normal) {
+        margin-left: 0;
+      }
+    }
+  }
+
+  h2.updates,
+  h2.members {
+    margin-top: $large-spacing;
+  }
+
+  .content.members {
+    ul {
+      @include item-list;
+    }
+  }
+
+  @media(min-width: $normal) {
+    section.main {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+    }
+
+    h2.rolling-premiers {
+      grid-row: 1;
+      grid-column: 1 / span 8;
+    }
+
+    .content.rolling-premiers {
+      grid-row: 2;
+      grid-column: 1 / span 8;
+    }
+
+    h2.updates {
+      grid-row: 3;
+      grid-column: 1 / span 2;
+    }
+
+    .content.updates {
+      grid-row: 4;
+      grid-column: 1 / span 2;
+    }
+
+    h2.members {
+      grid-row: 3;
+      grid-column: 3 / span 6;
+    }
+
+    .content.members {
+      columns: 2;
+      grid-row: 4;
+      grid-column: 3 / span 6;
+    }
+  }
+}
+
 body.member-theaters {
   .content {
     @media(min-width: $normal) {
