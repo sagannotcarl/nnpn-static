@@ -14,6 +14,16 @@
           {{ .Content }}
         {{ end }}
       </div>
+      <h2>Updates</h2>
+      <div class="content">
+        {{ range first 4 (where .Pages ".Params.type" "==" "news") }}
+          {{ .Title }}
+        {{ end }}
+      </div>
+      <h2>Core Members</h2>
+      <div class="content">
+        {{ .Content }}
+      </div>
     </section>
     <section class="footer">
       {{ partial "footer" . }}
