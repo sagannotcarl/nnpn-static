@@ -11,7 +11,11 @@
       <h2 class="rolling-premiers">Current Rolling World Premieres</h2>
       <div class="content rolling-premiers">
         {{ range first 3 (where .Pages ".Params.type" "==" "rolling_premier") }}
-          {{ .Content }}
+          <div class="rolling-premier-entry">
+            <h3>{{ .Title }}</h3>
+            <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+            {{ .Content }}
+          </div>
         {{ end }}
       </div>
       <h2 class="updates">Updates</h2>

@@ -1,9 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ end }}">
-	<head>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
     {{ partial "head" . }}
-	</head>
-	<body>
-		404
-	</body>
+  </head>
+  <body class="{{ .Page.Params.identifier }}">
+    <section class="header">
+      {{ partial "header" . }}
+    </section>
+    <section class="main">
+      <div class="content">
+        <h1>Page not found</h1>
+        <p>Sorry, the requested page could not be found</p>
+      </div>
+    </section>
+    <section class="footer">
+      {{ partial "footer" . }}
+    </section>
+  </body>
 </html>
