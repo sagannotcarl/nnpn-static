@@ -101,15 +101,20 @@ body.news {
     li {
       border-bottom: 1px dotted $black;
       padding-bottom: 21px;
+      margin-bottom: 21px;
     }
   }
 
   .news-item {
     h2 {
       font-size: 24px;
-      line-height: 44px;
       font-weight: $book-fw;
       text-transform: inherit;
+      margin-bottom: 0;
+    }
+
+    .news-date {
+      margin: $small-spacing 0;
     }
   }
 
@@ -118,9 +123,15 @@ body.news {
     line-height: 22px;
     font-weight: $bold-fw;
     display: inline-block;
+    margin-top: $small-spacing;
 
     &::after {
       content: " » ";
     }
   }
+}
+
+.news-date {
+  font-size: 15px;
+  color: $medium-gray;
 }

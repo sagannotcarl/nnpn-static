@@ -1,6 +1,6 @@
 ---
 title:  "The 85th NNPN Rolling World Premiere, HERLAND by Grace McLeod Rolls into Chicago"
-date:   "March 14, 2019"
+date:   2019-03-14
 ---
 
 National New Play Network, the nation's alliance of professional theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays, celebrates the continuation of its 85th Rolling World Premiere (RWP): Herland by Grace McLeod. The play opens this week at Chicago's Redtwist Theatre (March 16-April 14, 2019), after it began in January at San Diego's MOXIE Theatre and will conclude in Los Angeles at Greenway Court (May 31-June 23, 2019).

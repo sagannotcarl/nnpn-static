@@ -31,14 +31,16 @@
           {{ .Title }}
         </h1>
         <ul class="news-item-list">
-          {{ range .Pages }}
+          {{ range .Pages.ByDate.Reverse }}
               <li class="news-item">
                 <h2>
                   <a href="{{ .RelPermalink }}">
                     {{ .Title }}
                   </a>
                 </h2>
-                {{ .Params.date }}
+                <div class="news-date">
+                  {{ .Date.Format "Jan 2, 2006" }}
+                </div>
                 <div class="news-summary">
                   {{ .Summary }}
                 </div>
