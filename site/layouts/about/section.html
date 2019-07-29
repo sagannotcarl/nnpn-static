@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head" . }}
+  </head>
+  <body class="{{ .Page.Params.identifier }}">
+    <section class="header">
+      {{ partial "header" . }}
+    </section>
+    <section class="banner">
+      <div class="banner-image">
+        {{ $caption := .Params.banner_caption }}
+        {{ with .Page.Resources.GetMatch ("images/banner/*") }}
+          <div class="Image">
+            {{ $image := .Fill "1220x425 Center" }}
+            <figure>
+              <img src="{{ $image.RelPermalink }}">
+              {{ if $caption }}
+                <figcaption>
+                    {{ $caption | markdownify }}
+                </figcaption>
+              {{ end }}
+            </figure>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+    <section class="main has-sidebar">
+      <div class="content">
+        <h1>
+          {{ .Title }}
+        </h1>
+        {{ .Content }}
+        {{ partial "related_artists_batch" . }}
+      </div>
+      <aside>
+        {{ partial "about_nav" . }}
+      </aside>
+    </section>
+    <section class="footer">
+      {{ partial "footer" . }}
+    </section>
+  </body>
+</html>
