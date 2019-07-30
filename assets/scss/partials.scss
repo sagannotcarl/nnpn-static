@@ -238,44 +238,6 @@ section.banner {
   }
 }
 
-.carousel {
-  ul {
-    @include item-list;
-  }
-}
-
-.carousel-image {
-  img {
-    width: 100%;
-  }
-
-  figure {
-    position: relative;
-
-    @media (min-width: $narrow) {
-      width: $narrow - ($outside-gutter-spacing * 2);
-    }
-
-    @media (min-width: $normal) {
-      width: $normal - ($outside-gutter-spacing * 2);
-    }
-
-    @media (min-width: $wide) {
-      width: $wide - ($outside-gutter-spacing * 2);
-    }
-  }
-
-  figcaption {
-    color: $white;
-    background-color: $black;
-    background-color: rgba(0, 0, 0, 0.9);
-    padding: 15px;
-    position: absolute;
-    width: 50%;
-    bottom: 40px;
-  }
-}
-
 .rolling-premier-entry {
   h3 {
     font-style: italic;

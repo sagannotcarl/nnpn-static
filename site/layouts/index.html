@@ -30,24 +30,18 @@
                   >
                   <figcaption>
                     {{ if $slide_intro }}
-                      <a href="//{{ $slide_link }}">
-                        <div class="slide-intro">
-                          {{ $slide_intro }}
-                        </div>
+                      <a class="slide-intro slide-field" href="//{{ $slide_link }}">
+                        {{ $slide_intro }}
                       </a>
                     {{ end }}
                     {{ if $slide_headline }}
-                      <a href="//{{ $slide_link }}">
-                        <div class="slide-headline">
-                          {{ $slide_headline }}
-                        </div>
+                      <a class="slide-headline slide-field" href="//{{ $slide_link }}">
+                        {{ $slide_headline }}
                       </a>
                     {{ end }}
                     {{ if $slide_subhead }}
-                      <a href="//{{ $slide_link }}">
-                        <div class="slide-subhead">
-                          {{ $slide_subhead }}
-                        </div>
+                      <a class="slide-subhead slide-field" href="//{{ $slide_link }}">
+                        {{ $slide_subhead }}
                       </a>
                     {{ end }}
                   </figcaption>
