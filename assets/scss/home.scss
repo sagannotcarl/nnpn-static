@@ -1,0 +1,136 @@
+body.home {
+  section.main {
+    h2 {
+      margin-left: $large-spacing;
+
+      @media(min-width: $normal) {
+        margin-left: 0;
+      }
+    }
+
+    @media(min-width: $normal) {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+    }
+  }
+
+  h2.updates,
+  h2.members {
+    margin-top: $large-spacing;
+  }
+
+  h2.rolling-premiers {
+    grid-row: 1;
+    grid-column: 1 / span 8;
+  }
+
+  .content.rolling-premiers {
+    grid-row: 2;
+    grid-column: 1 / span 8;
+
+    @media(min-width: $normal) {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      column-gap: $large-spacing;
+    }
+  }
+
+  h2.updates {
+    grid-row: 3;
+    grid-column: 1 / span 2;
+  }
+
+  .content.updates {
+    grid-row: 4;
+    grid-column: 1 / span 3;
+  }
+
+  h2.members {
+    grid-row: 3;
+    grid-column: 4 / span 5;
+  }
+
+  .content.members {
+    columns: 2;
+    grid-row: 4;
+    grid-column: 4 / span 5;
+
+    @media(min-width: $normal) {
+      columns: 2;
+    }
+
+    ul {
+      @include item-list;
+    }
+  }
+}
+
+.slide-intro {
+  font-size: $xx-small-fz;
+  font-family: $gotham;
+  font-weight: $black-fw;
+  color: $lime;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+  @media (min-width: $narrow) {
+    font-size: 15px;
+  }
+
+  @media (min-width: $normal) {
+    font-size: $xx-large-fz;
+  }
+}
+
+.slide-headline {
+  font-size: $medium-fz;
+  line-height: 1em;
+  font-family: $gotham-narrow-ultra;
+  font-weight: $ultra-fw;
+  color: $white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+  @media (min-width: $narrow) {
+    font-size: 40px;
+  }
+
+  @media (min-width: $normal) {
+    font-size: 51px;
+  }
+}
+
+.slide-subhead {
+  font-size: $xx-small-fz;
+  font-family: $gotham;
+  font-weight: $book-fw;
+  color: $white;
+  text-transform: uppercase;
+  margin-bottom: 0;
+
+  @media (min-width: $narrow) {
+    font-size: 15px;
+    line-height: 1em;
+  }
+
+  @media (min-width: $normal) {
+    font-size: $x-large-fz;
+    line-height: 1em;
+  }
+}
+
+.slide-link {
+  font-size: $xx-small-fz;
+  font-family: $gotham-narrow;
+  font-weight: $black-fw;
+  text-transform: uppercase;
+  color: $lime;
+
+  @media (min-width: $narrow) {
+    font-size: 15px;
+  }
+
+  @media (min-width: $normal) {
+    font-size: $large-fz;
+  }
+}

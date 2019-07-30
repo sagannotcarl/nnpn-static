@@ -11,9 +11,16 @@
       <div class="banner-image">
         {{ $caption := .Params.banner_caption }}
         {{ with .Page.Resources.GetMatch ("images/banner/*") }}
-          {{ $image := .Fill "1220x425 Center" }}
+          {{ $wide := .Fill "1220x425 Center" }}
+          {{ $normal := .Fill "980x340 Center" }}
+          {{ $narrow := .Fill "740x258 Center" }}
           <figure>
-            <img src="{{ $image.RelPermalink }}">
+            <img  src="{{ $normal.RelPermalink }}"
+                  srcset="{{ $wide.RelPermalink }} 1220w,
+                          {{ $normal.RelPermalink }} 980w
+                          {{ $narrow.RelPermalink }} 740w"
+                  sizes= "100vw"
+            >
             {{ if $caption }}
               <figcaption>
                   {{ $caption | markdownify }}

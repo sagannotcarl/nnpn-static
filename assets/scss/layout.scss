@@ -5,13 +5,13 @@ footer.site-footer, {
   margin: auto;
 
   @media (min-width: $narrow) {
-    max-width: $narrow;
+    max-width: $narrow - ($outside-gutter-spacing * 2);
   }
   @media (min-width: $normal) {
-    max-width: $normal;
+    max-width: $normal - ($outside-gutter-spacing * 2);
   }
   @media (min-width: $wide) {
-    max-width: $wide;
+    max-width: $wide - ($outside-gutter-spacing * 2);
   }
 }
 
