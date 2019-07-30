@@ -3,6 +3,7 @@ title:      "International Exchange"
 identifier: "international-exchange"
 menu:       "programs"
 type:       "programs"
+weight:     10
 related:
 - International Exchange
 ---

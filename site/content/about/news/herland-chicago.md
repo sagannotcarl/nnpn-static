@@ -1,5 +1,6 @@
 ---
 title:  "The 85th NNPN Rolling World Premiere, HERLAND by Grace McLeod Rolls into Chicago"
+type:   "news"
 date:   2019-03-14
 ---
 

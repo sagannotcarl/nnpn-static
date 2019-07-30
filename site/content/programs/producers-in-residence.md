@@ -3,6 +3,7 @@ title:      "Producers in Residence"
 identifier: "producers-in-residence"
 menu:       "programs"
 type:       "programs"
+weight:     8
 related:
 - Producers in Residence
 ---

@@ -3,6 +3,7 @@ title:          "New Play Exchange®"
 identifier:     "new-play-exchange"
 menu:           "programs"
 type:           "programs"
+weight:         2
 banner_caption: "IN A WORD by Lauren Yee at Cleveland Public Theatre"
 ---
 

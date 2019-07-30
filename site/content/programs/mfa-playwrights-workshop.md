@@ -3,6 +3,7 @@ title:      "MFA Playwrights’ Workshop"
 identifier: "mfa-playwrights-workshop"
 menu:       "programs"
 type:       "programs"
+weight:     9
 related:
 - MFA Playwrights’ Workshop
 ---

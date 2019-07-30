@@ -12,17 +12,25 @@
       <div class="content rolling-premiers">
         {{ range first 3 (where .Pages ".Params.type" "==" "rolling_premier") }}
           <div class="rolling-premier-entry">
-            <h3>{{ .Title }}</h3>
-            <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+            <header>
+              <h3>{{ .Title }}</h3>
+              <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+            </header>
             {{ .Content }}
           </div>
         {{ end }}
       </div>
       <h2 class="updates">Updates</h2>
       <div class="content updates">
-        {{ range first 4 (where .Pages ".Params.type" "==" "news") }}
-          {{ .Title }}
+        <ul class="news-item-list">
+        {{ range first 4 (where .Pages.ByDate.Reverse ".Params.type" "==" "news") }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              {{ .Title }}
+            </a>
+          </li>
         {{ end }}
+        </ul>
       </div>
       <h2 class="members">Core Members</h2>
       <div class="content members">

@@ -1,6 +1,21 @@
-section.main {
-  max-width: $wide;
+header.site-header,
+section.banner,
+section.main,
+footer.site-footer, {
   margin: auto;
+
+  @media (min-width: $narrow) {
+    max-width: $narrow;
+  }
+  @media (min-width: $normal) {
+    max-width: $normal;
+  }
+  @media (min-width: $wide) {
+    max-width: $wide;
+  }
+}
+
+section.main {
   column-gap: $large-spacing;
 
   .content {
@@ -28,8 +43,6 @@ section.main.has-sidebar {
 }
 
 section.banner {
-  max-width: $wide;
-  margin: auto;
   margin-bottom: $large-spacing;
 }
 
