@@ -9,9 +9,9 @@
     </section>
     <section class="banner">
       <div class="content carousel">
-        <ul>
+        <ul class="gallery">
         {{ range (where .Pages ".Params.type" "==" "carousel") }}
-          <li>
+          <li class="item">
             <div class="carousel-image">
               {{ $slide_intro := .Params.slide_intro }}
               {{ $slide_headline := .Params.slide_headline }}
@@ -44,6 +44,9 @@
                         {{ $slide_subhead }}
                       </a>
                     {{ end }}
+                    <a class="slide-link slide-field" href="//{{ $slide_link }}">
+                      Learn More »
+                    </a>
                   </figcaption>
                 </figure>
               {{ end }}

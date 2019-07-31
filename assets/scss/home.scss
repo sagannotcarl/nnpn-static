@@ -98,7 +98,7 @@ body.home {
     background-color: rgba(0, 0, 0, 0.9);
     padding: 15px;
 
-    @media (min-width: $narrow) {
+    @media (min-width: $normal) {
       position: absolute;
       width: 50%;
       bottom: 40px;
@@ -173,12 +173,14 @@ a.slide-subhead {
   }
 }
 
-.slide-link {
+a.slide-link {
+  display: block;
   font-size: $xx-small-fz;
   font-family: $gotham-narrow;
   font-weight: $black-fw;
   text-transform: uppercase;
   color: $lime;
+  margin-top: 1em;
 
   @media (min-width: $narrow) {
     font-size: 15px;

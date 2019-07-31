@@ -11,14 +11,14 @@
       <div class="banner-image">
         {{ $caption := .Params.banner_caption }}
         {{ with .Page.Resources.GetMatch ("images/banner/*") }}
-          {{ $wide := .Fill "1220x425 Center" }}
-          {{ $normal := .Fill "980x340 Center" }}
-          {{ $narrow := .Fill "740x258 Center" }}
+          {{ $wide := .Fill "1180x425 Center" }}
+          {{ $normal := .Fill "940x340 Center" }}
+          {{ $narrow := .Fill "700x258 Center" }}
           <figure>
             <img  src="{{ $normal.RelPermalink }}"
-                  srcset="{{ $wide.RelPermalink }} 1220w,
-                          {{ $normal.RelPermalink }} 980w
-                          {{ $narrow.RelPermalink }} 740w"
+                  srcset="{{ $wide.RelPermalink }} 1180w,
+                          {{ $normal.RelPermalink }} 940w
+                          {{ $narrow.RelPermalink }} 700w"
                   sizes= "100vw"
             >
             {{ if $caption }}

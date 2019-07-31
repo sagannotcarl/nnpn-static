@@ -208,16 +208,18 @@ section.banner {
 
 .banner-image {
   img {
+    width: 100%;
+
     @media (min-width: $narrow) {
-      width: $narrow;
+      width: $narrow - ($outside-gutter-spacing * 2);;
     }
 
     @media (min-width: $normal) {
-      width: $normal;
+      width: $normal - ($outside-gutter-spacing * 2);;
     }
 
     @media (min-width: $wide) {
-      width: $wide;
+      width: $wide - ($outside-gutter-spacing * 2);;
     }
   }
   figcaption {
