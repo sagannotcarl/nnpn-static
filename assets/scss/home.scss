@@ -65,10 +65,8 @@ body.home {
   }
 }
 
-.carousel {
-  ul {
-    @include item-list;
-  }
+ul.carousel {
+  @include item-list;
 }
 
 .carousel-image {

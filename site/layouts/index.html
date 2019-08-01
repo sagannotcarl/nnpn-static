@@ -8,10 +8,9 @@
       {{ partial "header" . }}
     </section>
     <section class="banner">
-      <div class="content carousel">
-        <ul class="gallery">
+      <ul class="content carousel" data-flickity='{ "wrapAround": true, "imagesLoaded": true }'>
         {{ range (where .Pages ".Params.type" "==" "carousel") }}
-          <li class="item">
+          <li class="carousel-item">
             <div class="carousel-image">
               {{ $slide_intro := .Params.slide_intro }}
               {{ $slide_headline := .Params.slide_headline }}
@@ -56,8 +55,7 @@
             </a>
           </li>
         {{ end }}
-        </ul>
-      </div>
+      </ul>
     </section>
     <section class="main">
       <h2 class="rolling-premiers">Current Rolling World Premieres</h2>
