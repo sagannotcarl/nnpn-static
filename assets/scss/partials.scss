@@ -305,3 +305,34 @@ a.more-link {
   color: $medium-gray;
 }
 
+.testimonial {
+  text-transform: uppercase;
+  padding: 0 $outside-gutter-spacing;
+
+  @media (min-width: $narrow) {
+    padding: 0;
+  }
+}
+
+.testimonial-text {
+  color: $lime;
+  line-height: 1.5em;
+  font-weight: $medium-fw;
+  font-size: 16px;
+
+  @media (min-width: $narrow) {
+    font-size: 23px;
+    line-height: 2em;
+  }
+}
+
+.textimonial-attribution {
+  color: $white;
+  font-size: 13px;
+  margin-top: $small-spacing;
+
+  @media (min-width: $narrow) {
+    font-size: 15px;
+  }
+}
+

@@ -1,3 +1,4 @@
+.testimonial-inner,
 header.site-header,
 section.banner,
 section.main,
@@ -57,6 +58,13 @@ section.header {
 
 section.footer {
   background-color: $white;
+  overflow: auto;
+}
+
+section.testimonial {
+  background-color: $deep-gray;
   margin-top: $x-large-spacing * 2;
+  padding-top: $x-large-spacing;
+  padding-bottom: $x-large-spacing;
   overflow: auto;
 }
