@@ -1,0 +1,49 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:0.55
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+          name: "Debugging"
+          command: pwd && ls -al ~/project && ls -al ~/project/site
+      - run:
+          name: "Run Hugo"
+          command: hugo -v -s ~/project/site -d ~/project/public
+      - run:
+          name: "Test site"
+          command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - persist_to_workspace:
+          root: /root/project
+          paths:
+            - public
+  deploy:
+    docker:
+      - image: google/cloud-sdk
+    working_directory: ~/project
+    steps:
+      - attach_workspace:
+          at: /root/project
+      - run:
+          name: Store Service Account
+          command: echo $GCLOUD_SERVICE_KEY > ${HOME}/gcloud-service-key.json
+      - run: |
+          gcloud auth activate-service-account --key-file=${HOME}/gcloud-service-key.json
+          gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
+          gcloud --quiet config set compute/zone ${GOOGLE_COMPUTE_ZONE}
+      - run: |
+          ls ~/project
+          ls ~/project/public
+      - run:
+          name: Push compiled files
+          command: gsutil rsync -R ~/project/public/ gs://www.workablenetwork.com
+workflows:
+  version: 2
+  workflow:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
