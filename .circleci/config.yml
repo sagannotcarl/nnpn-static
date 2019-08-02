@@ -13,6 +13,9 @@ jobs:
           name: "Run Hugo"
           command: hugo -v -s ~/project/site -d ~/project/public
       - run:
+          name: "Debugging build"
+          command: pwd && ls -al ~/project && ls -al ~/project/public
+      - run:
           name: "Test site"
           command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - persist_to_workspace:
