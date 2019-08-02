@@ -12,11 +12,9 @@ jobs:
       - run:
           name: "Run Hugo"
           command: hugo -v -s ~/project/site -d ~/project/public
-      - run:
-          name: "Webpack"
-          commands:
-            - npm install
-            - npm run build
+      - run: |
+          npm install
+          npm run build
       - run:
           name: "Debugging build"
           command: pwd && ls -al ~/project && ls -al ~/project/public
