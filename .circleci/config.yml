@@ -37,6 +37,7 @@ jobs:
       - image: cibuilds/hugo:0.55
     working_directory: ~/project
     steps:
+      - run:
           name: "Debugging build"
           command: pwd && ls -al ~/project && ls -al ~/project/public
       - run:
