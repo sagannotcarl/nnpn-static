@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  hugo:
     docker:
       - image: cibuilds/hugo:0.55
     working_directory: ~/project
@@ -12,9 +12,6 @@ jobs:
       - run:
           name: "Run Hugo"
           command: hugo -v -s ~/project/site -d ~/project/public
-      - run: |
-          npm install
-          npm run build
       - run:
           name: "Debugging build"
           command: pwd && ls -al ~/project && ls -al ~/project/public
@@ -25,6 +22,26 @@ jobs:
           root: /root/project
           paths:
             - public
+  webpack:
+    docker:
+      - image: node/10-stretch
+    working_directory: ~/project
+    steps:
+      - attach_workspace:
+          at: /root/project
+      - run: |
+          npm install
+          npm run build
+  verify:
+    docker:
+      - image: cibuilds/hugo:0.55
+    working_directory: ~/project
+    steps:
+          name: "Debugging build"
+          command: pwd && ls -al ~/project && ls -al ~/project/public
+      - run:
+          name: "Test site"
+          command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
   deploy:
     docker:
       - image: google/cloud-sdk
