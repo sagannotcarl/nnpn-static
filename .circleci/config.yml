@@ -67,7 +67,11 @@ workflows:
   version: 2
   workflow:
     jobs:
-      - build
-      - deploy:
+      - hugo
+      - webpack:
           requires:
-            - build
+            - hugo
+      - verify:
+          requires:
+            - hugo
+            - webpack
