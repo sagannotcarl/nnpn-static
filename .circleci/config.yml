@@ -16,6 +16,8 @@ jobs:
           command: pwd && ls -al ~/project && ls -al ~/project/public
       - persist_to_workspace:
           root: /root/project
+          paths:
+            - public
   webpack:
     docker:
       - image: circleci/node:10-stretch
