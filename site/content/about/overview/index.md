@@ -39,4 +39,4 @@ Collaboration is indispensable to the success of new plays.
 
 NNPN has recently launched a new strategic plan that will help us and the field move towards “the robust, equitable new play ecosystem we envision.”
 
-Check out NNPN's FY20-25 Strategic Plan’s [Executive Summary here](nationalnewplaynetwork013-my.sharepoint.com/:b:/g/personal/admin_nnpn_org/Ebaz9F7MZjdJohAKVWwJc7UBPzXaFcZK-0UBxdvDFEWVzA?e=qeBtR7).
+Check out NNPN's FY20-25 Strategic Plan’s [Executive Summary here](//nationalnewplaynetwork013-my.sharepoint.com/:b:/g/personal/admin_nnpn_org/Ebaz9F7MZjdJohAKVWwJc7UBPzXaFcZK-0UBxdvDFEWVzA?e=qeBtR7).
