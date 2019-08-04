@@ -23,11 +23,11 @@ jobs:
       - image: circleci/node:10-stretch
     working_directory: ~/project
     steps:
+      - attach_workspace:
+          at: /home/circleci/project
       - run:
           name: "Debugging attach"
           command: pwd && ls -al ~/project && ls -al ~/project/public
-      - attach_workspace:
-          at: /home/circleci/project
       - run: |
           npm install
           npm run build
