@@ -23,6 +23,9 @@ jobs:
       - image: circleci/node:10-stretch
     working_directory: ~/project
     steps:
+      - run:
+          name: "Create directory"
+          command: mkdir project
       - attach_workspace:
           at: /root/project
       - run: |
