@@ -15,10 +15,7 @@ jobs:
           name: "Debugging build"
           command: pwd && ls -al ~/project && ls -al ~/project/public
       - persist_to_workspace:
-          # root: /root/project
-          root: .
-          paths:
-            - project
+          root: /root/project
   webpack:
     docker:
       - image: circleci/node:10-stretch
