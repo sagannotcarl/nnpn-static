@@ -18,7 +18,7 @@ jobs:
             - public
   webpack:
     docker:
-      - image: node/10-stretch
+      - image: circleci/node:10-stretch
     working_directory: ~/project
     steps:
       - attach_workspace:
