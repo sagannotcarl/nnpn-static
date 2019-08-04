@@ -43,6 +43,11 @@ jobs:
       - image: cibuilds/hugo:0.55
     working_directory: ~/project
     steps:
+      - attach_workspace:
+          at: /root/project
+      - run:
+          name: "Debugging attach"
+          command: pwd && ls -al ~/project && ls -al ~/project/public
       - run:
           name: "Test site"
           command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
