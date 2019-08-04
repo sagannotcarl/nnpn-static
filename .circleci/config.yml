@@ -24,19 +24,20 @@ jobs:
     working_directory: ~/project
     steps:
       - run:
-          name: "Create directory"
-          command: mkdir project
-      - run:
           name: "Debugging attach"
           command: pwd && ls -al ~/project && ls -al ~/project/public
       - attach_workspace:
-          at: /root/project
+          at: /home/circleci/project
       - run: |
           npm install
           npm run build
       - run:
           name: "Debugging webpack"
           command: pwd && ls -al ~/project && ls -al ~/project/public
+      - persist_to_workspace:
+          root: /home/circleci/project
+          paths:
+            - public
   verify:
     docker:
       - image: cibuilds/hugo:0.55
