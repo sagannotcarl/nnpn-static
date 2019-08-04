@@ -6,6 +6,8 @@ jobs:
     working_directory: ~/project
     steps:
       - checkout
+      - attach_workspace:
+          at: /root/project
       - run:
           name: "Run Hugo"
           command: hugo -v -s ~/project/site -d ~/project/public
@@ -13,9 +15,10 @@ jobs:
           name: "Debugging build"
           command: pwd && ls -al ~/project && ls -al ~/project/public
       - persist_to_workspace:
-          root: /root/project
+          # root: /root/project
+          root: .
           paths:
-            - public
+            - project
   webpack:
     docker:
       - image: circleci/node:10-stretch
@@ -67,5 +70,4 @@ workflows:
             - hugo
       - verify:
           requires:
-            - hugo
             - webpack
