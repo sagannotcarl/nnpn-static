@@ -7,17 +7,11 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Debugging"
-          command: pwd && ls -al ~/project && ls -al ~/project/site
-      - run:
           name: "Run Hugo"
           command: hugo -v -s ~/project/site -d ~/project/public
       - run:
           name: "Debugging build"
           command: pwd && ls -al ~/project && ls -al ~/project/public
-      - run:
-          name: "Test site"
-          command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       - persist_to_workspace:
           root: /root/project
           paths:
@@ -32,14 +26,14 @@ jobs:
       - run: |
           npm install
           npm run build
+      - run:
+          name: "Debugging webpack"
+          command: pwd && ls -al ~/project && ls -al ~/project/public
   verify:
     docker:
       - image: cibuilds/hugo:0.55
     working_directory: ~/project
     steps:
-      - run:
-          name: "Debugging build"
-          command: pwd && ls -al ~/project && ls -al ~/project/public
       - run:
           name: "Test site"
           command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
