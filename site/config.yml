@@ -1,5 +1,4 @@
 ---
-baseURL:                "http://localhost:1313"
 languageCode:           "en-us"
 title:                  "NNPN"
 disableLiveReload:      true
@@ -9,7 +8,7 @@ preservetaxonomynames:  true
 params:
   description:   "National New Play Network"
   author:        "Jordana"
-  title:    "National New Play Network"
+  title:         "National New Play Network"
   no_index:      true
 
 taxonomies:
