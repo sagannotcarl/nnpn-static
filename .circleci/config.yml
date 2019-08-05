@@ -63,7 +63,7 @@ jobs:
             - "31:d0:dd:9d:39:e6:7f:ac:3a:0b:bc:6a:09:68:0b:15"
       - run:
           name: "Copy files"
-          command: yes | scp -r ~/project/public/* $SSH_USER@$SSH_HOST:/var/www/html
+          command: yes | scp -o StrictHostKeyChecking=no -r ~/project/public/* $SSH_USER@$SSH_HOST:/var/www/html
 workflows:
   version: 2
   workflow:
