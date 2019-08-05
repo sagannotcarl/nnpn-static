@@ -208,6 +208,11 @@ li.program-entry {
   padding-bottom: $medium-spacing;
   margin-bottom: $medium-spacing;
 
+  p {
+    font-size: 15px;
+    line-height: 22px;
+  }
+
   .artist-name {
     font-weight: $black-fw;
   }
