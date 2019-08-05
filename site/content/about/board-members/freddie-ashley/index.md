@@ -1,5 +1,6 @@
 ---
 title:      "Freddie Ashley"
+image:      "freddie_ashley.jpg"
 related:
 - Board of Directors
 ---

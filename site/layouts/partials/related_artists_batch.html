@@ -4,11 +4,13 @@
 <ul class="program-entry-list">
   {{ range where (where . "Params.current" "==" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
-    {{ with .Page.Resources.GetMatch ("images/*") }}
-      <div class="artist-photo">
-        {{ $image := .Fill "260x260 Center" }}
-        <img src="{{ $image.RelPermalink }}">
-      </div>
+    {{ if .Params.image }}
+      {{ with .Page.Resources.GetMatch (.Params.image) }}
+        <div class="artist-photo">
+          {{ $image := .Fill "260x260 Center" }}
+          <img src="{{ $image.RelPermalink }}">
+        </div>
+      {{ end }}
     {{ end }}
     <div class="entry-data">
       {{ if .Params.url }}
@@ -26,11 +28,13 @@
 <ul class="program-entry-list">
   {{ range where (where . "Params.current" "!=" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
-    {{ with .Page.Resources.GetMatch ("images/*") }}
-      <div class="artist-photo">
-        {{ $image := .Fill "260x260 Center" }}
-        <img src="{{ $image.RelPermalink }}">
-      </div>
+    {{ if .Params.image }}
+      {{ with .Page.Resources.GetMatch (.Params.image) }}
+        <div class="artist-photo">
+          {{ $image := .Fill "260x260 Center" }}
+          <img src="{{ $image.RelPermalink }}">
+        </div>
+      {{ end }}
     {{ end }}
     <div class="entry-data">
       {{ if .Params.url }}

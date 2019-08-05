@@ -1,5 +1,6 @@
 ---
 title:      "Nan Barnett"
+image:      "csh_0003.jpg"
 related:
 - Staff
 ---
