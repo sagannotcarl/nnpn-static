@@ -58,19 +58,12 @@ jobs:
     steps:
       - attach_workspace:
           at: /root/project
+      - add_ssh_keys:
+          fingerprints:
+            - "31:d0:dd:9d:39:e6:7f:ac:3a:0b:bc:6a:09:68:0b:15"
       - run:
-          name: Store Service Account
-          command: echo $GCLOUD_SERVICE_KEY > ${HOME}/gcloud-service-key.json
-      - run: |
-          gcloud auth activate-service-account --key-file=${HOME}/gcloud-service-key.json
-          gcloud --quiet config set project ${GOOGLE_PROJECT_ID}
-          gcloud --quiet config set compute/zone ${GOOGLE_COMPUTE_ZONE}
-      - run: |
-          ls ~/project
-          ls ~/project/public
-      - run:
-          name: Push compiled files
-          command: gsutil rsync -R ~/project/public/ gs://www.workablenetwork.com
+          name: "Copy files"
+          command: scp -r site/public/* $SSH_USER@$SSH_HOST:/var/www/html
 workflows:
   version: 2
   workflow:
@@ -82,3 +75,6 @@ workflows:
       - verify:
           requires:
             - webpack
+      - deploy:
+          requires:
+            - verify
