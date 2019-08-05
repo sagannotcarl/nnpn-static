@@ -8,7 +8,7 @@
       {{ partial "header" . }}
     </section>
     <section class="banner">
-      <ul class="content carousel" data-flickity='{ "wrapAround": true, "imagesLoaded": true }'>
+      <ul class="content carousel" data-flickity='{ "wrapAround": true, "imagesLoaded": true , "autoPlay": true }'>
         {{ range (where .Pages ".Params.type" "==" "carousel") }}
           <li class="carousel-item">
             <div class="carousel-image">
@@ -86,6 +86,9 @@
       <div class="content members">
         {{ .Content }}
       </div>
+    </section>
+    <section class="testimonial">
+      {{ partial "testimonial" . }}
     </section>
     <section class="footer">
       {{ partial "footer" . }}

@@ -1,8 +1,10 @@
 ---
-title:        "Support"
-identifier:   "support"
-menu:         "top"
-weight:       2
+title:                    "Support"
+identifier:               "support"
+menu:                     "top"
+testimonial_text:         "I am not only a better writer because of my association with NNPN, but I am a better artist and - through witnessing firsthand their generosity - a better person."
+testimonial_attribution:  "Sean Christopher Lewis, *Playwright and a participant in 5 NNPN Programs*"
+weight:                    2
 ---
 
 {{< donate >}}

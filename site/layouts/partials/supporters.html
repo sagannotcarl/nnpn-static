@@ -1,0 +1,12 @@
+<ul class="supporter-item-list">
+  {{ range (where .Site.Pages ".Params.type" "==" "supporter") }}
+      <li class="supporter-item">
+        {{ with .Page.Resources.GetMatch ("images/*") }}
+          {{ $image := .Fit "240x240" }}
+          <figure>
+            <img src="{{ $image.RelPermalink }}" />
+          </figure>
+        {{ end }}
+      </li>
+  {{ end }}
+</ul>

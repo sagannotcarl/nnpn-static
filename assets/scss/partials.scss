@@ -96,8 +96,10 @@ footer.site-footer {
   text-align: center;
   padding-top: $large-spacing;
   padding-bottom: $large-spacing;
+  border-bottom: 1px dotted $black;
 
-  .footer-address {
+  .footer-address,
+  .footer-copyright {
     font-size: 13px;
     line-height: 21px;
   }
@@ -107,12 +109,20 @@ footer.site-footer {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
 
+    &.supporters {
+      display: block; // Supporters should just float, not grid
+    }
+
     .footer-nav {
       grid-column: 1 / span 5;
     }
 
     .footer-address {
       grid-column: 6 / span 2;
+    }
+
+    .footer-copyright {
+      grid-column: 1 / span 4;
     }
 
     .footer-share {
@@ -168,6 +178,25 @@ footer.site-footer {
     a {
       font-size: 13px;
       line-height: 21px;
+    }
+  }
+
+  .supporter-item-list {
+    @include item-list;
+
+    overflow: auto;
+  }
+
+  .supporter-item {
+    margin-bottom: $large-spacing;
+
+    @media (min-width: $narrow) {
+      float: left;
+      margin-right: $x-large-spacing;
+    }
+
+    img {
+      width: 120px;
     }
   }
 }
@@ -241,6 +270,8 @@ section.banner {
 }
 
 .rolling-premier-entry {
+  margin-bottom: $x-large-spacing;
+
   h3 {
     font-style: italic;
     margin-bottom: 0;

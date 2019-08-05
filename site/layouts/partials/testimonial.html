@@ -1,8 +1,12 @@
-<div class="testimonial-inner">
-  <div class="testimonial-text">
-    “{{ .Params.testimonial_text | markdownify }}”
+{{ if .Params.testimonial_text }}
+  <div class="testimonial-inner">
+    <div class="testimonial-text">
+      “{{ .Params.testimonial_text | markdownify }}”
+    </div>
+    {{ if .Params.testimonial_attribution }}
+      <div class="textimonial-attribution">
+        — {{ .Params.testimonial_attribution | markdownify }}
+      </div>
+    {{ end }}
   </div>
-  <div class="textimonial-attribution">
-    — {{ .Params.testimonial_attribution | markdownify }}
-  </div>
-</div>
+{{ end }}
