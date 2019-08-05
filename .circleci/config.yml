@@ -53,7 +53,7 @@ jobs:
           command: htmlproofer ~/project/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
   deploy:
     docker:
-      - image: google/cloud-sdk
+      - image: circleci/node:10-stretch
     working_directory: ~/project
     steps:
       - attach_workspace:
@@ -63,7 +63,7 @@ jobs:
             - "31:d0:dd:9d:39:e6:7f:ac:3a:0b:bc:6a:09:68:0b:15"
       - run:
           name: "Copy files"
-          command: scp -r site/public/* $SSH_USER@$SSH_HOST:/var/www/html
+          command: scp -r ~/project/public/* $SSH_USER@$SSH_HOST:/var/www/html
 workflows:
   version: 2
   workflow:
