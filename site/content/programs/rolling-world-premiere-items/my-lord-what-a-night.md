@@ -5,7 +5,7 @@ author:   "Deborah Brevoort"
 current:  "true"
 type:     "rolling_premier"
 related:
-- Rolling World Premieres
+- Rolling World Premier Plays
 ---
 
 **Contemporary American Theater Festival - (7/5/2019-7/28/2019)**\

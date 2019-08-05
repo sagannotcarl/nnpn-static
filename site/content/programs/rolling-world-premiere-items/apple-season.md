@@ -5,7 +5,7 @@ author:   "E.M. Lewis"
 current:  "true"
 type:     "rolling_premier"
 related:
-- Rolling World Premieres
+- Rolling World Premier Plays
 ---
 
 **New Jersey Repertory Company**\

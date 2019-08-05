@@ -5,7 +5,7 @@ author:   "Charly Evon Simpson"
 current:  "true"
 type:     "rolling_premier"
 related:
-- Rolling World Premieres
+- Rolling World Premier Plays
 ---
 
 **PlayMakers Repertory Company**\
