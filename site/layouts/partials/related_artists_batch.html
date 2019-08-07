@@ -13,8 +13,8 @@
       {{ end }}
     {{ end }}
     <div class="entry-data">
-      {{ if .Params.url }}
-        <a class="artist-name" href="//{{ .Params.url }}">{{ .Title }}</a>
+      {{ if .Params.link }}
+        <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
       {{ end }}
@@ -37,8 +37,8 @@
       {{ end }}
     {{ end }}
     <div class="entry-data">
-      {{ if .Params.url }}
-        <a class="artist-name" href="//{{ .Params.url }}">{{ .Title }}</a>
+      {{ if .Params.link }}
+        <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
       {{ end }}

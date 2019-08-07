@@ -1,9 +1,10 @@
 ---
-title:      "Addie Gorlin"
-link:       "newplayexchange.org/users/539/addie-gorlin"
-current:    "true"
+title: "Addie Gorlin"
+image: "addie_gorlin.jpg"
+link: "newplayexchange.org/users/539/addie-gorlin"
+current: "true"
 related:
 - Affiliated Artists Council
 ---
 
-[Contact Addie](mailto:addie.gorlin@gmail.com)
+<a href="mailto:addie.gorlin@gmail.com" rel="nofollow">contact Addie</a>
