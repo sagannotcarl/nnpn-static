@@ -63,8 +63,8 @@
         {{ range first 3 (where .Pages ".Params.type" "==" "rolling_premier") }}
           <div class="rolling-premier-entry">
             <header>
-              <h3>{{ .Title }}</h3>
-              <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+              <h3>{{ .Params.play }}</h3>
+              <a class="author-name" href="//{{ .Params.link }}">by {{ .Title }}</a>
             </header>
             {{ .Content }}
           </div>
