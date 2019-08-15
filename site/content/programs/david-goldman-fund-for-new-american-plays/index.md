@@ -3,7 +3,7 @@ title:          "David Goldman Fund for New American Plays"
 identifier:     "david-goldman-fund-for-new-american-plays"
 menu:           "programs"
 type:           "programs"
-weight:         2
+weight:         3
 related:
 - David Goldman Fund for New American Plays
 ---

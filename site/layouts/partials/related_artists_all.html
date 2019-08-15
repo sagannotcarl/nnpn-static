@@ -3,11 +3,13 @@
 <ul class="program-entry-list">
   {{ range where . "Params.type" "!=" "programs" }}
   <li class="program-entry">
-    {{ with .Page.Resources.GetMatch ("images/*") }}
-      <div class="artist-photo">
-        {{ $image := .Fill "260x260 Center" }}
-        <img src="{{ $image.RelPermalink }}">
-      </div>
+    {{ if .Params.image }}
+      {{ with .Page.Resources.GetMatch (.Params.image) }}
+        <div class="artist-photo">
+          {{ $image := .Fill "260x260 Center" }}
+          <img src="{{ $image.RelPermalink }}">
+        </div>
+      {{ end }}
     {{ end }}
     <div class="entry-data">
       {{ if .Params.link }}
@@ -15,7 +17,7 @@
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
       {{ end }}
-      <div>{{ .Params.program }}</div>
+      <div>{{ .Params.related }}</div>
     </div>
   </li>
   {{ end }}
