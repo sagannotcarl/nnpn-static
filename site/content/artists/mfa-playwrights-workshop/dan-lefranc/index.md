@@ -6,4 +6,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*The Many Means of Mother Meenie *and* Untitled*( Alumni Project)\*Origin Story*, Brown University
+*The Many Means of Mother Meenie *and* Untitled*( Alumni Project)\
+*Origin Story*, Brown University
+

@@ -7,4 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Lingua Ignota* (Alumni Project)\*Skinless*, Hunter College
+*Lingua Ignota* (Alumni Project)\
+*Skinless*, Hunter College
+

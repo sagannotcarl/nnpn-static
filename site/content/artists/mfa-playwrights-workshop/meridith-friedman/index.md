@@ -7,4 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*The Luckiest People* (Alumni Project)\*Blue Monday*, Nothwestern University
+*The Luckiest People* (Alumni Project)\
+*Blue Monday*, Nothwestern University
+

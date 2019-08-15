@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-*Word from Kampala* (Smith Prize)\Workshop: InterAct Theatre Company
+*Word from Kampala* (Smith Prize)\
+Workshop: InterAct Theatre Company
+

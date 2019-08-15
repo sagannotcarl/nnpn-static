@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-*Killadelphia* (Smith Prize)\First Production: InterAct Theatre Company
+*Killadelphia* (Smith Prize)\
+First Production: InterAct Theatre Company
+

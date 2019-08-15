@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-*In A Daughter's Eyes* (Smith Prize)\First Production: InterAct Theatre Company
+*In A Daughter's Eyes* (Smith Prize)\
+First Production: InterAct Theatre Company
+

@@ -15,8 +15,14 @@
     <div class="entry-data">
       {{ if .Params.link }}
         <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
+        {{ if .Params.author }}
+          <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+        {{ end }}
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
+        {{ if .Params.author }}
+          <span>by {{ .Params.author }}</span>
+        {{ end }}
       {{ end }}
       {{ .Content }}
     </div>
@@ -39,8 +45,14 @@
     <div class="entry-data">
       {{ if .Params.link }}
         <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
+        {{ if .Params.author }}
+          <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+        {{ end }}
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
+        {{ if .Params.author }}
+          <span>by {{ .Params.author }}</span>
+        {{ end }}
       {{ end }}
       {{ .Content }}
     </div>

@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-*The Refugees *(Smith Prize)\Nominated: Geva Theatre Center
+*The Refugees *(Smith Prize)\
+Nominated: Geva Theatre Center
+

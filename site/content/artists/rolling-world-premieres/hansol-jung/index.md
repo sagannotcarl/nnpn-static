@@ -1,8 +1,19 @@
 ---
-title: "Hansol Jung"
+title: "Wolf Play"
 image: "hansol-jung-by-beowulf-sheehan.jpg"
 link: "newplayexchange.org/users/2908/hansol-jung"
 current: "true"
 related:
 - Rolling World Premieres
+author: "Hansol Jung"
+type: "rolling_premier"
 ---
+
+**Artists Repertory Theatre**\
+Portland, OR
+
+**Mixed Blood Theatre**\
+Minneapolis, MN
+
+**Company One**\
+Boston, MA

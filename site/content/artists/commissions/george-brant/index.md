@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-*Grounded *(Smith Prize)\First Production: Borderlands Theatre (NNPN Rolling World Premiere)
+*Grounded *(Smith Prize)\
+First Production: Borderlands Theatre (NNPN Rolling World Premiere)
+

@@ -7,4 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Sandblasted* (Alumni Project)\*Jump*, Hunter College
+*Sandblasted* (Alumni Project)\
+*Jump*, Hunter College
+

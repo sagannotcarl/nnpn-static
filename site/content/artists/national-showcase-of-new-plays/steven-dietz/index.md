@@ -8,4 +8,6 @@ related:
 ---
 
 *Rancho Mirage*
+
 *Yankee Tavern*
+

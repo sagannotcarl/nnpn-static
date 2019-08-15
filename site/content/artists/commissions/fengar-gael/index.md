@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-InterAct Theatre Company, *Devil Dog Six*\New Jersey Repertory Theatre, *Soul on Vinyl *
+InterAct Theatre Company, *Devil Dog Six*\
+New Jersey Repertory Theatre, *Soul on Vinyl *
+

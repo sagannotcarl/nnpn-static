@@ -7,4 +7,6 @@ related:
 - Commissions
 ---
 
-*Black Gold* (Smith Prize)\First Production: InterAct Theatre Company (NNPN Rolling World Premiere)
+*Black Gold* (Smith Prize)\
+First Production: InterAct Theatre Company (NNPN Rolling World Premiere)
+

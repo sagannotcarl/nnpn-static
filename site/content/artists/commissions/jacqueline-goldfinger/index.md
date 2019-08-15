@@ -7,4 +7,7 @@ related:
 - Commissions
 ---
 
-*Babel *(Smith Prize)\Nominated and Workshop: Florida Studio Theatre\First Production: Theatre Exile (NNPN Rolling World Premiere)
+*Babel *(Smith Prize)\
+Nominated and Workshop: Florida Studio Theatre\
+First Production: Theatre Exile (NNPN Rolling World Premiere)
+

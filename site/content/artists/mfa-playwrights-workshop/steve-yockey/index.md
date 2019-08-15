@@ -7,4 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Reykjavik* (Alumni Project)\*Afterlife: A Ghost Story*, New York University
+*Reykjavik* (Alumni Project)\
+*Afterlife: A Ghost Story*, New York University
+

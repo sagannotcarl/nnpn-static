@@ -7,4 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Green Whales* (Alumni Project)\*Right Place, Right Time*, Rutgers University
+*Green Whales* (Alumni Project)\
+*Right Place, Right Time*, Rutgers University
+

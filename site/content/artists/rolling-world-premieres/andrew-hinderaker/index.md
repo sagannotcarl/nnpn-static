@@ -1,7 +1,24 @@
 ---
-title: "Andrew Hinderaker"
+title: "Colossal"
 image: "andrew_hinderaker.jpg"
 current: "false"
 related:
 - Rolling World Premieres
+author: "Andrew Hinderaker"
+type: "rolling_premier"
 ---
+
+**Olney Theatre Center**\
+Olney, MD
+
+**Mixed Blood Theatre**\
+Minneapolis, MN
+
+**Dallas Theater Center**\
+Dallas, TX
+
+**Company One**\
+Boston, MA
+
+**Southern Rep Theatre**\
+New Orleans, LA

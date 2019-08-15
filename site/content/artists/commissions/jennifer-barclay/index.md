@@ -7,4 +7,7 @@ related:
 - Commissions
 ---
 
-*Ripe Frenzy *(Smith Prize)\Workshop: Woolly Mammoth Theatre Company\First Production: New Repertory Theatre (NNPN Rolling World Premiere)
+*Ripe Frenzy *(Smith Prize)\
+Workshop: Woolly Mammoth Theatre Company\
+First Production: New Repertory Theatre (NNPN Rolling World Premiere)
+
