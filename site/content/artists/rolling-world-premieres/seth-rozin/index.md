@@ -1,11 +1,11 @@
 ---
-title: "Two Jews Walk Into a War"
+title: "Seth Rozin"
 image: "seth_rozin.jpg"
 link: "newplayexchange.org/users/226/seth-rozin"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Seth Rozin"
+play: "Two Jews Walk Into a War"
 type: "rolling_premier"
 ---
 

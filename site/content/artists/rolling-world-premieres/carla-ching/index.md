@@ -1,11 +1,11 @@
 ---
-title: "Nomad Motel"
+title: "Carla Ching"
 image: "carla_ching.jpg"
 link: "newplayexchange.org/users/1906/carla-ching"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Carla Ching"
+play: "Nomad Motel"
 type: "rolling_premier"
 ---
 

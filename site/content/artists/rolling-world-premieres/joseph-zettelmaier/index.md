@@ -1,11 +1,11 @@
 ---
-title: "PULP"
+title: "Joseph Zettelmaier"
 image: "joseph_zettelmaier.jpg"
 link: "newplayexchange.org/users/3924/joseph-zettelmaier"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Joseph Zettelmaier"
+play: "PULP"
 type: "rolling_premier"
 ---
 

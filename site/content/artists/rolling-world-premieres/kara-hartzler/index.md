@@ -1,9 +1,9 @@
 ---
-title: "Arizona: There Are No Roosters in the Desert"
+title: "Kara Hartzler"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Kara Hartzler"
+play: "Arizona: There Are No Roosters in the Desert"
 type: "rolling_premier"
 ---
 

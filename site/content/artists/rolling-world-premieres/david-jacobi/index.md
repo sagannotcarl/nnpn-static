@@ -1,11 +1,11 @@
 ---
-title: "Ready Steady Yeti Go"
+title: "David Jacobi"
 image: "david_jacobi.jpg"
 link: "newplayexchange.org/users/622/david-jacobi"
 current: "true"
 related:
 - Rolling World Premieres
-author: "David Jacobi"
+play: "Ready Steady Yeti Go"
 type: "rolling_premier"
 ---
 

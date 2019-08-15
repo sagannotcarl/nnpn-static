@@ -1,11 +1,11 @@
 ---
-title: "Charm"
+title: "Kathleen Cahill"
 image: "kathleen_cahill.jpg"
 link: "newplayexchange.org/users/252/kathleen-cahill"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Kathleen Cahill"
+play: "Charm"
 type: "rolling_premier"
 ---
 

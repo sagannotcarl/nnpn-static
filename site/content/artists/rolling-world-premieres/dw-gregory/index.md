@@ -1,11 +1,11 @@
 ---
-title: "Memoirs of a Forgotten Man"
+title: "D.W. Gregory"
 image: "dw_gregory.jpg"
 link: "newplayexchange.org/users/139/dw-gregory"
 current: "true"
 related:
 - Rolling World Premieres
-author: "D.W. Gregory"
+play: "Memoirs of a Forgotten Man"
 type: "rolling_premier"
 ---
 

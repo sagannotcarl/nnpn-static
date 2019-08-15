@@ -1,10 +1,10 @@
 ---
-title: "Sunlight"
+title: "Sharr White"
 image: "sharr_white_1.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Sharr White"
+play: "Sunlight"
 type: "rolling_premier"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Surely Goodness and Mercy"
+title: "Chisa Hutchinson"
 image: "chisa_hutchinson.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Chisa Hutchinson"
+play: "Surely Goodness and Mercy"
 type: "rolling_premier"
 ---
 

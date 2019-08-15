@@ -1,10 +1,10 @@
 ---
-title: "Oedipus El Rey"
+title: "Luis Alfaro"
 image: "luis_alfaro.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Luis Alfaro"
+play: "Oedipus El Rey"
 type: "rolling_premier"
 ---
 

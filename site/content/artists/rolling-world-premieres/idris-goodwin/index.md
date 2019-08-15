@@ -1,11 +1,11 @@
 ---
-title: "Bars and Measures"
+title: "Idris Goodwin"
 image: "idris_goodwin.jpg"
 link: "newplayexchange.org/users/122/idris-goodwin"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Idris Goodwin"
+play: "Bars and Measures"
 type: "rolling_premier"
 ---
 

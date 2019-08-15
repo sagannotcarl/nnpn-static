@@ -1,11 +1,11 @@
 ---
-title: "End Days"
+title: "Deborah Zoe Laufer"
 image: "deb_laufer.jpg"
 link: "newplayexchange.org/users/180/deborah-zoe-laufer"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Deborah Zoe Laufer"
+play: "End Days"
 type: "rolling_premier"
 ---
 

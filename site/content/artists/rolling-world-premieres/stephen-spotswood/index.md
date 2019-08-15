@@ -1,11 +1,11 @@
 ---
-title: "DOUBLEWIDE"
+title: "Stephen Spotswood"
 image: "stephen_spotswood.jpg"
 link: "newplayexchange.org/users/216/stephen-spotswood"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Stephen Spotswood"
+play: "DOUBLEWIDE"
 type: "rolling_premier"
 ---
 

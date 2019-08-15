@@ -1,11 +1,11 @@
 ---
-title: "The Arsonists"
+title: "Jacqueline Goldfinger"
 image: "jacqueline_goldfinger.jpg"
 link: "newplayexchange.org/users/1419/jacqueline-goldfinger"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Jacqueline Goldfinger"
+play: "The Arsonists"
 type: "rolling_premier"
 ---
 

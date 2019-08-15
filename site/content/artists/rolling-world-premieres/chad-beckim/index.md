@@ -1,10 +1,10 @@
 ---
-title: "Lights Rise on Grace"
+title: "Chad Beckim"
 image: "chad_beckim.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Chad Beckim"
+play: "Lights Rise on Grace"
 type: "rolling_premier"
 ---
 

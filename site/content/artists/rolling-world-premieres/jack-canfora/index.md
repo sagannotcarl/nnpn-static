@@ -1,10 +1,10 @@
 ---
-title: "Jericho"
+title: "Jack Canfora"
 image: "jack_canfora.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Jack Canfora"
+play: "Jericho"
 type: "rolling_premier"
 ---
 

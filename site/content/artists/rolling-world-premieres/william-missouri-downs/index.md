@@ -1,11 +1,11 @@
 ---
-title: "Women Playing Hamlet"
+title: "William Missouri Downs"
 image: "william_missouri_downs.jpg"
 link: "newplayexchange.org/users/228/william-missouri-downs"
 current: "false"
 related:
 - Rolling World Premieres
-author: "William Missouri Downs"
+play: "Women Playing Hamlet"
 type: "rolling_premier"
 ---
 

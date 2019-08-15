@@ -1,9 +1,9 @@
 ---
-title: "Ice Glen"
+title: "Joan Ackermann"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Joan Ackermann"
+play: "Ice Glen"
 type: "rolling_premier"
 ---
 

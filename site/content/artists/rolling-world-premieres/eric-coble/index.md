@@ -1,11 +1,11 @@
 ---
-title: "FOR BETTER"
+title: "Eric Coble"
 image: "eric_coble.jpg"
 link: "newplayexchange.org/users/3205/eric-coble"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Eric Coble"
+play: "FOR BETTER"
 type: "rolling_premier"
 ---
 

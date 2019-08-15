@@ -1,11 +1,11 @@
 ---
-title: "I and You"
+title: "Lauren Gunderson"
 image: "lauren_gunderson.jpg"
 link: "newplayexchange.org/users/152/lauren-gunderson"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Lauren Gunderson"
+play: "I and You"
 type: "rolling_premier"
 ---
 

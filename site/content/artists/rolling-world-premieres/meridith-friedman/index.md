@@ -1,11 +1,11 @@
 ---
-title: "The Luckiest People"
+title: "Meridith Friedman"
 image: "meridithweb085_5.jpg"
 link: "newplayexchange.org/users/220/meridith-friedman"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Meridith Friedman"
+play: "The Luckiest People"
 type: "rolling_premier"
 ---
 

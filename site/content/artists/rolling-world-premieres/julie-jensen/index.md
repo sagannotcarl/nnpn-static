@@ -1,11 +1,11 @@
 ---
-title: "WINTER"
+title: "Julie Jensen"
 image: "julie_jensen.jpg"
 link: "newplayexchange.org/users/7849/julie-jensen"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Julie Jensen"
+play: "WINTER"
 type: "rolling_premier"
 ---
 

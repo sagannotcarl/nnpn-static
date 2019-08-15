@@ -1,10 +1,10 @@
 ---
-title: "And Her Hair Went With Her"
+title: "Zina Camblin"
 image: "zina_camblin.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Zina Camblin"
+play: "And Her Hair Went With Her"
 type: "rolling_premier"
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Edith Can Shoot Things and Hit Them"
+title: "A. Rey Pamatmat"
 image: "a_rey_pamatmat.jpg"
 link: "newplayexchange.org/users/633/rey-pamatmat"
 current: "false"
 related:
 - Rolling World Premieres
-author: "A. Rey Pamatmat"
+play: "Edith Can Shoot Things and Hit Them"
 type: "rolling_premier"
 ---
 

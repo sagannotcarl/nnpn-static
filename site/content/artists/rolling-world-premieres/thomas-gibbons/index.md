@@ -1,11 +1,11 @@
 ---
-title: "Permanent Collection"
+title: "Thomas Gibbons"
 image: "thomas_gibbons.jpg"
 link: "newplayexchange.org/users/237/thomas-gibbons"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Thomas Gibbons"
+play: "Permanent Collection"
 type: "rolling_premier"
 ---
 

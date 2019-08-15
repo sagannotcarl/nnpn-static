@@ -1,11 +1,11 @@
 ---
-title: "Se Llama Christina"
+title: "Octavio Solis"
 image: "octavio_solis.jpg"
 link: "newplayexchange.org/users/151/octavio-solis"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Octavio Solis"
+play: "Se Llama Christina"
 type: "rolling_premier"
 ---
 

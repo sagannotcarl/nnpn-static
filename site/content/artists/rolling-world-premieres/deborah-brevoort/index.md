@@ -1,11 +1,11 @@
 ---
-title: "My Lord, What A Night"
+title: "Deborah Brevoort"
 image: "deborah_brevoort.jpeg"
 link: "newplayexchange.org/users/246/deborah-brevoort"
 current: "true"
 related:
 - Rolling World Premieres
-author: "Deborah Brevoort"
+play: "My Lord, What A Night"
 type: "rolling_premier"
 ---
 

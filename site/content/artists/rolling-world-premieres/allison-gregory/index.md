@@ -1,11 +1,11 @@
 ---
-title: "Wild Horses"
+title: "Allison Gregory"
 image: "gregory_allison_headshot_2014.jpg"
 link: "newplayexchange.org/users/1848/allison-gregory"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Allison Gregory"
+play: "Wild Horses"
 type: "rolling_premier"
 ---
 

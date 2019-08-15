@@ -1,10 +1,10 @@
 ---
-title: "The Rant"
+title: "Andrew Case"
 link: "newplayexchange.org/users/682/andrew-case"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Andrew Case"
+play: "The Rant"
 type: "rolling_premier"
 ---
 

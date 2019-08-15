@@ -1,10 +1,10 @@
 ---
-title: "Hazard County"
+title: "Allison Moore"
 image: "alison_moore.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Allison Moore"
+play: "Hazard County"
 type: "rolling_premier"
 ---
 

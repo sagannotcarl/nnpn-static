@@ -1,11 +1,11 @@
 ---
-title: "HALFTIME WITH DON"
+title: "Ken Weitzman"
 image: "ken_weitzman.jpeg"
 link: "newplayexchange.org/users/435/ken-weitzman"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Ken Weitzman"
+play: "HALFTIME WITH DON"
 type: "rolling_premier"
 ---
 

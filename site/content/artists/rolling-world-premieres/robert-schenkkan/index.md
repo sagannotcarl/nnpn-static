@@ -1,10 +1,10 @@
 ---
-title: "Building the Wall"
+title: "Robert Schenkkan"
 image: "robert_schenkkan.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Robert Schenkkan"
+play: "Building the Wall"
 type: "rolling_premier"
 ---
 

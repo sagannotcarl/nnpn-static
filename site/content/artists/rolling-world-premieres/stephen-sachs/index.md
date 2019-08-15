@@ -1,11 +1,11 @@
 ---
-title: "Bakersfield Mist"
+title: "Stephen Sachs"
 image: "stephen_sachs.jpg"
 link: "newplayexchange.org/users/625/stephen-sachs"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Stephen Sachs"
+play: "Bakersfield Mist"
 type: "rolling_premier"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "26 Miles"
+title: "Quiara Alegria Hudes"
 image: "quiara_alegria_hudes.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Quiara Alegria Hudes"
+play: "26 Miles"
 type: "rolling_premier"
 ---
 

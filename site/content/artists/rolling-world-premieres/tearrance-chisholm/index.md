@@ -1,11 +1,11 @@
 ---
-title: "BR’ER COTTON"
+title: "Tearrance Chisholm"
 image: "photo_-_chisholm.jpg"
 link: "newplayexchange.org/users/2288/tearrance-chisholm"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Tearrance Chisholm"
+play: "BR’ER COTTON"
 type: "rolling_premier"
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Shotgun"
+title: "John Biguenet"
 image: "john_biguenet.jpg"
 current: "false"
 related:
 - Rolling World Premieres
-author: "John Biguenet"
+play: "Shotgun"
 type: "rolling_premier"
 ---
 

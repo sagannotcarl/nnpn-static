@@ -1,11 +1,11 @@
 ---
-title: "Apples in Winter"
+title: "Jennifer Fawcett"
 image: "jennifer_fawcett.jpg"
 link: "newplayexchange.org/users/373/jennifer-fawcett"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Jennifer Fawcett"
+play: "Apples in Winter"
 type: "rolling_premier"
 ---
 

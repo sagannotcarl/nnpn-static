@@ -1,11 +1,11 @@
 ---
-title: "DOGS OF RWANDA"
+title: "Sean Christopher Lewis"
 image: "seanclewis.jpg"
 link: "newplayexchange.org/users/233/sean-christopher-lewis"
 current: "false"
 related:
 - Rolling World Premieres
-author: "Sean Christopher Lewis"
+play: "DOGS OF RWANDA"
 type: "rolling_premier"
 ---
 
