@@ -1,0 +1,16 @@
+---
+title: "28 NNPN Member Theaters Kick Off Their Seasons With New Works"
+type: "news"
+date: 2016-09-08
+---
+
+<span class="lead-in">Washington, D.C. - National New Play Network, the country's alliance of nonprofit theaters that champions the development, production, and continued life of new plays, recognizes its Member Theaters that are producing new plays to lead off their 2016-17 seasons.</span>
+
+Four NNPN Rolling World Premieres serve as season openers at Member Theaters: The Firestorm by Meridith Friedman at LOCAL Theater Company (Boulder, CO), How to Use a Knife by Will Snider at Capital Stage (Sacramento, CA), Pulp by Joseph Zettelmaier at Williamston Theatre (MI), and Church and State by Jason Odell Williams at JCC CenterStage (Rochester, NY). These plays will receive 6 additional NNPN sponsored Member Theaters productions this year across the country through the Rolling World Premiere Program, which last season awarded support to 37 productions of 9 plays at 31 Member Theaters.
+
+“NNPN’s Theaters are once again proving that new plays are vital and exciting, and that their audiences are hungering for plays that speak to the issues, themes, and movements of today, “said NNPN Executive Director Nan Barnett. “These companies, along with the many other NNPN theaters that will produce one or more premieres during their season, are destroying the myth that new work is risky or dangerous by confidently providing their communities with fresh perspectives from writers both emerging and established.”
+
+Thirteen Member Theaters are kicking off their seasons with World Premieres. These include eight at Core Member Theaters - Nogales by Richard Montoya at Borderlands Theater (Tuscon, AZ) &amp; Magic Theatre (San Francisco, CA), A Stain Upon the Silence: Beckett’s Bequest by various playwrights at Kitchen Dog Theater (Dallas, TX), El Muerto Vagabundo by Georgina Escobar at Milagro (Portland, OR), Black &amp; Blue by Sean Christopher Lewis at Riverside Theatre (Iowa City, IA), Bull Shark Attack by Troy Deutsch at Salt Lake Acting Company (UT), Manifest Destinis by Herb Siguenza at San Diego REP (CA), and Collective Rage: A Play in 5 Boops by Jen Silverman at Woolly Mammoth Theater Company (Washington, DC). NNPN Associate Members are producing 30 Day Mourning Period by Hank Greene at Bloomington Playwrights Project (IN) , One Big Union by Debora Threedy at Plan B Theatre (Salt Lake City, UT), Body/Courage by Danielle Pinnock at Rivendell Theatre Ensemble (Chicago, IL), The Bottle Tree by Beth Kander at Stage Left Theatre (Chicago, IL), Atlantis by Chad Salvata at VORTEX in a co-production with ethos (Austin, TX), and After by Michael McKeever at Zoetic Stage (Miami, FL).
+
+Eleven Regional Premieres take the first slot at NNPN Core Members Curious Theatre Company (Boulder, CO), Mixed Blood Theatre (Minneapolis, MN), New Repertory Theatre (Watertown, MA), Southern Rep Theatre (New Orleans, LA), as well as Associate Members Artists Repertory Theatre (Portland, OR), Theater Alliance (Washington, DC), Florida Repertory Theatre (Fort Meyers, FL), Moxie Theatre (San Diego, CA), New Conservatory Theatre Center (San Francisco, CA), Northlight Theatre (Skokie, IL), and Oregon Contemporary Theatre (Eugene, OR)
+

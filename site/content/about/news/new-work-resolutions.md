@@ -1,0 +1,110 @@
+---
+title: "New Work Resolutions "
+type: "news"
+date: 2017-01-19
+---
+
+As we said goodbye to 2016 and looked ahead to 2017, we thought about how to go about launching this New Year - the National New Play Network's 20th - of advocating for new work in the American theater. This is, of course, a time like none we’ve encountered before. We can see that there are many challenges on the horizon for our field in the coming year, but we are also aware of our strength and continued capacity for hope and joy, especially in the New Play Community.
+
+This week, as we both celebrate the life and legacy of Martin Luther King, Jr. and mark the beginning of the next presidential administration, we want to share the bold resolve of our leaders, artists, and friends.
+
+These are their 2017 New Work Resolutions.
+
+**Anne Morgan | Literary Manager and Dramaturg | O’Neill Theater Center**\
+I resolve to more actively seek out and share new plays that break me out of my bubble.\
+I resolve to be a more vocal advocate for plays and theaters that celebrate diversity in all its forms.\
+I resolve to spend less time critiquing, and more time celebrating theater's power to move, connect, delight, and provoke.
+
+**Amy E. Witting | Alumni Playwright**\
+In a time of uncertainty and profound change, we can be kind to each other and support bold voices that have the capacity to spark needed conversation.
+
+**Brian James Polak | Playwright &amp; Marketing and Communications Manager | Boston Court Theatre**\
+1) write meaningful work\
+2) write what's necessary\
+3) repeat steps 1 &amp; 2
+
+<span>**Caridad Svich | Alumni Playwright**</span>\
+Do the work. Take action. Don't wait. Rely on each other. Have faith in one another. Question why you do what you do and how you do it. Always. Never give up. Now or ever.
+
+<span>**Chad Eschman | Alumni Playwright**</span>\
+Rage against complacency, collaborate with new artists and celebrate triumphs whenever possible.
+
+**<span>Chip Decker | Artistic Director | Actor’s Theatre of Charlotte</span>**\
+ATC looks forward to our home being one of civil discourse. A home to provide a healing, empowering, nurturing and supportive environment for all people. We will encourage playwrights and fellow companies around the globe not to fear tomorrow, but rather to embrace it fully and open our stages, our minds and our hearts to the myriad of brilliant stories soon to be told. We will have a home where all thoughts and opinions can and will be heard in the hopes that creating a safe space for conversation will lead to a better understanding of our fellow neighbors from coast to coast.  Our home will be your home and together we will discover a place of respect and empathy towards one another.
+
+**D.W. Gregory | Alumni Playwright\
+​**My new work resolution is to draw from the past in order to reflect on the present. The parable and the analogy have never been more potent. Now is the time to tell stories that will energize audiences and illuminate the path forward in a time of crisis.
+
+**Dañel Malán | Artistic Director | Teatro Milagro**\
+It is my hope that in 2017 our national bilingual touring performances and workshops will touch the hearts and minds of college students across the country and encourage them to become more involved in activities that support a just and equitable society.
+
+<span>**Ed Decker | Artistic Director | New Conservatory Theatre Center**</span>\
+New Conservatory Theatre Center of San Francisco remains committed to commissioning and producing new works that support queer and allied voices to effect growth, enlightenment and change. Now, more than ever, we  need to rise up, tell our stories and insist upon inclusiveness, equality and respect. 
+
+**Eleanor Burgess | Alumni Playwright\
+​**I resolve to create bolder and more truthful American work.
+
+**Emily Dendinger | Alumni Playwright**\
+I resolve to write from a place of empathy, compassion, and hope. I'm going to strive to be a better listener, observer, and responder.
+
+<span>**Evren Odcikin | National Directors Fellow**</span>\
+I will actively identify my work as "immigrant work" to fight the narrow definition of  immigrant  from those that vilify us. I will question any company that wants to hire me to make sure they include real, deep community engagement activities as part of their productions. I will make myself available for difficult conversations with and about the communities I represent.
+
+<span>**Fengar Gael | Alumni Playwright**</span>\
+As a playwright I resolve to be more subversive and confrontational, to create characters that speak the unspeakable, question everything and liberate themselves from the tedium of domestic realism on dreary sets, and I resolve to do this while being rude, lewd, plotting the stuff of dreams, and laughing till I weep and dancing till I drop!
+
+**Georgette Kelly | **<span>**Affiliated**</span>** Playwright**\
+My hope for 2017 is to cultivate space where I can do one thing at a time...and focus on that one thing deeply.
+
+**Jacqueline Goldfinger | Affiliated Playwright**\
+"To write more fearlessly. To approach complexity judgment and more curiosity. To more generously share work by others that I feel needs to be seen but is not getting recognized."
+
+**Jacqueline Lawton | Alumni Playwright\
+​**Here' my 2017 New Work Resolution: Bear witness. Listen deeply. Write boldly and bravely. Lead with love. Encourage others. Create space for as many unheard voices as possible. Continue the fight for equity, inclusion, and justice. Serve the greater good. Resist. Resist. Resist.
+
+**<span>Jason Odell Williams</span> | Alumni Playwright **\
+I resolve to use my voice to speak from the pulpit we call the Stage. Excited to bring NNPN RWP @ChurchStatePlay Off-Bway @NewWorldStagesWilliams
+
+<span>**Jerry Rapier | Artistic Director | Plan-B Theatre**</span>\
+We at Plan-B Theatre in Salt Lake City are embracing the challenges of 2017 by adding a play to our 2016/17 season and opening our 2017/18 season with the largest cast play in our 26-year history.
+
+**Jim Knable | Alumni Playwright\
+​**I resolve to write as if I weren’t hopeless, hope as if I knew no better and know that I write because I still have hope.
+
+<span>**Kevin Artigue**</span>** | Alumni Playwright**\
+To ask bigger questions.\
+To go further outside myself for answers.\
+To cheer on artists who write politically engaged work.\
+To not fool myself into thinking that writing plays or telling stories for a living is going to be enough.
+
+**Lavina Jadhwani | Affiliated Director**\
+I resolve to create work and spaces that are more inclusive of artists, audiences, and administrators with disabilities.
+
+<span>**Meghan Beals | Artistic Director | Chicago Dramatists**</span>\
+I resolve to work my ass off to make sure the new canon of American Theatre voices includes those that have historically been excluded.
+
+<span>**Meron Langsner | Alumni Playwright**</span>\
+I resolve to write, revise, and refine with discipline and consistency.\
+To support other artists and to be optimistic about my own work.\
+To speak to the moment we live in and to try to tap into the universal.\
+<span>To make art as an affirmation of life.</span>
+
+**Nan Barnett | Executive Director | National New Play Network**\
+I resolve to enable honest and open dialogue between humans of all stripes by making new works by living playwrights available to every theater-maker and audience member in this great, albeit divided, country.
+
+**Patrice Amon | Producer in Residence | San Diego Repertory Theatre**\
+I hope that this year will bring new opportunities to develop new Latino works in the San Diego bi-national region so that our work will be a voice against the forces that seek to silence.
+
+<span>**Richard Hopkins | Florida Studio Theatre**</span>\
+Well, the presidential election certainly got out attention. It became clear to me that we don’t know what ‘the other’ is thinking. And apparently, many don't know who the ‘other’ is. The theatrical revolution of the past half-century has decentralized the AmericanTheatre.  But we continue to be centered in Blue population areas. And we continue to be ‘centralized” in our ideology. And far too often we demean those in the Red States. <span>I’m in a mixed state and a 50/50 community.</span>  We have red and blue here. And the missing link of thought is shocking. <span>And that’s hurting theatre. </span>We don’t know what the “other” is thinking or feeling. We are too steeped in singular thought. We need diversity of thought just as we pursue diversity of race, ethnicities, gender and sexual orientation. <span>Diversity of thought will lead to plays strong enough to deal with the hot-button issues of our day. </span>Diversity of thought will lead to a stronger theatre.
+
+**Shelia Cowley | Stageworks Theatre**\
+I will write plays that embrace diverse casting.
+
+**<span>Seth Rozin | Artistic Director | InterAct Theatre</span>**\
+I have always believed that playwrights are among the most important chroniclers of our time.  Like journalists, but with less fealty to the "facts on the ground," playwrights seek to get at a truth about human existence.  Whether through an entirely fictional story of intimate human relationships or a docudrama drawn entirely from real-life events, a new play communicates the values, ethos, perspectives and/or attitudes of our culture at a moment in time.  Even when we are writing about another culture and/or another time, playwrights are inevitably writing through the lens of our own cultural moment.
+
+At this particular moment, there seems to be a great urgency for theatre artists to contribute to, if not lead a national conversation about valuing diversity, bridging the many divides within our citizenry, resisting a move toward tyranny, asserting the value of truth and facts, and championing those who are the most vulnerable.  And I fully expect that there will be hundreds of plays, fueled by anger and fear and defiance, soon and steadily flooding our inboxes.  This is natural, inevitable and wholly commendable.
+
+But if we have learned anything in this frightening moment in history, it is that most of us live in echo chambers; social media bubbles which reinforce our every opinion and every cause.  So my hope is that playwrights, in our quest for human truth(s), will dig below the surface of our disquiet, and find the truly extraordinary stories to tell; stories that not only hold a mirror up to those in our society with whom we take issue but to ourselves as well.
+

@@ -1,0 +1,33 @@
+---
+title: "The NNPN Rolling World Premiere of WINTER by Julie Jensen Opens at Berkeley's Central Works"
+type: "news"
+date: 2016-07-12
+---
+
+<span class="lead-in">**Washington, D.C.** - <a href="http://nnpn.org/" rel="nofollow">**National New Play Network**</a>**, the country's alliance of nonprofit theaters that champions the development, production, and continued life of new plays, celebrates the opening of **<a href="https://newplayexchange.org/plays/63236/winter" rel="nofollow">***Winter***</a> **by **<a href="https://newplayexchange.org/users/7849/julie-jensen" rel="nofollow">**Julie Jensen**</a>** on the third leg of its Rolling World Premiere at **<a href="http://centralworks.org/winter/" rel="nofollow">**Central Works**</a>** (Berkeley, CA, July 15-August 13, 2017). **The play ran from October 12-November 13, 2016 at NNPN Core Member <a href="http://saltlakeactingcompany.org/this-season/item/1153-winter" rel="nofollow">**Salt Lake Acting Company**</a> (UT) and from January 7-February 11 at Associate Member **<a href="http://rivendelltheatre.org/winter/" rel="nofollow">Rivendell Theatre Ensemble</a> **(Chicago, IL), where it was lauded by both critics and audiences.</span>
+
+The play, which is based on the 1975 short story “Robeck” by Margaret Pabst Battin (published in *Ending Life: Ethics and the Way We Die*, Oxford University Press, 2005), looks at one family’s experience with the decline of old age and the right to die. Chris Jones of the <a href="http://www.chicagotribune.com/entertainment/theater/reviews/ct-winter-review-ent-0118-20170117-column.html" rel="nofollow">*Chicago Tribune*</a> described the play as “sincere and empathetic,” calling Rivendell Theatre Ensemble’s production “deeply moving.” Central Works’ production will open July 15, with one preview on July 14, and run through August 13.
+
+NNPN provides production support to the playwright and the partnering theaters, including assistance with the creation and the contracting of the premiere agreement, collaborative interactions between the theaters, and funds for the playwright's residency in each city to further develop the play.
+
+<h3>ABOUT *WINTER*</h3>
+A beautiful, empowering story about a woman whose once-brilliant mind is now diminishing. Her decline is troubling not only to herself, but to her family, who each have different ideas about what’s right for her. Meanwhile she’s ready to take matters into her own hands. Funny, touching, and very topical, *Winter* is a thought-provoking look at our right to die. Inspired by the story “Robeck” by Margaret Pabst Battin.
+
+<h3>ABOUT JULIE JENSEN</h3>
+Julie Jensen has been writing plays for over 30 years. She has won a dozen awards, among them The Joseph Jefferson Award in Chicago for best new work, the LA Weekly Award for best new play, and The David Mark Cohen National Playwriting Award. She has been commissioned by a dozen theatres including Kennedy Center (twice) and Actors Theatre of Louisville (twice) and Salt Lake Acting Company (twice). She has received grants from NEA, TCG, Pew Charitable Trusts, among others. Her work has been produced in NYC, London, and theatres nationwide, from Arizona to Alaska, from Michigan to Massachusetts, California to Connecticut. Her work is published by Dramatists Play Service, Dramatic Publishing, and Smith and Krause.
+
+She has taught playwriting at five universities, directed a graduate playwriting program, and has written a book on the craft. She is currently the Resident Playwright at Salt Lake Acting Company, board member of the College of Fellows of the American Theatre, and the Regional Representative of the Dramatists Guild of America.  
+
+Her play *Mockingbird*, recently nominated for a Helen Hayes Award, will be produced by six professional theatres this season. And *Winter*, part of the National New Play Network’s Rolling World Premiere, will open at Salt Lake Acting Company and later at theatres in Chicago and Berkeley, CA. SLAC has produced eight world premieres of her work; this is the ninth. Plan-B Theatre and Pygmalion in Salt Lake City have also produced her work.    
+
+She is gratified to have spent her life in the theatre, never to have lost interest in its potential, and counts herself lucky to have benefitted from the efforts the extraordinary people who work in it.
+
+<h3>ABOUT SALT LAKE ACTING COMPANY</h3>
+Salt Lake Acting Company (SLAC)'s mission is to engage and enrich community through brave, contemporary theatre. Founded in 1970 to present innovative and thought-provoking plays for Utah audiences and to nurture a community of local and national professional theatre artists, SLAC is committed to commissioning, developing and producing a year-round season of new work. SLAC has cultivated an engaged and adventurous audience, as evidenced by its ever-growing subscriber base, and is proud to be a champion of new plays.
+
+<h3>ABOUT RIVENDELL THEATRE ENSEMBLE</h3>
+Founded in 1994, Rivendell Theatre Ensemble is an award winning, critically acclaimed professional theatre company committed to advancing the lives of women through theatre. Our goal is to expand theatre with an increased role for women so that our art form more realistically reflects the experiences and perspectives of our full society. In pursuit of that mission, we produce a three-play season in our Edgewater theatre. We recruit and select artists for all roles in order to produce work of the highest quality, with women in most of the roles on- and off-stage. In addition to seasoned professionals we are committed to involving emerging talents in both professional and intern roles to ensure the future of our company and the broader impact of our mission. Rivendell productions are world premieres or Midwest premieres, undergirding our commitment to new voices and meaningful evolution of the American theatre and its audience. In 2015 we launched our first-ever tour with *Women at War*, the world premiere which began our 20th Anniversary season in fall 2014. In 2016 we launched our first-ever educational program for girls age 8 to 12.
+
+<h3>ABOUT CENTRAL WORKS</h3>
+Central Works’ mission is to enrich the cultural environment of our community through the collaborative development and production of new plays for the theater. We are “The New Play Theater.” We write, develop, and produce world premieres, offering our community daring, intimate productions at affordable prices. We bring local theater artists together as partners in the creation and development of challenging new works, while maintaining the highest standards of professionalism and excellence. We think globally, and *<u>act</u>* locally:  we make plays.
+

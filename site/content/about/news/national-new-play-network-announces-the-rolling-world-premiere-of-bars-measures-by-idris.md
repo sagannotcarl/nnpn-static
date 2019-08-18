@@ -1,0 +1,34 @@
+---
+title: "National New Play Network Announces the Rolling World Premiere of BARS & MEASURES by Idris Goodwin"
+type: "news"
+date: 2015-08-25
+---
+
+<span class="lead-in">**Washington, D.C.** - The National New Play Network, the country's alliance of nonprofit theaters that champions the development, production, and continued life of new plays, announces *Bars and Measures* by Idris Goodwin as its 54th Rolling World Premiere. </span>
+
+The play will receive four productions at NNPN Associate Member **B Street Theatre** (Sacramento, CA, August 22-September 27, 2015), Core Member  **PROP Thtr** (Chicago, IL, June 4-July 17 2016), and Associate Members** Jungle Theater** (Minneapolis, MN, September 2-October 16, 2016), and **The Theatre @ Boston Court** (Pasadena, CA, September 17-October 16, 2016).
+
+**ABOUT *BARS AND MEASURES***
+
+Commissioned by B Street Theatre, *Bars and Measures* is the fascinating tale of two brothers. One a classical pianist. The other a jazz bass player. One a Christian. The other a Muslim. One living in freedom. The other in jail. Separated by bars, the brothers try to reconcile their differences through the language they know best. Music. A beautiful journey through faith, family, melody and time.
+
+**ABOUT IDRIS GOODWIN**
+
+Idris Goodwin is a playwright, rapper and essayist. His plays include *How We Got On*, *Remix 38* (Actors Theater of Louisville); *And in this Corner: Cassius Clay* (StageOne Family Theater), *This is Modern Art* (Steppenwolf), *Blackademics* (MPAACT, Crowded Fire). Goodwin is one of the six playwrights featured in *Hands Up* an anthology commissioned by The New Black Fest and presented across the country. Upcoming world premiere productions include *The Realness* (Merrimack Theatre) and *The Raid* (Jackalope Theater). He is the recipient of Oregon Shakespeare’s American History Cycle Commission and InterAct Theater’s 20/20 Award. Goodwin has been a writer in residence at Berkeley Rep's Ground Floor Program, The Lark Playwriting Center and New Harmony Project. An accomplished Hip Hop poet, his albums include *Break Beat Poems* and *Rhyming While Black*. Goodwin was featured on HBO, Sesame Street and Discovery Channel. He is the author of the pushcart nominated essay collection *These are the Breaks* (Write Bloody, 2011). Idris is the co-host and contributor to *Critical Karaoke*, a radio show and podcast about music and culture. Idris teaches performance writing and Hip Hop aesthetics at Colorado College. <a href="http://www.idrisgoodwin.co/" target="_blank" rel="nofollow">idrisgoodwin.co</a>
+
+**ABOUT B STREET THEATRE**
+
+Since bursting into the Sacramento scene, B Street Theatre continues to keep critics raving and audiences coming back for contemporary productions ranging from popular classics to first time debuts. Our two-theatre playhouse on B Street in Midtown is home to our Mainstage, B3 Series and Family Series, each created to house quality, intimate theatre for audiences year-round. Recognized as one of Northern California’s top professional theatres, we’ve produced more than 100 new plays, 60 of which are world, national, West Coast, or regional premieres. <a href="http://bstreettheatre.org/" rel="nofollow">bstreettheatre.org</a>
+
+**ABOUT PROP THTR**
+
+PROP Thtr Group (Chicago, IL) (established 1981) is the oldest surviving off-loop non-equity theater in Chicago, having mounted over 100 world premieres in its 34 year history. The theater's focus is on original or newly adapted works taken from literature. Since 1998 Prop has been producing an annual new play festival. <a href="http://www.propthtr.org/" rel="nofollow">propthtr.org</a>
+
+**ABOUT JUNGLE THEATER**
+
+The Jungle Theater creates dynamic, world-class theater, bringing an artistic depth and poetic fire to plays drawn from our rich theatrical heritage as well as from the body of work written in our own time. The Jungle aspires to create definitive productions that engender an intimate yet powerful relationship between actor and audience, transforming lives with the undeniable magic of the living theater. It also strives to enrich its role as an active and catalytic partner in the cultural and economic life of the neighborhood in which it resides. <a href="http://www.jungletheater.com/" rel="nofollow">jungletheater.com</a>
+
+**ABOUT THE THEATRE @ BOSTON COURT**
+
+Based in Pasadena, CA, The Theatre @ Boston Court produces passionate, artist-driven theatre that challenges both artist and audience, urging its artists to fearlessly and passionately pursue their unique voice and passion. Play selection encompasses a wide variety of genres (with a special emphasis on nurturing playwrights and new play development), which are inherently theatrical, textually rich, and visually arresting. The Theatre @ Boston Court has produced new plays by playwrights such as Luis Alfaro, Sheila Callaghan, Julia Cho, Dan Dietz, Jason Grote, Jordan Harrison, Carlos Murillo, Laura Schellhardt, Octavio Solis, Deborah Stein, Jean Claude Van Itallie, Kathryn Walat, David Wiener, among many others. <a href="http://www.bostoncourt.com/" rel="nofollow">bostoncourt.com</a>
+

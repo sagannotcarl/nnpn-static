@@ -30,6 +30,9 @@
         <h1>
           {{ .Title }}
         </h1>
+        <div class="news-date">
+          {{ .Date.Format "Jan 2, 2006" }}
+        </div>
         {{ .Content }}
         {{ partial "related_artists_batch" . }}
       </div>

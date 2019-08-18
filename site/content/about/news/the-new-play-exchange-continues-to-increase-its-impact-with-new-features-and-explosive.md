@@ -1,0 +1,24 @@
+---
+title: "The New Play Exchange Continues to Increase Its Impact with New Features and Explosive Adoption Rates"
+type: "news"
+date: 2016-04-20
+---
+
+<span class="lead-in">The National New Play Network is thrilled to announce that the New Play Exchange—the world’s largest database of scripts, which provides a variety of services for the new play sector—has just added both its 6,000th user and 8,000th script.</span>\
+ \
+The <a href="https://newplayexchange.org/" rel="nofollow">New Play Exchange</a> (NPX) is a web-based platform that allows playwrights to upload and tag their scripts so that producers can use a variety of search-and-filter tools to find precisely the art and artists they’re looking for. Developed and created with funds from the Doris Duke Charitable Foundation, Andrew W. Mellon Foundation, and the National Endowment for the Arts and launched in January, 2015, the NPX offers different toolsets for writers, literary managers and dramaturgs, and theaters. For many theater artists and administrators, the NPX has become an indispensable tool.\
+ \
+“We’re helping playwrights focus less energy on the mad scramble to get their work seen by people and more time actually making and perfecting plays,” said New Play Exchange Project Director Gwydion Suilebhan, “and we’re making it easier than ever for producers of new work to cut through the noise of new play production and find a clear, useful signal.”\
+ \
+Now, 15 months after launch, the NPX serves more than 6,000 users, including 2,300 playwrights. Those playwrights have uploaded, in total, more than 8,000 scripts. Other users include artistic directors, literary managers, dramaturgs, directors, and agents. More than 200 theaters in the new play sector make use of the New Play Exchange.\
+ \
+“We built the NPX with our members in mind, in partnership with Chicago Dramatists, the Playwrights’ Center, the Playwrights Foundation, and Literary Managers and Dramaturgs of the Americas,” said NNPN Executive Director Nan Barnett, “and now we're thrilled to see that it really does serve a broad spectrum of theaters, from major New York institutions to Chicago storefronts to the regional theaters that constitute the backbone of the new play sector.”\
+ \
+In addition to the ability to share and search for scripts, the NPX allows users to write recommendations of scripts, record private coverage of those scripts, contact playwrights and their agents, make digital reading lists, and save searches to be notified when new work gets uploaded to the database. Theaters can also share opportunities with specific subsets of playwrights whose work meets precise criteria, rather than broadcasting them widely. NPX users can also “watch” each other and thus stay abreast of both new recommendations made by trusted professionals around the country and new scripts uploaded by favorite artists.\
+ \
+“It’s a robust platform meant to serve a variety of inter-related needs for theater professionals,” said Suilebhan. “And it’s only going to grow increasingly more powerful and more effective.”\
+ \
+In the next twelve months, with continued support from the Doris Duke Charitable Foundation and the Andrew W. Mellon Foundation, NNPN plans to expand the NPX by adding curated feeds of genre-specific content, new tools to help theaters assign scripts to readers to provide coverage, and a new portal for higher education users.\
+ \
+“We want to keep growing the New Play Exchange until it’s a must-have tool for anyone working in any part of the new play sector,” said Barnett. “Our goal is to help provide the kind of solid infrastructure that will both serve and transform the field for generations.”
+

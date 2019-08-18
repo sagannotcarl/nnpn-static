@@ -1,0 +1,38 @@
+---
+title: "Sean Christopher Lewis' DOGS OF RWANDA To Receive NNPN Rolling World Premiere"
+type: "news"
+date: 2016-10-14
+---
+
+<span class="lead-in">**Washington, D.C.** - <a href="http://nnpn.org/" rel="nofollow">**National New Play Network**</a>**, the country's alliance of nonprofit theaters that champions the development, production, and continued life of new plays, announces **<a href="https://newplayexchange.org/plays/40963/dogs-rwanda" rel="nofollow">***Dogs of Rwanda***</a> **by **<a href="https://newplayexchange.org/users/233/sean-christopher-lewis" rel="nofollow">**Sean Christopher Lewis**</a>** as its 63rd Rolling World Premiere. **The play will receive four productions, kicking off at NNPN Core Member <a href="http://16thstreettheater.org/sean-lewis-christopher-at-16th-street/" rel="nofollow">**16th Street Theater**</a> (Berwyn, IL, October 21-November 19, 2016), and followed by <a href="http://www.phoenixtheatre.org/" rel="nofollow">**Phoenix Theatre**</a> (Indianapolis, IN, January 6-15, 2017), <a href="http://www.interacttheatre.org/" rel="nofollow">**InterAct Theatre Company**</a> (Philadelphia, PA, June 3-18, 2017, and finishing up at Associate Member <a href="http://www.outofhandtheater.com/" rel="nofollow">**Out of Hand Theater**</a> (Atlanta, GA, September 29-November 19, 2017).</span>
+
+NNPN provides production support to the playwright and the partnering theaters, including assistance with the creation and the contracting of the premiere agreement, collaborative interactions between the theaters, and funds for the playwright's residency in each city to further develop the play.
+
+This Rolling World Premiere is comprised of adventurous programming at each of the partner theaters. 16th Street Theater will produce *Dogs of Rwanda* in repertory with another of Mr. Lewis’ works, *Killadelphia*. Phoenix Theatre and InterAct Theatre company are also presenting a “double feature” of sorts, scheduling their performances around their respective NNPN Rolling World Premiere productions of Will Sniders’ *How to Use a Knife*. Out of Hand Theater’s production of *Dogs of Rwanda* will be performed for the public in at least 14 private homes, at least 2 religious institutions, and over at least 1 weekend in a 99 -seat theater in an underserved part of the Atlanta metro area.
+
+<h4>ABOUT *DOGS OF RWANDA*</h4>
+1994. At 16 years of age David found himself in Uganda as a church missionary. When he follows the girl of his dreams into the woods to help a Rwandan boy they’ve stumbled upon he enters a world from which he will never fully be able to escape. On the 20th anniversary of the genocide he witnessed firsthand a book David wrote regarding his experiences that Spring arrives with a note from the Rwandan boy he once tried to save. “You didn’t tell them everything,” it says. “You didn’t tell them everything.” A dinner party story for the ages.
+
+<h4>ABOUT SEAN CHRISTOPHER LEWIS</h4>
+Sean Christopher Lewis' plays and solo works have won the Kennedy Center's Rosa Parks Award, the National New Play Network's Smith Prize, the Barrymore Award, two Central Ohio Critic Circle Awards, the NEA Voices in Community Award, the Rick Graf Award from the Iowa Human Rights Commission, the NNPN Playwrights Residency, and the William Inge Fellowship. \
+\
+His solo pieces include *Killadelphia* (Institut Del Teatre in Barcelona Spain; Interact Theatre, Baltimore Centerstage; Available Light Theatre; Touchstone Theatre; American Theater Company; Riverside Theatre; upcoming: Next Theatre in Chicago; Imagining America National Conference in Atlanta, GA), *Dogs of Rwanda* (development: Legion Arts; Available Light Theatre; Horizon Theatre; Ojai Playwrights Conference; upcoming: Redfern Performing Arts Center), *Just Kids* (Sandglass Theatre; KO Festival of Performance; Available Light Theatre; Revolutions International Theatre Festival), and *I Will Make You Orphans* (Uno Festival of Solo Performance; Hyde Park Theatre; Riverside Theatre).\
+\
+His plays include *Militant Language* (Know Theatre; Halcyon Theatre; Theater for the New City; Playpenn and HotInk!), *The Aperture* (Cleveland Public Theatre), and *Manning Up* (NNPN Rolling World Premiere: Salt Lake Acting Company; Riverside Theatre; Actors Summit; upcoming: Creative Outlet).\
+\
+He is the Artistic Director of Working Group Theatre where he creates Nationally Touring- Community Based Theatre including *Mayberry* (Hancher Auditorium; Bucksbaum Performing Arts Center; Iowa West Arts Center; City High School of Iowa City), *Finder's Daughter* (National Czech Slovak Museum; Omaha Playhouse; Theatre of Western Springs), *Broken Chord* (Hancher Auditorium), RUST (Actors Theatre of Grand Rapids; Legion Arts; published NY Times Magazine), and *Out of Bounds* (Hancher Auditorium; upcoming: Lied Center for Performing Arts). In Africa their work has included *We Stood Up* (Agahazo Shalom; Centre X Centre International Theatre Festival; KINA Festival) and in Spain it has included the *Riot Ballet* (Institut Del Teatre). \
+\
+He can be heard on NPR'S *This American Life *and his first film *These Hopeless Savages* is playing film festivals around the country. <a href="http://seanchristopherlewis.com/" rel="nofollow">seanchristopherlewis.com</a>
+
+<h4>ABOUT 16TH STREET THEATER</h4>
+Created to be a theater for people NOT going to the theater, 16th Street was founded in 2007 to serve and give voice to ALL in Berwyn’s community: not just for some in our community, but for all. Dedicated to artistic excellence, professionalism (paying artists a decent wage) diversity and affordability, 16th Street exists to encourage debate, discussion and compassion amongst our community through the medium of intimate and diverse theater with the playwright as its central focus. 16th Street is a place where audiences are invited to experience not only their own stories, but to experience their neighbors’ stories and stories of “the other.”
+
+<h4>ABOUT PHOENIX THEATRE</h4>
+The Phoenix Theatre is Indiana's only professional contemporary theatre, and has presented productions to challenge and entertain the Indianapolis community for over 32 years. The Phoenix strives to expand the community’s exposure to diverse topics and start conversations that lead to positive change; produce vital, engaging plays that deepen and expand our views of a shared humanity; and stimulate conversation and promote diversity via intimate, engaged, and wide-ranging theater. Additionally, the Phoenix aims to move the political bent of the community from the right to the center via theater, and create intimate theatre so powerful and engaging it sparks and leads Indiana’s cultural conversation.
+
+<h4>ABOUT INTERACT THEATRE COMPANY</h4>
+Founded in 1988, InterAct is dedicated to presenting new and contemporary plays that explore the political, social and cultural issues of our time. The company produces four plays annually, and is actively involved in the development of new plays, workshops, and playwright support, as well as cultivating prize-winning writers, championing world premiere work, and creating community partnerships.
+
+<h4>ABOUT OUT OF HAND THEATER</h4>
+Out of Hand Theater makes shows, games and public art, for venues including parks, homes, businesses and theaters. Through annual free public arts events and original works, we embrace new audiences, celebrate community, and create moments of mass intimacy. We collaborate with scientists, artists, businesses, schools and civic organizations to create events reflecting their work, we train others to unlock their creativity and to innovate, and we bring free public art to thousands of people every year.
+

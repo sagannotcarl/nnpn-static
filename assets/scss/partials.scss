@@ -318,10 +318,6 @@ ul.news-item-list {
     text-transform: inherit;
     margin-bottom: 0;
   }
-
-  .news-date {
-    margin: $small-spacing 0;
-  }
 }
 
 a.more-link {
@@ -339,6 +335,7 @@ a.more-link {
 .news-date {
   font-size: 15px;
   color: $medium-gray;
+  margin: $small-spacing 0;
 }
 
 .testimonial {
