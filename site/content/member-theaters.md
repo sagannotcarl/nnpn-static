@@ -39,8 +39,8 @@ Intro to member theaters.
 - Silk Road Rising *Chicago, IL*
 - Southern Rep Theatre *New Orleans, LA*
 - Unicorn Theatre *Kansas City, MO*
+- [The VORTEX](http://vortexrep.org/) *Austin, TX*
 - Woolly Mammoth Theatre Company *Washington, DC*
-- Writers Theatre of New Jersey *Madison, NJ*
 
 
 ### Associate Members
@@ -133,8 +133,6 @@ Intro to member theaters.
 - Thrown Stone Theatre Company *Ridgefield, CT*
 - Trinity Rep *Providence, RI*
 - Vermont Stage Company *Burlington, VT*
-- Virginia Repertory Theatre *Richmond, VA*
-- Vortex Repertory Company *Austin, TX*
 - Weston Playhouse Theatre Company *Weston, VT*
 - Williamston Theatre *Williamston, MI*
 - Zoetic Stage *Miami, FL*

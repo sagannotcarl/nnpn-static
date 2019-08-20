@@ -23,4 +23,4 @@ Help us create a healthy environment for new plays and playwrights, artists, and
 - Or you can always send a check to: National New Play Network, 641 D Street NW, Washington, DC 20004
 - Executive Director Nan Barnett would be delighted to talk with you about how you can support our work. You can reach her at nan@nnpn.org or by calling 202.312.5270.
 
-_National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. If this gift is intended for a specific NNPN program, please email or call Jordana Fraider, Programs Manager at jordana@nnpn.org/202-349-1283. Thanks for the love!_
+_National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. If this gift is intended for a specific NNPN program, please email or call Jordana Fraider, Programs Director at jordana@nnpn.org/202-349-1283. Thanks for the love!_
