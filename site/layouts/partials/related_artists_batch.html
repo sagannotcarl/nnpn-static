@@ -1,6 +1,8 @@
+{{ if isset .Params "current_label" }}
+{{ $current_label := .Params.current_label }}
 {{ $related := .Site.RegularPages.Related . }}
 {{ with $related }}
-<h3>Current</h3>
+<h3>{{ $current_label }}</h3>
 <ul class="program-entry-list">
   {{ range where (where . "Params.current" "==" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
@@ -29,10 +31,15 @@
   </li>
   {{ end }}
 </ul>
+{{ end }}
+{{ end }}
 
-<h3>Alumni</h3>
-<ul class="program-entry-list">
-  {{ range where (where . "Params.current" "!=" "true" ) "Params.type" "!=" "artist_type"  }}
+{{ if isset .Params "past_label" }}
+{{ $past_label := .Params.past_label }}
+{{ $related := .Site.RegularPages.Related . }}
+{{ with $related }}
+<h3>{{ $past_label }}</h3>
+<ul class="program-entry-list">{{ range where (where . "Params.current" "!=" "true" ) "Params.type" "!=" "artist_type"  }}
   <li class="program-entry">
     {{ if .Params.image }}
       {{ with .Page.Resources.GetMatch (.Params.image) }}
@@ -57,6 +64,6 @@
       {{ .Content }}
     </div>
   </li>
-  {{ end }}
-</ul>
+  {{ end }}</ul>
+{{ end }}
 {{ end }}

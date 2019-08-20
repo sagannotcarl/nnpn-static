@@ -5,6 +5,8 @@ testimonial_text:         "…NNPN has become one of the greatest tools of advoc
 testimonial_attribution:  "Jeremy B. Cohen, *Producing Artistic Director, The Playwrights' Center*"
 menu:                     "programs"
 type:                     "programs"
+current_label:            "2019 MFA Playwrights"
+past_label:               "Alumni MFA Playwrights"
 weight:                   9
 related:
 - MFA Playwrights’ Workshop

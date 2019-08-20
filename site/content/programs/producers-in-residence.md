@@ -1,9 +1,11 @@
 ---
-title:      "Producers in Residence"
-identifier: "producers-in-residence"
-menu:       "programs"
-type:       "programs"
-weight:     8
+title:          "Producers in Residence"
+identifier:     "producers-in-residence"
+menu:           "programs"
+type:           "programs"
+current_label:  "Current Producers"
+past_label:     "Alumni Producers"
+weight:         8
 related:
 - Producers in Residence
 ---

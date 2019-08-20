@@ -3,6 +3,8 @@ title:          "Commissions"
 identifier:     "commissions"
 menu:           "programs"
 type:           "programs"
+current_label:  "Current Commissions"
+past_label:     "Completed Commissions"
 weight:         5
 related:
 - Commissions

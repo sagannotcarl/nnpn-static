@@ -1,9 +1,11 @@
 ---
-title:      "Rolling World Premieres"
-identifier: "rolling-world-premieres"
-menu:       "programs"
-type:       "programs"
-weight:     1
+title:          "Rolling World Premieres"
+identifier:     "rolling-world-premieres"
+menu:           "programs"
+type:           "programs"
+current_label:  "Current Rolling World Premieres"
+past_label:     "Completed Rolling World Premieres"
+weight:         1
 related:
 - Rolling World Premieres
 ---

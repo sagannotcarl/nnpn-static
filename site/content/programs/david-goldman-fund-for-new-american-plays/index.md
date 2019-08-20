@@ -4,6 +4,7 @@ identifier:     "david-goldman-fund-for-new-american-plays"
 menu:           "programs"
 type:           "programs"
 weight:         3
+current_label:  "2019"
 related:
 - David Goldman Fund for New American Plays
 ---

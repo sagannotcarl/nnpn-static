@@ -3,6 +3,8 @@ title:          "National Directors Fellowship"
 identifier:     "national-directors-fellowship"
 menu:           "programs"
 type:           "programs"
+current_label:  "Current Fellows"
+past_label:     "Alumni Directors"
 weight:         7
 related:
 - National Directors Fellowship
