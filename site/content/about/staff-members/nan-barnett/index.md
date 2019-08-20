@@ -1,11 +1,12 @@
 ---
 title:      "Nan Barnett"
 image:      "csh_0003.jpg"
+current:    "true"
 related:
 - Staff
 ---
 
-## Executive Director
+### Executive Director
 
 Nan Barnett is a new play developer and producer and an advocate for theater-makers and the theater they make. She is currently the Executive Director of National New Play Network, the country's alliance of 110 not for profit, professional theaters with a dedication to the development, production, and continued life of new plays and the pioneering of programs and innovations for the new play sector.
 

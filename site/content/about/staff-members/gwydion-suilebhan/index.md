@@ -1,11 +1,12 @@
 ---
 title:      "Gwydion Suilebhan"
 image:      "csh_9964.jpg"
+current:    "true"
 related:
 - Staff
 ---
 
-## Project Director, New Play Exchange
+### Project Director, New Play Exchange
 
 [Gwydion Suilebhan](https://newplayexchange.org/users/104/gwydion-suilebhan) is an American writer, innovator, and arts advocte who serves as the chief architech and evangelist of the New Play Exchange. A founding  member of The Welders, a Helen Hayes Award-winning playwrights collective in Washington, DC, Suilebhan has served as a Council member of the Dramatists Guild of America since 2017. He was recently appointed as the Executive Director of the PEN/Faulkner Foundation, he served previously as the Director of Brand and Marketing for the Woolly Mammoth Theatre Company.
 
