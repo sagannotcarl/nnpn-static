@@ -3,6 +3,8 @@ title:          "Affiliated Artists Council"
 identifier:     "affiliated-artists-council"
 menu:           "about"
 type:           "about"
+current_label:  "2017-18 Council"
+past_label:     "Past Council Members"
 weight:         5
 related:
 - Affiliated Artists Council

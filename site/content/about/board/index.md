@@ -3,6 +3,8 @@ title:          "Board of Directors"
 identifier:     "board"
 menu:           "about"
 type:           "about"
+current_label:  "Officials"
+past_label:     "At-large"
 weight:         1
 related:
 - Board of Directors

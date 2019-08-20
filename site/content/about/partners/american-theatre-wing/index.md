@@ -1,7 +1,8 @@
 ---
-title:      "American Theatre Wing"
-link:       "americantheatrewing.org"
-image:      "atw_0.jpg"
+title: "American Theatre Wing"
+image: "atw.jpg"
+link: "americantheatrewing.org/"
+current: "true"
 related:
 - Partner Organizations
 ---

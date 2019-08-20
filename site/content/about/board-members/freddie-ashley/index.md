@@ -1,6 +1,7 @@
 ---
 title:      "Freddie Ashley"
 image:      "freddie_ashley.jpg"
+current:    "true"
 related:
 - Board of Directors
 ---

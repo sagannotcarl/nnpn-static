@@ -1,6 +1,7 @@
 ---
 title:      "Raymond Bobgan"
 image:      "raymond_bobgan.jpg"
+current:    "true"
 related:
 - Board of Directors
 ---
