@@ -41,7 +41,6 @@ Intro to member theaters.
 - Unicorn Theatre *Kansas City, MO*
 - [The VORTEX](http://vortexrep.org/) *Austin, TX*
 - Woolly Mammoth Theatre Company *Washington, DC*
-- Writers Theatre of New Jersey *Madison, NJ*
 
 
 ### Associate Members
