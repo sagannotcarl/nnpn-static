@@ -12,10 +12,10 @@ type: "rolling_premier"
 **PlayMakers Repertory Company**\
 Chapel Hill, NC
 
-**Milagro & Confrontation Theatre**\
+**Milagro &amp; Confrontation Theatre**\
 Portland, OR
 
-**Actor's Express**\
+**Actor&#039;s Express**\
 Atlanta, GA
 
 **Shrewd Productions - opens September 2019**\
