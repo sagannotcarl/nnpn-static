@@ -60,7 +60,7 @@
     <section class="main">
       <h2 class="rolling-premiers">Current Rolling World Premieres</h2>
       <div class="content rolling-premiers">
-        {{ range first 3 (where .Pages ".Params.type" "==" "rolling_premier") }}
+        {{ range first 3 (where .Pages ".Params.promoted" "==" "true") }}
           <div class="rolling-premier-entry">
             <header>
               <h3>{{ .Params.play }}</h3>

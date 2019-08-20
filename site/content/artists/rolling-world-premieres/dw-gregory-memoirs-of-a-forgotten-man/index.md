@@ -3,10 +3,10 @@ title: "D.W. Gregory"
 image: "dw_gregory.jpg"
 link: "newplayexchange.org/users/139/dw-gregory"
 current: "true"
+promoted: "true"
 related:
 - Rolling World Premieres
 play: "Memoirs of a Forgotten Man"
-type: "rolling_premier"
 ---
 
 **Contemporary American Theater Festival**\
