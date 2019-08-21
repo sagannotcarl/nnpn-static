@@ -1,7 +1,8 @@
 ---
-title:      "Nan Barnett"
-image:      "csh_0003.jpg"
-current:    "true"
+title:          1
+name_override:  "Nan Barnett"
+image:          "csh_0003.jpg"
+current:        "true"
 related:
 - Staff
 ---

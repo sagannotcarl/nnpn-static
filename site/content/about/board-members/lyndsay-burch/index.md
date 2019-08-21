@@ -1,6 +1,8 @@
 ---
-title:      "Lyndsay Burch"
-image:      "Lyndsay Burch.jpg"
+title: "Burch"
+name_override: "Lyndsay Burch"
+image: "lyndsay_burch.jpg"
+current: "true"
 related:
 - Board of Directors
 ---

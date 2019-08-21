@@ -1,7 +1,8 @@
 ---
-title:      "Gwydion Suilebhan"
-image:      "csh_9964.jpg"
-current:    "true"
+title:          4
+name_override:  "Gwydion Suilebhan"
+image:          "csh_9964.jpg"
+current:        "true"
 related:
 - Staff
 ---

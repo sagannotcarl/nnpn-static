@@ -25,6 +25,8 @@
             <span>by {{ .Params.author }}</span>
           {{ end }}
         {{ end }}
+      {{ else if .Params.name_override }}
+        <div class="artist-name">{{ .Params.name_override }}</div>
       {{ else }}
         {{ if .Params.link }}
           <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
@@ -63,6 +65,8 @@
         {{ if .Params.author }}
           <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
         {{ end }}
+      {{ else if .Params.name_override }}
+        <div class="artist-name">{{ .Params.name_override }}</div>
       {{ else }}
         <div class="artist-name">{{ .Title }}</div>
         {{ if .Params.author }}

@@ -1,7 +1,8 @@
 ---
-title:      "Raymond Bobgan"
-image:      "raymond_bobgan.jpg"
-current:    "true"
+title: "Bobgan"
+name_override: "Raymond Bobgan"
+image: "raymond_bobgan.jpg"
+current: "true"
 related:
 - Board of Directors
 ---
