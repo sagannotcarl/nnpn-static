@@ -1,9 +1,10 @@
 ---
-title: 			"About"
-identifier:	"about-overview"
-menu:        ["about", "main"]
-type:       "about"
-weight:      -10
+title: 			    "About"
+identifier:	    "about-overview"
+menu:           ["about", "main"]
+type:           "about"
+weight:          -10
+image:          "test.jpg"
 banner_caption: "NNPN Rolling World Premiere of *WINTER* by Julie Jensen at Salt Lake Acting Company"
 ---
 

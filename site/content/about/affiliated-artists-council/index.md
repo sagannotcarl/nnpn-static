@@ -1,6 +1,7 @@
 ---
 title:          "Affiliated Artists Council"
 identifier:     "affiliated-artists-council"
+image:          "goodness.jpg"
 menu:           "about"
 type:           "about"
 current_label:  "2017-18 Council"
