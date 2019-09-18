@@ -4,4 +4,4 @@ image: "lavina_jadhwani.jpg"
 link: "lavinajadhwani.com/"
 ---
 
-[Affiliated Artists Council](/programs/affiliated-artists-council)
+[Affiliated Artists Council](/about/affiliated-artists-council)

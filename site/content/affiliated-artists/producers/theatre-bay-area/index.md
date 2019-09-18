@@ -4,4 +4,4 @@ image: "tba.png"
 link: "www.theatrebayarea.org/"
 ---
 
-[Partner Organizations](/programs/partner-organizations)
+[Partner Organizations](/about/partner-organizations)

@@ -4,4 +4,4 @@ image: "stanford.png"
 link: "web.stanford.edu/group/newplays/"
 ---
 
-[Partner Organizations](/programs/partner-organizations)
+[Partner Organizations](/about/partner-organizations)

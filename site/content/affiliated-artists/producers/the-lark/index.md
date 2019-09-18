@@ -4,4 +4,4 @@ image: "lark.jpg"
 link: "www.larktheatre.org/"
 ---
 
-[Partner Organizations](/programs/partner-organizations)
+[Partner Organizations](/about/partner-organizations)

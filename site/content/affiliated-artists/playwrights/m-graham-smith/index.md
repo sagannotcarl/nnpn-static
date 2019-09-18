@@ -3,4 +3,4 @@ title: "M. Graham Smith"
 image: "-_28.jpeg"
 ---
 
-[Affiliated Artists Council](/programs/affiliated-artists-council)
+[Affiliated Artists Council](/about/affiliated-artists-council)

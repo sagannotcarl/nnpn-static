@@ -4,4 +4,4 @@ image: "oneill_logo.jpg"
 link: "www.theoneill.org/"
 ---
 
-[Partner Organizations](/programs/partner-organizations)
+[Partner Organizations](/about/partner-organizations)

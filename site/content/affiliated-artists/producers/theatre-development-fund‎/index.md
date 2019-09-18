@@ -4,4 +4,4 @@ image: "tdflogo.jpg"
 link: "www.tdf.org/"
 ---
 
-[Partner Organizations](/programs/partner-organizations)
+[Partner Organizations](/about/partner-organizations)
