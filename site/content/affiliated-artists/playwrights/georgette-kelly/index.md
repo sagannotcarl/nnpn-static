@@ -4,4 +4,4 @@ image: "georgette-kelly.jpg"
 link: "newplayexchange.org/users/511/georgette-kelly"
 ---
 
-[MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

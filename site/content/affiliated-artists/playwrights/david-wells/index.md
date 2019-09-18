@@ -4,4 +4,4 @@ image: "david_wells_headshot.jpg"
 link: "newplayexchange.org/users/301/david-wells"
 ---
 
-[National Showcase of New Plays](/affiliated-artists/national-showcase-of-new-plays)
+[National Showcase of New Plays](/programs/national-showcase-of-new-plays)

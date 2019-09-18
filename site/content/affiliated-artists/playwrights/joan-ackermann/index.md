@@ -2,4 +2,4 @@
 title: "Joan Ackermann"
 ---
 
-[Rolling World Premieres](/affiliated-artists/rolling-world-premieres)
+[Rolling World Premieres](/programs/rolling-world-premieres)

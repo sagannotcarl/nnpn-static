@@ -3,4 +3,4 @@ title: "Dano Madden"
 image: "dano_madden.jpg"
 ---
 
-[Collaboration Fund](/affiliated-artists/collaboration-fund), [MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[Collaboration Fund](/programs/collaboration-fund), [MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

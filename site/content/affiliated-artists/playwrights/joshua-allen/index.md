@@ -2,4 +2,4 @@
 title: "Joshua Allen"
 ---
 
-[MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

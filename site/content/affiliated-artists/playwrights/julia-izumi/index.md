@@ -4,4 +4,4 @@ image: "julia_izumi.jpg"
 link: "newplayexchange.org/users/9470/julia-izumi"
 ---
 
-[MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

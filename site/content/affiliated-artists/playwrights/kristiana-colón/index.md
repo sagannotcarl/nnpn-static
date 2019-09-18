@@ -4,4 +4,4 @@ image: "kristiana_colon.jpg"
 link: "newplayexchange.org/users/695/kristiana-rae-col%C3%B3n"
 ---
 
-[National Showcase of New Plays](/affiliated-artists/national-showcase-of-new-plays)
+[National Showcase of New Plays](/programs/national-showcase-of-new-plays)

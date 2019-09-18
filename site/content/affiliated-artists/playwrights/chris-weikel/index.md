@@ -4,4 +4,4 @@ image: "chris_weikel.jpg"
 link: "newplayexchange.org/users/176/chris-weikel"
 ---
 
-[Commissions](/affiliated-artists/commissions), [MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[Commissions](/programs/commissions), [MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

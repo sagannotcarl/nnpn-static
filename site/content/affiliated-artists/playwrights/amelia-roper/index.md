@@ -3,4 +3,4 @@ title: "Amelia Roper"
 image: "amelia_roper.jpg"
 ---
 
-[MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

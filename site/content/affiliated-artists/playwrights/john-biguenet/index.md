@@ -3,4 +3,4 @@ title: "John Biguenet"
 image: "john_biguenet.jpg"
 ---
 
-[Commissions](/affiliated-artists/commissions), [National Showcase of New Plays](/affiliated-artists/national-showcase-of-new-plays), [Rolling World Premieres](/affiliated-artists/rolling-world-premieres)
+[Commissions](/programs/commissions), [National Showcase of New Plays](/programs/national-showcase-of-new-plays), [Rolling World Premieres](/programs/rolling-world-premieres), [Rolling World Premieres](/programs/rolling-world-premieres)

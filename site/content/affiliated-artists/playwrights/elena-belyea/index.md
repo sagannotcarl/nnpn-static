@@ -4,4 +4,4 @@ image: "elena_belyea.jpg"
 link: "newplayexchange.org/users/4226/elena-belyea"
 ---
 
-[MFA Playwrights’ Workshop](/affiliated-artists/mfa-playwrights-workshop)
+[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop)

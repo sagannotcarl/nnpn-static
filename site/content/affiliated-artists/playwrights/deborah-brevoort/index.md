@@ -4,4 +4,4 @@ image: "deborah_brevoort.jpeg"
 link: "newplayexchange.org/users/246/deborah-brevoort"
 ---
 
-[Rolling World Premieres](/affiliated-artists/rolling-world-premieres)
+[Rolling World Premieres](/programs/rolling-world-premieres)
