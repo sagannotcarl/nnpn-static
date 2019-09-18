@@ -1,0 +1,7 @@
+---
+title: "Jacqueline Goldfinger"
+image: "jacqueline_goldfinger.jpg"
+link: "newplayexchange.org/users/1419/jacqueline-goldfinger"
+---
+
+[Affiliated Artists Council](/affiliated-artists/affiliated-artists-council), [Commissions](/affiliated-artists/commissions), [National Showcase of New Plays](/affiliated-artists/national-showcase-of-new-plays), [Rolling World Premieres](/affiliated-artists/rolling-world-premieres)

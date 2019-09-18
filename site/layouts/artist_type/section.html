@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head" . }}
+  </head>
+  <body class="{{ .Page.Params.identifier }}">
+    <section class="header">
+      {{ partial "header" . }}
+    </section>
+    <section class="banner">
+      <div class="banner-image">
+        {{ $caption := .Params.banner_caption }}
+        {{ with .Page.Resources.GetMatch ("images/banner/*") }}
+          <div class="Image">
+            {{ $image := .Fill "1220x425 Center" }}
+            <figure>
+              <img src="{{ $image.RelPermalink }}">
+              {{ if $caption }}
+                <figcaption>
+                    {{ $caption | markdownify }}
+                </figcaption>
+              {{ end }}
+            </figure>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+    <section class="main has-sidebar">
+      <div class="content">
+        <h1>
+          {{ .Title }}
+        </h1>
+        {{ .Content }}
+        <ul class="news-item-list">
+          {{ range .Pages }}
+              <li class="program-entry">
+                {{ if .Params.image }}
+                  {{ with .Page.Resources.GetMatch (.Params.image) }}
+                    <div class="artist-photo">
+                      {{ $image := .Fill "260x260 Center" }}
+                      <img src="{{ $image.RelPermalink }}">
+                    </div>
+                  {{ end }}
+                {{ end }}
+                <div class="entry-data">
+                  {{ if .Params.link }}
+                    <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
+                  {{ else }}
+                    <div class="artist-name">{{ .Title }}</div>
+                  {{ end }}
+                  <div>{{ .Content }}</div>
+                </div>
+              </li>
+          {{ end }}
+        </ul>
+      </div>
+      <aside>
+        {{ partial "nav_artists" . }}
+      </aside>
+    </section>
+    <section class="testimonial">
+      {{ partial "testimonial" . }}
+    </section>
+    <section class="footer">
+      {{ partial "footer" . }}
+    </section>
+  </body>
+</html>
