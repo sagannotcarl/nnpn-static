@@ -60,17 +60,23 @@
       {{ end }}
     {{ end }}
     <div class="entry-data">
-      {{ if .Params.link }}
-        <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
-        {{ if .Params.author }}
-          <a class="author-name" href="//{{ .Params.link }}">by {{ .Params.author }}</a>
+      {{ if .Params.play }}
+        {{ if .Params.link }}
+          <div class="artist-name">{{ .Params.play }}</div>
+          <a class="author-name" href="//{{ .Params.link }}">by {{ .Title }}</a>
+        {{ else }}
+          <div class="artist-name">{{ .Title }}</div>
+          {{ if .Params.author }}
+            <span>by {{ .Params.author }}</span>
+          {{ end }}
         {{ end }}
       {{ else if .Params.name_override }}
         <div class="artist-name">{{ .Params.name_override }}</div>
       {{ else }}
-        <div class="artist-name">{{ .Title }}</div>
-        {{ if .Params.author }}
-          <span>by {{ .Params.author }}</span>
+        {{ if .Params.link }}
+          <a class="artist-name" href="//{{ .Params.link }}">{{ .Title }}</a>
+        {{ else }}
+          <div class="artist-name">{{ .Title }}</div>
         {{ end }}
       {{ end }}
       {{ .Content }}
