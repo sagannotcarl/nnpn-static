@@ -64,7 +64,7 @@ jobs:
       - run: sudo apt install rsync
       - run:
           name: "Copy files"
-          command: rsync -avz --delete ~/project/public/* $SSH_USER@$SSH_HOST:/var/www/html
+          command: rsync -avz --delete -e "ssh -o StrictHostKeyChecking=no" ~/project/public/* $SSH_USER@$SSH_HOST:/var/www/html
 workflows:
   version: 2
   workflow:
