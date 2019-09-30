@@ -1,11 +1,9 @@
-{{ $menu      := .Site.Menus.artist_type }}
-{{ $pageIdentifier  := .Page.Params.Identifier }}
+{{ $currentPage := . }}
 <nav class="sidebar-nav artists-nav">
   <ul class="menu">
-    {{ range $menu }}
-      {{ $isCurrent := eq $pageIdentifier .Identifier }}
+    {{ range .Site.Menus.artist_type }}
       <li>
-        <a class="nav-link {{ if $isCurrent }}active{{ end }}" href="{{ .URL }}" title="{{ .Name }}">
+        <a class="nav-link {{ if $currentPage.IsMenuCurrent "artist_type" . }}active{{ end }}" href="{{ .URL }}" title="{{ .Name }}">
           {{ .Name }}
         </a>
       </li>

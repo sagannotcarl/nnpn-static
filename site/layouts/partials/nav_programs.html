@@ -1,11 +1,9 @@
-{{ $menu      := .Site.Menus.programs}}
-{{ $pageIdentifier  := .Page.Params.Identifier }}
+{{ $currentPage := . }}
 <nav class="sidebar-nav programs-nav">
   <ul class="menu">
-    {{ range $menu }}
-      {{ $isCurrent := eq $pageIdentifier .Identifier }}
+    {{ range .Site.Menus.programs }}
       <li>
-        <a class="nav-link {{ if $isCurrent }}active{{ end }}" href="{{ .URL }}" title="{{ .Name }}">
+        <a class="nav-link {{ if $currentPage.IsMenuCurrent "programs" . }}active{{ end }}" href="{{ .URL }}" title="{{ .Name }}">
           {{ .Name }}
         </a>
       </li>
