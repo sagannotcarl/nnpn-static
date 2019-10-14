@@ -1,11 +1,14 @@
 ---
 title:          "National Directors Fellowship"
 identifier:     "national-directors-fellowship"
-menu:           "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
+weight:         7
 type:           "programs"
 current_label:  "Current Fellows"
 past_label:     "Alumni Directors"
-weight:         7
 related:
 - National Directors Fellowship
 ---

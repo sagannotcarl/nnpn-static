@@ -1,11 +1,14 @@
 ---
 title:          "Producers in Residence"
 identifier:     "producers-in-residence"
-menu:           "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
+weight:         8
 type:           "programs"
 current_label:  "Current Producers"
 past_label:     "Alumni Producers"
-weight:         8
 related:
 - Producers in Residence
 ---

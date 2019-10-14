@@ -2,7 +2,10 @@
 title:      "Ambassadors Council"
 identifier: "ambassadors_council"
 type:       "about"
-menu:       "about"
+menu:
+  main:
+    parent: "About"
+  about:
 weight:     6
 ---
 

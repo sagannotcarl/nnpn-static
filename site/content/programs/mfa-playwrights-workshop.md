@@ -3,11 +3,14 @@ title:                    "MFA Playwrights’ Workshop"
 identifier:               "mfa-playwrights-workshop"
 testimonial_text:         "…NNPN has become one of the greatest tools of advocacy -- and possibility -- for getting work out into the world. The work of (NNPN) is critical for adding a new branch to the tree of how exciting new theatrical work gets produced in the US."
 testimonial_attribution:  "Jeremy B. Cohen, *Producing Artistic Director, The Playwrights' Center*"
-menu:                     "programs"
+menu:
+  main:
+    parent:              "Programs"
+  programs:
+weight:                   9
 type:                     "programs"
 current_label:            "2019 MFA Playwrights"
 past_label:               "Alumni MFA Playwrights"
-weight:                   9
 related:
 - MFA Playwrights’ Workshop
 ---

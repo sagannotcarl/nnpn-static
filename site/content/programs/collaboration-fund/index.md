@@ -1,11 +1,13 @@
 ---
 title:          "Collaboration Fund"
 identifier:     "collaboration-fund"
-menu:           "programs"
-type:           "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
+weight:     6
 current_label:  "Current Projects"
 past_label:     "Past Projects & Alumni Playwrights-in-Residence"
-weight:         6
 related:
 - Collaboration Fund
 ---

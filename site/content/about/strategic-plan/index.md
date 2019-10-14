@@ -2,7 +2,10 @@
 title:      "2020-25 Strategic Plan"
 identifier: "strategic_plan"
 type:       "about"
-menu:       "about"
+menu:
+  main:
+    parent: "About"
+  about:
 weight:     10
 ---
 

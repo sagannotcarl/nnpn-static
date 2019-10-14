@@ -2,7 +2,10 @@
 title:          "David Goldman Fund for New American Plays"
 identifier:     "david-goldman-fund-for-new-american-plays"
 menu:           "programs"
-type:           "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
 weight:         3
 current_label:  "2019"
 related:

@@ -2,11 +2,14 @@
 title:          "Affiliated Artists Council"
 identifier:     "affiliated-artists-council"
 image:          "goodness.jpg"
-menu:           "about"
+menu:
+  main:
+    parent:     "About"
+  about:
+weight:         5
 type:           "about"
 current_label:  "2017-18 Council"
 past_label:     "Past Council Members"
-weight:         5
 related:
 - Affiliated Artists Council
 banner_caption: "NNPN Rolling World Premiere of *SURELY GOODNESS AND MERCY* by Chisa Hutchinson at Salt Lake Acting Company"

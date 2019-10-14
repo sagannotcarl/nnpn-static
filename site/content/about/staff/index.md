@@ -1,10 +1,13 @@
 ---
 title:          "Staff"
 identifier:     "staff"
-menu:           "about"
+menu:
+  main:
+    parent:     "About"
+  about:
+weight:         8
 type:           "about"
 current_label:  ""
-weight:         8
 related:
 - Staff
 ---

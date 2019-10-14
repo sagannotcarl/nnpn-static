@@ -1,7 +1,10 @@
 ---
 title:      "News"
 identifier: "news"
-menu:       "about"
-type:       "news"
+menu:
+  main:
+    parent: "About"
+  about:
 weight:     8
+type:       "news"
 ---

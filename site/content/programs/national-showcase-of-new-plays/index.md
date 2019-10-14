@@ -1,11 +1,14 @@
 ---
 title:          "National Showcase of New Plays"
 identifier:     "national-showcase-of-new-plays"
-menu:           "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
+weight:         4
 type:           "programs"
 current_label:  "2018 Showcase Plays"
 past_label:     "Past Showcase Plays"
-weight:         4
 related:
 - National Showcase of New Plays
 ---

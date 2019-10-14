@@ -3,22 +3,22 @@
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
       {{ if .HasChildren }}
-        <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-          <a href="#">
+        <li class="menu-has-children {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+          <a href="{{ .URL }}" class="menu-link">
             {{ .Pre }}
             <span>{{ .Name }}</span>
           </a>
+          <ul class="sub-menu">
+            {{ range .Children }}
+              <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active-menu{{ end }}">
+                <a class="menu-link" href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          </ul>
         </li>
-        <ul class="sub-menu">
-          {{ range .Children }}
-            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-              <a href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        </ul>
       {{ else }}
-        <li {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}>
-          <a href="{{ .URL }}">
+        <li {{ if $currentPage.IsMenuCurrent "main" . }}class="active-menu"{{ end }}>
+          <a class="menu-link" href="{{ .URL }}">
             {{ .Pre }}
             <span>{{ .Name }}</span>
           </a>

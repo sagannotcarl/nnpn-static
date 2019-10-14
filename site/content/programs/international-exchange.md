@@ -1,9 +1,12 @@
 ---
 title:      "International Exchange"
 identifier: "international-exchange"
-menu:       "programs"
-type:       "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
 weight:     10
+type:       "programs"
 related:
 - International Exchange
 ---

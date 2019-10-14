@@ -9,9 +9,54 @@ nav.sidebar-nav {
       font-weight: $black-fw;
     }
 
-    &.active,
+    &.active-menu,
     &.active-trail {
       font-weight: $black-fw;
+    }
+  }
+}
+
+nav {
+  li.menu-has-children {
+    position: relative;
+
+    &:hover {
+      & > a {
+        background-color: $lime;
+
+        & + ul.sub-menu {
+          display: block;
+        }
+      }
+    }
+
+    &:last-child {
+      ul.sub-menu {
+        right: 0;
+        width: inherit;
+      }
+    }
+  }
+
+  ul.sub-menu {
+    @include item-list;
+
+    width: 20em;
+    display: none;
+    position: absolute;
+    top: auto;
+    font-size: 14px;
+    font-family: $gotham-narrow;
+    font-weight: $book-fw;
+    text-transform: uppercase;
+    z-index: 5;
+
+    li {
+      width: 100%;
+    }
+
+    a {
+      width: 100%;
     }
   }
 }
@@ -36,6 +81,20 @@ nav.main-nav {
   a {
     @include link-colors($normal: $cool-gray, $hover: $black);
     display: block;
+  }
+
+  .sub-menu {
+    background-color: $dark-gray;
+
+    a {
+      @include link-colors($normal: $white, $hover: $black);
+      border-bottom: $white 1px dotted;
+
+      &:hover {
+        background-color: $lime;
+        font-weight: $bold-fw;
+      }
+    }
   }
 }
 

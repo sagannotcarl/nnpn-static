@@ -2,7 +2,10 @@
 title:      "History"
 identifier: "history"
 type:       "about"
-menu:       "about"
+menu:
+  main:
+    parent: "About"
+  about:
 weight:     2
 ---
 

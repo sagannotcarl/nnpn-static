@@ -1,11 +1,14 @@
 ---
 title:          "Commissions"
 identifier:     "commissions"
-menu:           "programs"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
+weight:         5
 type:           "programs"
 current_label:  "Current Commissions"
 past_label:     "Completed Commissions"
-weight:         5
 related:
 - Commissions
 ---
