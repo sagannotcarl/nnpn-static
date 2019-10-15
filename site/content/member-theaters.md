@@ -5,7 +5,6 @@ menu:         "main"
 weight:       -7
 ---
 
-Intro to member theaters.
 
 ### Core Members
 
