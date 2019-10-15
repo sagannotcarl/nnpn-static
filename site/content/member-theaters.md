@@ -47,9 +47,11 @@ Intro to member theaters.
 
 - 59E59 Theaters *New York, NY*
 - A Contemporary Theatre *Seattle, WA*
+- [Alleyway Theatre](http://alleyway.com/) *Buffalo, NY*
 - American Shakespeare Center *Staunton, VA*
 - Amphibian Stage Productions *Fort Worth, TX*
 - Artists Repertory Theatre *Portland, OR*
+- [Aurora Theatre Company](https://www.auroratheatre.org/) *Berkeley, CA*
 - Azuka Theatre *Philadelphia, PA*
 - Bloomington Playwrights Project *Bloomington, IN*
 - BLUEBARN Theatre *Omaha, NE*
@@ -71,6 +73,7 @@ Intro to member theaters.
 - Florida Repertory Theatre *Fort Myers, FL*
 - Flying V Theatre *Bethesda, MD*
 - Geva Theatre Center *Rochester, NY*
+- [Gloucester Stage Company](https://gloucesterstage.com/) *Gloucester, MA*
 - Greenway Court Theatre *Los Angeles, CA*
 - Gulfshore Playhouse *Naples, FL*
 - Halcyon Theatre *Chicago, IL*
@@ -129,6 +132,7 @@ Intro to member theaters.
 - Theater J *Washington, DC*
 - Theatre 3 *Dallas, TX*
 - Theatre Exile *Philadelphia, PA*
+- [Theatre Lab](http://fau.edu/artsandletters/theatrelab/) *Boca Raton, FL*
 - Theatre NOVA *Ann Arbor, MI*
 - Thrown Stone Theatre Company *Ridgefield, CT*
 - Trinity Rep *Providence, RI*
