@@ -4,6 +4,51 @@
     {{ partial "head" . }}
   </head>
   <body>
-    {{ .Content }}
+    <section class="header">
+      {{ partial "header" . }}
+    </section>
+    {{ if .Params.image }}
+      <section class="banner">
+        <div class="banner-image">
+          {{ $caption := .Params.banner_caption }}
+          {{ with .Page.Resources.GetMatch (.Params.image) }}
+            {{ $wide := .Fill "1180x425 Center" }}
+            {{ $normal := .Fill "940x340 Center" }}
+            {{ $narrow := .Fill "700x258 Center" }}
+            <figure>
+              <img  src="{{ $normal.RelPermalink }}"
+                    srcset="{{ $wide.RelPermalink }} 1180w,
+                            {{ $normal.RelPermalink }} 940w
+                            {{ $narrow.RelPermalink }} 700w"
+                    sizes= "100vw"
+              >
+              {{ if $caption }}
+                <figcaption>
+                    {{ $caption | markdownify }}
+                </figcaption>
+              {{ end }}
+            </figure>
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
+    <section class="main has-sidebar">
+      <div class="content">
+        <h1>
+          {{ .Title }}
+        </h1>
+        {{ .Content }}
+        {{ partial "related_artists_batch" . }}
+      </div>
+      <aside>
+        {{ partial "about_nav" . }}
+      </aside>
+    </section>
+    <section class="testimonial">
+      {{ partial "testimonial" . }}
+    </section>
+    <section class="footer">
+      {{ partial "footer" . }}
+    </section>
   </body>
 </html>

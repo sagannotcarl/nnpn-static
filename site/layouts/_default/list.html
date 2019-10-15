@@ -15,11 +15,11 @@
         {{ .Content }}
         <ul>
         {{ range .Pages }}
-            <li>
-              <a href="{{ .RelPermalink }}">
-                {{ .Params.Title }}
-              </a>
-            </li>
+          <li>
+            <a href="{{ .RelPermalink }}">
+              {{ .Params.Title }}
+            </a>
+          </li>
         {{ end }}
         </ul>
       </div>
