@@ -91,7 +91,6 @@ weight:       -7
 - New Conservatory Theatre Center *San Francisco, CA*
 - New Light Theater Project *New York, NY*
 - NewYorkRep *New York, NY*
-- Olney Theatre Center *Olney, MD*
 - Oregon Contemporary Theatre *Eugene, OR*
 - Out of Hand Theater *Atlanta, GA*
 - Pacific Resident Theatre *Los Angeles, CA*
