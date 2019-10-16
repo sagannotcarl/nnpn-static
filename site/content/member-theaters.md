@@ -85,7 +85,6 @@ weight:       -7
 - Merrimack Repertory Theatre *Lowell, MA*
 - Milwaukee Repertory Theater *Milwaukee, WI*
 - Minnesota Jewish Theater Company *St. Paul, MN*
-- Montana Repertory Theatre *Missoula, MT*
 - Moving Arts *Los Angeles, CA*
 - Moxie Theatre *San Diego, CA*
 - Native Voices at the Autry *Los Angeles, CA*
