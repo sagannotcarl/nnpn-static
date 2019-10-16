@@ -63,7 +63,6 @@ weight:       -7
 - Children’s Theatre Company *Minneapolis, MN*
 - City Theatre *Miami, FL*
 - Company of Fools *Hailey, ID*
-- Creede Repertory Theatre *Creede, CO*
 - Cumberland County Playhouse *Crossville, TN*
 - DCPA Theatre Company *Denver, CO*
 - Diversionary Theatre *San Diego, CA*
