@@ -79,7 +79,6 @@ weight:       -7
 - IAMA Theatre Company *Van Nuys, CA*
 - Island City Stage *Wilton Manors, FL*
 - Know Theatre of Cincinnati *Cincinnati, OH*
-- LOCAL Theater Company *Boulder, CO*
 - Lower Depth Theatre Ensemble *Los Angeles, CA*
 - Merrimack Repertory Theatre *Lowell, MA*
 - Milwaukee Repertory Theater *Milwaukee, WI*
