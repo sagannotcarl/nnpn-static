@@ -20,21 +20,20 @@ Artist Ambassadors
 - **Jennifer Fawcett**, Riverside Theatre
 - **Thomas Gibbons**, InterAct Theatre Company
 - **Andra Harbold**, Salt Lake Acting Company
-- **Martha Jacobs**, Phoenix Theatre
 - **Celise Kalke**, Horizon Theatre Company
+- **Andrew Kramer**, Phoenix Theatre
 - **Aditi Brennan Kapil**, Mixed Blood Theatre
 - **York Kennedy**, Magic Theatre
 - **Robert Koon**, 16th Street Theater
 - **Maya Malan-González**, Milagro
 - **Mike Marinaccio**, Orlando Shakespeare Theater
-- **Peter Sinn Nachtrieb**, Marin Theatre Company
+- **Lauren Gunderson**, Marin Theatre Company
 - **Jenny O'Hara**, Fountain Theatre
 - **Beau O’Reilly**, Prop Thtr
 - **Joe Rodota**, B Street Theatre
 - **Bruce Sevy**, Curious Theatre Company
 - **Eric Shimelonis**, Contemporary American Theater Festival
 - **Herbert Siguenza**, San Deigo REPertory Theatre
-- **Kate Snodgrass**, New Repertory Theatre
 - **Mark St. Germain**, Florida Studio Theatre
 - **Eva Zorille Tessler**, Borderlands Theater
 
@@ -43,10 +42,10 @@ Artist Ambassadors
 - **Susan Albritton**, Kitchen Dog Theater
 - **Susan Arkin**, Orlando Shakespeare Theater
 - **Lillian Sober Ain**, New Repertory Theatre
-- **Frank M. Basile**, Phoenix Theatre
 - **Terry Cramer**, Perseverance Theatre
 - **Ron David**, Borderlands Theater
 - **Kipp Delbyck**, Marin Theatre Company
+- **Bill Farkas**, Phoenix Theatre
 - **Greg Frankenfield**, Mixed Blood Theatre
 - **Rick Frey**, B Street Theatre
 - **Bernard Jaffe**, Southern Rep Theatre
@@ -70,6 +69,7 @@ Artist Ambassadors
 ### At Large Ambassadors
 
 - **Leah Abrams**, Independent Producer
+- **Roy Arauz**, Director
 - **Meghan Beals**, Dramaturg
 - **Beth Blickers**, APA
 - **Mark Bly**, The Acting Company/Fordham University
@@ -81,7 +81,6 @@ Artist Ambassadors
 - **Steven Dietz**, Playwright
 - **Michael Dove**, Director
 - **Carol Dweck**, Stanford University
-- **Peter Emch**, The Emch Foundation/Autism After 16
 - **Liz Engelman**, University of Texas-Austin/Tofte Lake Center
 - **Pat Flick**, Shakespeare Theatre Association
 - **Bryan Fonseca**, Artistic Director**, Fonseca Theatre Company
@@ -99,9 +98,12 @@ Artist Ambassadors
 - **Ricky J. Martinez**, Director & Playwright
 - **Annaliese McSweeney**, Literary Manager**, Stage Left Theatre
 - **Kelly Miller**, Literate.
+- **Amy Mueller**, Director
 - **Shannon Musgrave**, Communications Manager**, Allegheny Regional Asset District
 - **Kittson O'Neill**, Philadelphia Theater Maker
 - **Bruce Ostler**, Bret Adams**, Ltd.
+- **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
+- **Mark Routhier**, Director
 - **Olga Sanchez**, Artistic Director Emerita**, Milagro
 - **Jordan Schwartz**, Associate Producing Director**, Fonseca Theatre Company
 - **Sandy Shinner**, Shattered Globe Theatre/DePaul University
@@ -110,6 +112,7 @@ Artist Ambassadors
 - **Zev Valancy**, Dramaturg
 - **Amanda White Thietje**, DalekoArts
 - **Richard Winkler**, Red Hanger Productions
+- **Gavin Witt**, Dramaturg and Director
 - **Joseph Zettelmaier**, Roustabout Theatre Troupe
 - **Judy Zocchi**, Good to Go Festival
 
