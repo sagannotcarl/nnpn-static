@@ -14,7 +14,7 @@ weight:       -7
 - [B Street Theatre](http://bstreettheatre.org/) *Sacramento, CA*
 - [City Theatre Company](http://www.citytheatrecompany.org/) *Pittsburgh, PA*
 - [Cleveland Public Theatre](http://www.cptonline.org/) *Cleveland, OH*
-- [Company One Theatre](https://companyone.org/ *Boston, MA*
+- [Company One Theatre](https://companyone.org/) *Boston, MA*
 - [Contemporary American Theater Festival](http://catf.org/) *Shepherdstown, WV*
 - [Curious Theatre Company](https://www.curioustheatre.org/) *Denver, CO*
 - [Florida Studio Theatre](https://www.floridastudiotheatre.org/) *Sarasota, FL*
