@@ -1,7 +1,7 @@
 ---
 title:          "Figueroa"
 name_override:  "Rose Figueroa"
-image:          "Rose Figueroa.jpg"
+image:          "Rose_Figueroa.jpg"
 current:        "true"
 related:
 - Staff
