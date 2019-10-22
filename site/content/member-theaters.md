@@ -10,129 +10,129 @@ weight:       -7
 
 - [16th Street Theater](http://wp.16thstreettheater.org/) *Berwyn, IL*
 - [Actor’s Express](http://www.actors-express.com/) *Atlanta, GA*
-- Actor’s Theatre of Charlotte *Charlotte, NC*
-- B Street Theatre *Sacramento, CA*
-- City Theatre Company *Pittsburgh, PA*
-- Cleveland Public Theatre *Cleveland, OH*
-- Company One Theatre *Boston, MA*
-- Contemporary American Theater Festival *Shepherdstown, WV*
-- Curious Theatre Company *Denver, CO*
-- Florida Studio Theatre *Sarasota, FL*
-- Fountain Theatre *Los Angeles, CA*
-- Horizon Theatre Company *Atlanta, GA*
-- InterAct Theatre Company *Philadelphia, PA*
-- Kitchen Dog Theater *Dallas, TX*
-- Magic Theatre *San Francisco, CA*
-- Marin Theatre Company *Mill Valley, CA*
-- Milagro *Portland, OR*
-- Mixed Blood Theater *Minneapolis, MN*
-- New Jersey Repertory Company *Long Branch, NJ*
-- New Repertory Theatre *Watertown, MA*
-- Orlando Shakes *Orlando, FL*
-- Perseverance Theatre *Anchorage/Juneau, AK*
-- Phoenix Theatre *Indianapolis, IN*
-- Prop Thtr *Chicago, IL*
-- Riverside Theatre *Iowa City, IA*
-- Salt Lake Acting Company *Salt Lake City, UT*
-- San Diego REPertory Theatre *San Diego, CA*
-- Silk Road Rising *Chicago, IL*
-- Southern Rep Theatre *New Orleans, LA*
-- Unicorn Theatre *Kansas City, MO*
+- [Actor’s Theatre of Charlotte](https://atcharlotte.org/) *Charlotte, NC*
+- [B Street Theatre](http://bstreettheatre.org/) *Sacramento, CA*
+- [City Theatre Company](http://www.citytheatrecompany.org/) *Pittsburgh, PA*
+- [Cleveland Public Theatre](http://www.cptonline.org/) *Cleveland, OH*
+- [Company One Theatre](https://companyone.org/ *Boston, MA*
+- [Contemporary American Theater Festival](http://catf.org/) *Shepherdstown, WV*
+- [Curious Theatre Company](https://www.curioustheatre.org/) *Denver, CO*
+- [Florida Studio Theatre](https://www.floridastudiotheatre.org/) *Sarasota, FL*
+- [Fountain Theatre](http://www.fountaintheatre.com/) *Los Angeles, CA*
+- [Horizon Theatre Company](https://www.horizontheatre.com/) *Atlanta, GA*
+- [InterAct Theatre Company](http://www.interacttheatre.org/) *Philadelphia, PA*
+- [Kitchen Dog Theater](https://www.kitchendogtheater.org/) *Dallas, TX*
+- [Magic Theatre](http://magictheatre.org/) *San Francisco, CA*
+- [Marin Theatre Company](https://www.marintheatre.org/) *Mill Valley, CA*
+- [Milagro](http://www.milagro.org/) *Portland, OR
+- [Mixed Blood Theater](http://www.mixedblood.com/) *Minneapolis, MN*
+- [New Jersey Repertory Company](http://www.njrep.org/) *Long Branch, NJ*
+- [New Repertory Theatre](http://www.newrep.org/) *Watertown, MA*
+- [Orlando Shakes](https://www.orlandoshakes.org/) *Orlando, FL*
+- [Perseverance Theatre](http://www.ptalaska.org/) *Anchorage/Juneau, AK*
+- [Phoenix Theatre](https://www.phoenixtheatre.org/) *Indianapolis, IN*
+- [Prop Thtr](https://www.propthtr.org/) *Chicago, IL*
+- [Riverside Theatre](https://www.riversidetheatre.org/) *Iowa City, IA*
+- [Salt Lake Acting Company](https://www.saltlakeactingcompany.org/) *Salt Lake City, UT*
+- [San Diego Repertory Theatre](http://www.sdrep.org/) *San Diego, CA*
+- [Silk Road Rising](https://www.silkroadrising.org/) *Chicago, IL*
+- [Southern Rep Theatre](http://www.southernrep.com/) *New Orleans, LA*
+- [Unicorn Theatre](https://unicorntheatre.org/) *Kansas City, MO*
 - [The VORTEX](http://vortexrep.org/) *Austin, TX*
-- Woolly Mammoth Theatre Company *Washington, DC*
+- [Woolly Mammoth Theatre Company](https://www.woollymammoth.net/) *Washington, DC*
 
 
 ### Associate Members
 
-- 59E59 Theaters *New York, NY*
-- A Contemporary Theatre *Seattle, WA*
+- [59E59 Theaters](https://www.59e59.org/) *New York, NY*
+- [A Contemporary Theatre](http://www.acttheatre.org/) *Seattle, WA*
 - [Alleyway Theatre](http://alleyway.com/) *Buffalo, NY*
-- American Shakespeare Center *Staunton, VA*
-- Amphibian Stage Productions *Fort Worth, TX*
-- Artists Repertory Theatre *Portland, OR*
+- [American Shakespeare Center](https://americanshakespearecenter.com/) *Staunton, VA*
+- [Amphibian Stage Productions](http://www.amphibianstage.com/) *Fort Worth, TX*
+- [Artists Repertory Theatre](http://www.artistsrep.org/) *Portland, OR*
 - [Aurora Theatre Company](https://www.auroratheatre.org/) *Berkeley, CA*
-- Azuka Theatre *Philadelphia, PA*
-- Bloomington Playwrights Project *Bloomington, IN*
-- BLUEBARN Theatre *Omaha, NE*
-- Boston Court Pasadena *Pasadena, CA*
-- Boulder Ensemble Theatre Company *Boulder, CO*
-- Capital Stage Company *Sacramento, CA*
-- Centenary Stage Company *Hackettstown, NJ*
-- CenterStage Theatre at the JCC *Rochester, NY*
-- Central Works Theater Company *Berkeley, CA*
-- Children’s Theatre Company *Minneapolis, MN*
-- City Theatre *Miami, FL*
-- Company of Fools *Hailey, ID*
-- Cumberland County Playhouse *Crossville, TN*
-- DCPA Theatre Company *Denver, CO*
-- Diversionary Theatre *San Diego, CA*
-- Ensemble Theatre Cincinnati *Cincinnati, OH*
-- Everyman Theatre *Baltimore, MD*
-- Florida Repertory Theatre *Fort Myers, FL*
-- Flying V Theatre *Bethesda, MD*
-- Geva Theatre Center *Rochester, NY*
+- [Azuka Theatre](http://www.azukatheatre.org/) *Philadelphia, PA*
+- [Bloomington Playwrights Project](https://newplays.org/) *Bloomington, IN*
+- [BLUEBARN Theatre](http://bluebarn.org/) *Omaha, NE*
+- [Boston Court Pasadena](http://www.bostoncourt.com/) *Pasadena, CA*
+- [Boulder Ensemble Theatre Company](http://betc.org/) *Boulder, CO*
+- [Capital Stage Company](https://capstage.org/) *Sacramento, CA*
+- [Centenary Stage Company](http://www.centenarystageco.org/) *Hackettstown, NJ*
+- [CenterStage Theatre at the JCC](https://jccrochester.org/centerstage) *Rochester, NY*
+- [Central Works Theater Company](http://www.centralworks.org/) *Berkeley, CA*
+- [Children’s Theatre Company](https://www.childrenstheatre.org/) *Minneapolis, MN*
+- [City Theatre](http://citytheatre.com/pages/) *Miami, FL*
+- [Company of Fools](https://sunvalleycenter.org/companyoffools/) *Hailey, ID*
+- [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
+- [DCPA Theatre Company](https://www.denvercenter.org) *Denver, CO*
+- [Diversionary Theatre](https://www.diversionary.org/) *San Diego, CA*
+- [Ensemble Theatre Cincinnati](https://www.ensemblecincinnati.org/) *Cincinnati, OH*
+- [Everyman Theatre](http://www.everymantheatre.org/) *Baltimore, MD*
+- [Florida Repertory Theatre](https://www.floridarep.org/) *Fort Myers, FL*
+- [Flying V Theatre](http://www.flyingvtheatre.com) *Bethesda, MD*
+- [Geva Theatre Center](http://www.gevatheatre.org/) *Rochester, NY*
 - [Gloucester Stage Company](https://gloucesterstage.com/) *Gloucester, MA*
-- Greenway Court Theatre *Los Angeles, CA*
-- Gulfshore Playhouse *Naples, FL*
-- Halcyon Theatre *Chicago, IL*
-- History Theatre *St. Paul, MN*
-- IAMA Theatre Company *Van Nuys, CA*
-- Island City Stage *Wilton Manors, FL*
-- Know Theatre of Cincinnati *Cincinnati, OH*
-- Lower Depth Theatre Ensemble *Los Angeles, CA*
-- Merrimack Repertory Theatre *Lowell, MA*
-- Milwaukee Repertory Theater *Milwaukee, WI*
-- Minnesota Jewish Theater Company *St. Paul, MN*
-- Moving Arts *Los Angeles, CA*
-- Moxie Theatre *San Diego, CA*
-- Native Voices at the Autry *Los Angeles, CA*
-- New Conservatory Theatre Center *San Francisco, CA*
-- New Light Theater Project *New York, NY*
-- NewYorkRep *New York, NY*
-- Oregon Contemporary Theatre *Eugene, OR*
-- Out of Hand Theater *Atlanta, GA*
-- Pacific Resident Theatre *Los Angeles, CA*
-- Palm Beach Dramaworks *West Palm Beach, FL*
-- People’s Light *Malvern, PA*
-- Phoenix Arts Association Theatre *San Francisco, CA*
-- Plan-B Theatre Company *Salt Lake City, UT*
-- PlayGround *Berkeley, CA*
-- PlayMakers Repertory Company *Chapel Hill, NC*
-- Portland Center Stage *Portland, OR*
-- PYGmalion Theatre Company *Salt Lake City, UT*
-- Redtwist Theatre *Chicago, IL*
-- Renaissance Theaterworks *Milwaukee, WI*
-- Rep Stage *Columbia, MD*
-- Rivendell Theatre Ensemble *Chicago, IL*
-- Road Less Traveled Productions *Buffalo, NY*
-- Rogue Machine Theatre *Los Angeles, CA*
-- Rorschach Theatre *Washington, DC*
-- Round House Theatre *Bethesda, MD*
-- San Francisco Playhouse *San Francisco, CA*
-- Seattle Public Theatre *Seattle, WA*
-- Shadowland Stages *Ellenville, NY*
-- Shrewd Productions *Austin, TX*
-- Simpatico Theatre *Philadelphia, PA*
-- Skylight Theatre Company *Los Angeles, CA*
-- South Coast Repertory *Costa Mesa, CA*
-- Stageworks *Tampa, FL*
-- Su Teatro *Denver, CO*
-- Synchronicity Theatre *Atlanta, GA*
-- Taproot Theatre Company *Seattle, WA*
-- The Custom Made Theatre Company *San Francisco, CA*
-- The NOLA Project *New Orleans, LA*
-- The Public Theatre *Lewiston, ME*
-- The Wilbury Theatre Group *Providence, RI*
-- Theater Alliance *Washington, DC*
-- Theater J *Washington, DC*
-- Theatre 3 *Dallas, TX*
-- Theatre Exile *Philadelphia, PA*
+- [Greenway Court Theatre](http://www.greenwaycourttheatre.org/) *Los Angeles, CA*
+- [Gulfshore Playhouse](http://www.gulfshoreplayhouse.org/) *Naples, FL*
+- [Halcyon Theatre](http://halcyontheatre.org/) *Chicago, IL*
+- [History Theatre](http://www.historytheatre.com/) *St. Paul, MN*
+- [IAMA Theatre Company](http://www.iamatheatre.com/) *Van Nuys, CA*
+- [Island City Stage](http://www.islandcitystage.org/) *Wilton Manors, FL*
+- [Know Theatre of Cincinnati](http://knowtheatre.com/) *Cincinnati, OH*
+- [Lower Depth Theatre Ensemble](http://www.lowerdepththeatreensemble.org/) *Los Angeles, CA*
+- [Merrimack Repertory Theatre](https://mrt.org/) *Lowell, MA*
+- [Milwaukee Repertory Theater](http://www.milwaukeerep.com/) *Milwaukee, WI*
+- [Minnesota Jewish Theater Company](http://mnjewishtheatre.org/) *St. Paul, MN*
+- [Moving Arts](http://movingarts.org/) *Los Angeles, CA*
+- [Moxie Theatre](http://www.moxietheatre.com/) *San Diego, CA*
+- [Native Voices at the Autry](https://theautry.org/native-voices/theatre-native-voices) *Los Angeles, CA*
+- [New Conservatory Theatre Center](https://www.nctcsf.org/) *San Francisco, CA*
+- [New Light Theater Project](http://www.NewLightTheaterProject.com) *New York, NY*
+- [NewYorkRep](https://www.newyorkrep.org/) *New York, NY*
+- [Oregon Contemporary Theatre](http://www.octheatre.org/) *Eugene, OR*
+- [Out of Hand Theater](http://www.outofhandtheater.com/) *Atlanta, GA*
+- [Pacific Resident Theatre](http://www.pacificresidenttheatre.com/) *Los Angeles, CA*
+- [Palm Beach Dramaworks](http://www.palmbeachdramaworks.org/) *West Palm Beach, FL*
+- [People’s Light](http://peopleslight.org/) *Malvern, PA*
+- [Phoenix Arts Association Theatre](http://www.phoenixtheatresf.org/) *San Francisco, CA*
+- [Plan-B Theatre Company](http://www.planbtheatre.org/) *Salt Lake City, UT*
+- [PlayGround](http://www.playground-sf.org/) *Berkeley, CA*
+- [PlayMakers Repertory Company](https://playmakersrep.org/) *Chapel Hill, NC*
+- [Portland Center Stage](https://www.pcs.org/) *Portland, OR*
+- [PYGmalion Theatre Company](http://pygmalionproductions.org/) *Salt Lake City, UT*
+- [Redtwist Theatre](http://www.redtwist.org/) *Chicago, IL*
+- [Renaissance Theaterworks](https://www.r-t-w.com/) *Milwaukee, WI*
+- [Rep Stage](http://www.repstage.org/index.html) *Columbia, MD*
+- [Rivendell Theatre Ensemble](http://rivendelltheatre.org/) *Chicago, IL*
+- [Road Less Traveled Productions](http://www.roadlesstraveledproductions.org/) *Buffalo, NY*
+- [Rogue Machine Theatre](http://roguemachinetheatre.com/) *Los Angeles, CA*
+- [Rorschach Theatre](https://rorschachtheatre.com/) *Washington, DC*
+- [Round House Theatre](http://www.roundhousetheatre.org/) *Bethesda, MD*
+- [San Francisco Playhouse](http://sfplayhouse.org/sfph/) *San Francisco, CA*
+- [Seattle Public Theatre](https://www.seattlepublictheater.org/) *Seattle, WA*
+- [Shadowland Stages](https://shadowlandstages.org/) *Ellenville, NY*
+- [Shrewd Productions](http://www.shrewdproductions.com/) *Austin, TX*
+- [Simpatico Theatre](https://www.simpaticotheatre.org/) *Philadelphia, PA*
+- [Skylight Theatre Company](http://skylighttheatrecompany.com/) *Los Angeles, CA*
+- [South Coast Repertory](http://www.scr.org/) *Costa Mesa, CA*
+- [Stageworks](http://stageworkstheatre.org/) *Tampa, FL*
+- [Su Teatro](http://www.suteatro.org/) *Denver, CO*
+- [Synchronicity Theatre](http://www.synchrotheatre.com/) *Atlanta, GA*
+- [Taproot Theatre Company](http://taproottheatre.org/) *Seattle, WA*
+- [The Custom Made Theatre Company](http://www.custommade.org/) *San Francisco, CA*
+- [The NOLA Project](http://www.nolaproject.com/) *New Orleans, LA*
+- [The Public Theatre](https://thepublictheatre.org/) *Lewiston, ME*
+- [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
+- [Theater Alliance](http://www.theateralliance.com/) *Washington, DC*
+- [Theater J](http://washingtondcjcc.org/center-for-arts/theater-j/) *Washington, DC*
+- [Theatre 3](https://www.theatre3dallas.com/) *Dallas, TX*
+- [Theatre Exile](http://www.theatreexile.org/) *Philadelphia, PA*
 - [Theatre Lab](http://fau.edu/artsandletters/theatrelab/) *Boca Raton, FL*
-- Theatre NOVA *Ann Arbor, MI*
-- Thrown Stone Theatre Company *Ridgefield, CT*
-- Trinity Rep *Providence, RI*
-- Vermont Stage Company *Burlington, VT*
-- Weston Playhouse Theatre Company *Weston, VT*
-- Williamston Theatre *Williamston, MI*
-- Zoetic Stage *Miami, FL*
+- [Theatre NOVA](https://www.theatrenova.org/) *Ann Arbor, MI*
+- [Thrown Stone Theatre Company](http://thrownstone.org/) *Ridgefield, CT*
+- [Trinity Rep](https://www.trinityrep.com/) *Providence, RI*
+- [Vermont Stage Company](http://www.vermontstage.org/) *Burlington, VT*
+- [Weston Playhouse Theatre Company](https://www.westonplayhouse.org/) *Weston, VT*
+- [Williamston Theatre](http://www.williamstontheatre.com/) *Williamston, MI*
+- [Zoetic Stage](http://www.zoeticstage.org/) *Miami, FL*
 
