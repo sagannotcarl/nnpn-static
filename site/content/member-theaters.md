@@ -99,7 +99,6 @@ weight:       -7
 - [Plan-B Theatre Company](http://www.planbtheatre.org/) *Salt Lake City, UT*
 - [PlayGround](http://www.playground-sf.org/) *Berkeley, CA*
 - [PlayMakers Repertory Company](https://playmakersrep.org/) *Chapel Hill, NC*
-- [Portland Center Stage](https://www.pcs.org/) *Portland, OR*
 - [PYGmalion Theatre Company](http://pygmalionproductions.org/) *Salt Lake City, UT*
 - [Redtwist Theatre](http://www.redtwist.org/) *Chicago, IL*
 - [Renaissance Theaterworks](https://www.r-t-w.com/) *Milwaukee, WI*
