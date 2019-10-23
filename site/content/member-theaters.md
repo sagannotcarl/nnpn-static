@@ -24,7 +24,7 @@ weight:       -7
 - [Kitchen Dog Theater](https://www.kitchendogtheater.org/) *Dallas, TX*
 - [Magic Theatre](http://magictheatre.org/) *San Francisco, CA*
 - [Marin Theatre Company](https://www.marintheatre.org/) *Mill Valley, CA*
-- [Milagro](http://www.milagro.org/) *Portland, OR
+- [Milagro](http://www.milagro.org/) *Portland, OR*
 - [Mixed Blood Theater](http://www.mixedblood.com/) *Minneapolis, MN*
 - [New Jersey Repertory Company](http://www.njrep.org/) *Long Branch, NJ*
 - [New Repertory Theatre](http://www.newrep.org/) *Watertown, MA*
