@@ -95,6 +95,7 @@ weight:       -7
 - [Palm Beach Dramaworks](http://www.palmbeachdramaworks.org/) *West Palm Beach, FL*
 - [People’s Light](http://peopleslight.org/) *Malvern, PA*
 - [Phoenix Arts Association Theatre](http://www.phoenixtheatresf.org/) *San Francisco, CA*
+- [Pillsbury House Theatre](https://pillsburyhouseandtheatre.org/) *Minneapolis, MN*
 - [Plan-B Theatre Company](http://www.planbtheatre.org/) *Salt Lake City, UT*
 - [PlayGround](http://www.playground-sf.org/) *Berkeley, CA*
 - [PlayMakers Repertory Company](https://playmakersrep.org/) *Chapel Hill, NC*
