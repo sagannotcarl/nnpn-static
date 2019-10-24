@@ -1,5 +1,5 @@
 ---
-title:          "Barnett"
+title:          "1Barnett"
 name_override:  "Nan Barnett"
 image:          "csh_0003.jpg"
 current:        "true"
