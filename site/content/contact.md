@@ -1,5 +1,5 @@
 ---
-title:        "Read"
+title:        "Contact"
 identifier:   "contact"
 menu:         "top"
 weight:       4
