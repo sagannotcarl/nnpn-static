@@ -1,6 +1,7 @@
 ---
 title:      "2020-25 Strategic Plan"
 identifier: "strategic_plan"
+image:      "National-New-Play-Network-ledger.jpg"
 type:       "about"
 menu:
   main:
