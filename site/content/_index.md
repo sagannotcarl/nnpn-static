@@ -1,6 +1,8 @@
 ---
-title:      "National New Play Network"
-identifier: "home"
+title:                    "National New Play Network"
+testimonial_text:         "NNPN’s Rolling World Premiere program is the only – the only program of its kind that offers this chance to playwrights, their plays, and the larger theater community as a whole."
+testimonial_attribution:  "Steven Dietz, *Two-time NNPN Rolling World Premiere Playwright*"
+identifier:               "home"
 ---
 
 - 16th Street Theater
