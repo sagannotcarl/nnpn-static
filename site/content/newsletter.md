@@ -1,5 +1,5 @@
 ---
-title:        "Newsletter"
+title:        "Read"
 identifier:   "read"
 menu:         "top"
 weight:       3
