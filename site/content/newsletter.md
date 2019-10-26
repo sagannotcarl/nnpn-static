@@ -1,5 +1,5 @@
 ---
-title:        "Read"
+title:        "New Work Times"
 identifier:   "read"
 menu:         "top"
 weight:       3
