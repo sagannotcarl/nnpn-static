@@ -1,7 +1,7 @@
 ---
 title: "5González"
 name_override: "José González"
-image: "jose_gonzalez.jpg"
+image: "Jose-Gonzalez.jpg"
 current: "true"
 related:
 - Board of Directors
