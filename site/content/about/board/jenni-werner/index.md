@@ -1,7 +1,7 @@
 ---
 title: "Werner"
 name_override: "Jenni Werner"
-image: "Jenni-Werner.jpg"
+image: "jenni-werner_john-schlia-photo-web.jpg"
 current: "true"
 related:
 - Board of Directors
