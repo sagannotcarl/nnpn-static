@@ -1,7 +1,7 @@
 ---
 title: "Reuler"
 name_override: "Jack Reuler"
-image: "jack_reuler.jpg"
+image: "Jack-Reuler.jpg"
 current: "true"
 related:
 - Board of Directors
