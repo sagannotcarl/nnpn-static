@@ -1,7 +1,7 @@
 ---
 title: "Amon"
 name_override: "Patrice Amon"
-image: "Patrice-Amon.jpg"
+image: "Patrice-Amon.png"
 current: "true"
 related:
 - Board of Directors
