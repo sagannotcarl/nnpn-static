@@ -7,4 +7,4 @@ related:
 - Board of Directors
 ---
 
-Director of New Play Development, Orlando Shakespeare Theatre
+Director of New Play Development, Orlando Shakes in partnership with UCF
