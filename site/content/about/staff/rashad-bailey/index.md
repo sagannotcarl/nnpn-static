@@ -1,7 +1,7 @@
 ---
 title:          "Bailey"
 name_override:  "Rashad Bailey"
-image:          "Rashad-Bailey.jpg"
+image:          "Rashad-Bailey.png"
 current:        "true"
 related:
 - Staff
