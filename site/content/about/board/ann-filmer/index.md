@@ -1,7 +1,7 @@
 ---
 title: "3Filmer"
 name_override: "Ann Filmer"
-image: "ann_filmer.jpg"
+image: "Ann-Filmer.jpg"
 current: "true"
 related:
 - Board of Directors
