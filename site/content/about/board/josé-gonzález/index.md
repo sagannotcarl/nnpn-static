@@ -7,5 +7,5 @@ related:
 - Board of Directors
 ---
 
-Nominating Committee Chair\
+Nominating Committee Chair - Executive Committee\
 Executive Director, Milagro
