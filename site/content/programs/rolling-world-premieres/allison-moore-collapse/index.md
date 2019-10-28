@@ -1,6 +1,7 @@
 ---
 title: "Allison Moore"
 image: "alison_moore.jpg"
+link: "https://twitter.com/allisonindiana?lang=en"
 current: "false"
 related:
 - Rolling World Premieres
