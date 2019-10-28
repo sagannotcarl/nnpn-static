@@ -1,7 +1,7 @@
 ---
 title: "Engelman"
 name_override: "Liz Engelman"
-image: "Liz-Engelman.jpf"
+image: "Liz-Engelman.jpg"
 current: "true"
 related:
 - Board of Directors
