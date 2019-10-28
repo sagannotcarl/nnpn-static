@@ -6,7 +6,7 @@ menu:
   main:
     parent:     "Programs"
   programs:
-weight:         3
+weight:         11
 current_label:  "2019"
 related:
 - David Goldman Fund for New American Plays
