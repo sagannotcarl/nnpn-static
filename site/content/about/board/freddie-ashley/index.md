@@ -7,5 +7,5 @@ related:
 - Board of Directors
 ---
 
-Vice President - Executive Committee | Membership Chair\
+Vice President | Membership Committee Chair - Executive Committee\
 Artistic Director, Actor’s Express
