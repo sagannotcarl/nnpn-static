@@ -7,8 +7,8 @@ menu:
   about:
 weight:     1
 type:           "about"
-current_label:  "Officials"
-past_label:     "At-large"
+current_label:  
+past_label:     
 related:
 - Board of Directors
 ---
