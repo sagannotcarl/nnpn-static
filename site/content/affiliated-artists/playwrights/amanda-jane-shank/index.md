@@ -4,4 +4,4 @@ image: "amanda_shank.jpg"
 link: "newplayexchange.org/users/631/amanda-jane-shank"
 ---
 
-[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop), [Collaboration Fund](/programs/collaboration-fund)
+[MFA Playwrights’ Workshop](/programs/mfa-playwrights-workshop), [Playwright in Residence](/programs/collaboration-fund)
