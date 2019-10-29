@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/223/reina-hardy"
 current: "true"
 related:
 - Rolling World Premieres
-play: "ANNIE JUMP AND THE LIBRARY OF HEAVEN"
+play: "Annie Jump and the Library of Heaven"
 type: "rolling_premier"
 ---
 
