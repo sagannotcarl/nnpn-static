@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/233/sean-christopher-lewis"
 current: "false"
 related:
 - Rolling World Premieres
-play: "DOGS OF RWANDA"
+play: "Dogs of Rwanda"
 type: "rolling_premier"
 ---
 
