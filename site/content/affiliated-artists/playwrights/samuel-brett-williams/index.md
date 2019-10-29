@@ -3,4 +3,4 @@ title: "Samuel Brett Williams"
 image: "samuel_brett_williams_1.jpg"
 ---
 
-[Collaboration Fund](/programs/collaboration-fund), [Commissions](/programs/commissions)
+[Playwright in Residence](/programs/collaboration-fund), [Annual Commission](/programs/commissions)
