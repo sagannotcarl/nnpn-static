@@ -10,3 +10,5 @@ related:
 *Killadelphia* (Smith Prize)\
 First Production: InterAct Theatre Company
 
+Horizon Theatre Company, *A-PLUS*
+
