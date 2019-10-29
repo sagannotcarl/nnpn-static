@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/216/stephen-spotswood"
 current: "false"
 related:
 - Rolling World Premieres
-play: "DOUBLEWIDE"
+play: "Doublewide"
 type: "rolling_premier"
 ---
 
