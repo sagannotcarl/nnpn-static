@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/435/ken-weitzman"
 current: "false"
 related:
 - Rolling World Premieres
-play: "HALFTIME WITH DON"
+play: "Halftime with Don"
 type: "rolling_premier"
 ---
 
