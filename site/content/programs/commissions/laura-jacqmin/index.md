@@ -7,5 +7,5 @@ related:
 - Commissions
 ---
 
-Victory Gardens,* *Untitled "College Kids Travel through Time" Play
+Victory Gardens, *Untitled "College Kids Travel through Time" Play*
 
