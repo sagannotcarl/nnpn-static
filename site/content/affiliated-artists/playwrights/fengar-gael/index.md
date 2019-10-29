@@ -4,4 +4,4 @@ image: "fengar_gael.jpg"
 link: "newplayexchange.org/users/232/fengar-gael"
 ---
 
-[Commissions](/programs/commissions)
+[Annual Commissions](/programs/commissions)
