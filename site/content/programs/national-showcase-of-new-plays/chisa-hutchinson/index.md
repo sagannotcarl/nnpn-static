@@ -1,7 +1,7 @@
 ---
 title: "Chisa Hutchinson"
 image: "chisa_hutchinson.jpg"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
