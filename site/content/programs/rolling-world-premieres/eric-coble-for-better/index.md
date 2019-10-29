@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/3205/eric-coble"
 current: "false"
 related:
 - Rolling World Premieres
-play: "FOR BETTER"
+play: "For Better"
 type: "rolling_premier"
 ---
 
