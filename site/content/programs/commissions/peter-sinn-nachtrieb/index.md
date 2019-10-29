@@ -7,5 +7,5 @@ related:
 - Commissions
 ---
 
-NNPN and Full Stage USA,* The Totalitarians*
+NNPN and Full Stage USA, *The Totalitarians*
 
