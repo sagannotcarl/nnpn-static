@@ -2,7 +2,7 @@
 title: "Audrey Cefaly"
 image: "audre_cefaly_10.4.18.jpg"
 link: "newplayexchange.org/users/962/audrey-cefaly"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
