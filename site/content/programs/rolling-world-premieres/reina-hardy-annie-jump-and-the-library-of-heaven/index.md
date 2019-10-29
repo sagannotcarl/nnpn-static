@@ -15,7 +15,8 @@ Milwaukee, WI
 **Rorschach Theatre**\
 Washington, DC
 
-**The VORTEX - opens 4/9/2020**\
+**The VORTEX**\
+opens April 9, 2020\
 Austin, TX
 
 **Thrown Stone**\
