@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/4095/will-snider"
 current: "false"
 related:
 - Rolling World Premieres
-play: "HOW TO USE A KNIFE"
+play: "How to Use a Knife"
 type: "rolling_premier"
 ---
 
