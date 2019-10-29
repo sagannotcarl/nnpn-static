@@ -1,7 +1,7 @@
 ---
-title: "David Valdes Greenwood"
-image: "david_valdes_greenwood_new.jpg"
-link: "newplayexchange.org/users/929/david-valdes-greenwood"
+title: "David Valdes"
+image: "David-Valdes.jpg"
+link: "https://newplayexchange.org/users/929/david-valdes-formerly-david-valdes-greenwood"
 current: "false"
 related:
 - Rolling World Premieres
