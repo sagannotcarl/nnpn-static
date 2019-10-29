@@ -2,7 +2,7 @@
 title: "Lisa Langford"
 image: "lisa_langford_10.4.18.jpg"
 link: "newplayexchange.org/users/9569/lisa-langford"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
