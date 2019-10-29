@@ -1,6 +1,6 @@
 ---
 title: "A Emmanual Leadon"
-image: "A-Emmanuel-Leadon.jpeg"
+image: "A-Emmanuel-Leadon.jpg"
 link: "https://newplayexchange.org/users/19059/emmanuel-leadon"
 current: "true"
 related:
