@@ -1,6 +1,6 @@
 ---
 title: "Joe Giovannetti"
-image: "joe_giovannetti.jpg"
+image: "Joe-Giovannetti.png"
 link: "newplayexchange.org/users/22308/joe-giovannetti"
 current: "false"
 related:
