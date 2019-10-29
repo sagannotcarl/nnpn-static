@@ -9,10 +9,11 @@ play: "My Lord, What A Night"
 type: "rolling_premier"
 ---
 
-**Contemporary American Theater Festival - 7/5-7/28/2019**\
+**Contemporary American Theater Festival**\
 Shepherdstown, WV
 
 **Orlando Shakes**\
+March 18 - April 26, 2020\
 Orlando, FL
 
 **Florida Studio Theatre**\
