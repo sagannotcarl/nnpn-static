@@ -14,7 +14,7 @@ type: "rolling_premier"
 December 17, 2019 - January 26, 2020
 Fort Myers, FL
 
-[**Capital Stage**](https://capstage.org/alabaster/}\
+[**Capital Stage**](https://capstage.org/alabaster/)\
 Sacramento, CA
 
 [**16th Street Theater**](https://16thstreettheater.org/season-thirteen-2020/)\
