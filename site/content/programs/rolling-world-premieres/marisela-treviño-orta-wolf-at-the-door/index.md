@@ -18,5 +18,6 @@ Dallas, TX
 **Milagro**\
 Portland, OR
 
-**Halcyon Theatre - opens October 2019**\
+**Halcyon Theatre**\
+Spring 2020\
 Chicago, IL
