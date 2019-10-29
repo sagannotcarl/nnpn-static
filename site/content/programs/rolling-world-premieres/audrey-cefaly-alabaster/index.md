@@ -11,7 +11,7 @@ type: "rolling_premier"
 ---
 
 [**Florida Repertory Theatre**](https://www.floridarep.org/the-season/alabaster/)\
-December 17, 2019 - January 26, 2020
+December 17, 2019 - January 26, 2020\
 Fort Myers, FL
 
 [**Capital Stage**](https://capstage.org/alabaster/)\
