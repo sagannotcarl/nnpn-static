@@ -2,8 +2,8 @@
 title: "E.M. Lewis"
 image: "em_lewis.jpg"
 link: "newplayexchange.org/users/1044/e-m-lewis"
-current: "true"
-promoted: "true"
+current: "false"
+promoted: "false"
 related:
 - Rolling World Premieres
 play: "Apple Season"
@@ -16,5 +16,5 @@ Long Branch, NJ
 **Riverside Theatre**\
 Iowa City, IA
 
-**Moving Arts - 7/12-8/5/2019**\
+**Moving Arts**\
 Los Angeles, CA
