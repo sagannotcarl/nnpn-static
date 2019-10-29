@@ -2,8 +2,8 @@
 title: "D.W. Gregory"
 image: "dw_gregory.jpg"
 link: "newplayexchange.org/users/139/dw-gregory"
-current: "true"
-promoted: "true"
+current: "false"
+promoted: "false"
 related:
 - Rolling World Premieres
 play: "Memoirs of a Forgotten Man"
@@ -15,5 +15,5 @@ Shepherdstown, WV
 **Shadowland Stages**\
 Ellenville, NY
 
-**New Jersey Repertory Company - opens 8/29**\
+**New Jersey Repertory Company**\
 Long Branch, NJ
