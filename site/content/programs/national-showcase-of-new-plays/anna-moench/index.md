@@ -2,7 +2,7 @@
 title: "Anna Moench"
 image: "_mg_1285.jpg"
 link: "newplayexchange.org/users/13259/anna-moench"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
