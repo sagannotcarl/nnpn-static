@@ -2,7 +2,7 @@
 title: "David Jacobi"
 image: "david_jacobi.jpg"
 link: "newplayexchange.org/users/622/david-jacobi"
-current: "true"
+current: "false"
 related:
 - Rolling World Premieres
 play: "Ready Steady Yeti Go"
@@ -15,5 +15,5 @@ Philadelphia, PA
 **Stageworks Theatre**\
 Tampa, FL
 
-**Rogue Machine Theatre - now thru 7/16**\
+**Rogue Machine Theatre**\
 Los Angeles, CA
