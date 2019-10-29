@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/138/gabriel-jason-dean"
 current: "false"
 related:
 - Rolling World Premieres
-play: "HEARTLAND"
+play: "Heartland"
 type: "rolling_premier"
 ---
 
