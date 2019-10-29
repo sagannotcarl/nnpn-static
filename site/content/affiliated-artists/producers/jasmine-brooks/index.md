@@ -1,6 +1,6 @@
 ---
 title: "Jasmine Brooks"
-image: "jasmine_brooks.jpg"
+image: "Jasmine-Brooks.jpg"
 link: "https://newplayexchange.org/users/16133/jasmine-brooks"
 ---
 
