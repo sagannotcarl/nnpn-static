@@ -6,5 +6,5 @@ related:
 - Commissions
 ---
 
-New Jersey Repertory Theatre,* Soul on Vinyl*
+New Jersey Repertory Theatre, *Soul on Vinyl*
 
