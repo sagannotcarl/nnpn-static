@@ -7,5 +7,5 @@ related:
 - Commissions
 ---
 
-Kitchen Dog Theatre,* Ponzi*
+Kitchen Dog Theatre, *Ponzi*
 
