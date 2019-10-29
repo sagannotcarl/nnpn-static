@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/158/steve-yockey"
 current: "true"
 related:
 - Rolling World Premieres
-play: "REYKJAVÍK"
+play: "Reykjavík"
 type: "rolling_premier"
 ---
 
