@@ -7,7 +7,7 @@ menu:
   programs:
 weight:         3
 type:           "programs"
-current_label:  "2018 Showcase Plays"
+current_label:  "2019 Showcase Plays"
 past_label:     "Past Showcase Plays"
 related:
 - National Showcase of New Plays
