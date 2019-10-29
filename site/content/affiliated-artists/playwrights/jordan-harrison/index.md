@@ -3,4 +3,4 @@ title: "Jordan Harrison"
 image: "jordan_harrison.jpg"
 ---
 
-[Commissions](/programs/commissions)
+[Annual Commission](/programs/commissions)
