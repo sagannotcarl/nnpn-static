@@ -16,7 +16,7 @@ Milwaukee, WI
 Washington, DC
 
 **The VORTEX**\
-opens April 9, 2020\
+April 9 - May 2, 2020\
 Austin, TX
 
 **Thrown Stone**\
