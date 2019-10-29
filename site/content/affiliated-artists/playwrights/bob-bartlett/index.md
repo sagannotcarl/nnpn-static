@@ -4,4 +4,4 @@ image: "bob_bartlett.jpg"
 link: "newplayexchange.org/users/248/bob-bartlett"
 ---
 
-DC Area Writers Showcase
+[DC Area Writers Showcase]((/programs/dc-area-writers-showcase))
