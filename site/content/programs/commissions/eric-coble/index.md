@@ -7,5 +7,5 @@ related:
 - Commissions
 ---
 
-Curious Theatre Company,* For Better*
+Curious Theatre Company, *For Better*
 
