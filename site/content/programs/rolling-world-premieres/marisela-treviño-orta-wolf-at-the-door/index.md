@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/148/marisela-trevi%C3%B1o-orta"
 current: "true"
 related:
 - Rolling World Premieres
-play: "WOLF AT THE DOOR"
+play: "Wolf at the Door"
 type: "rolling_premier"
 ---
 
