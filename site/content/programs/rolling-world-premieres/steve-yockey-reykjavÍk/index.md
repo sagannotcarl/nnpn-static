@@ -18,5 +18,6 @@ Washington, DC
 **Kitchen Dog Theater**\
 Dallas, TX
 
-**Southern Rep Theatre - opens February 2020**\
+**Southern Rep Theatre**\
+February 2020\
 New Orleans, LA
