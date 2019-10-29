@@ -5,7 +5,7 @@ link: "newplayexchange.org/users/2288/tearrance-chisholm"
 current: "false"
 related:
 - Rolling World Premieres
-play: "BR’ER COTTON"
+play: "Br'er Cotton"
 type: "rolling_premier"
 ---
 
