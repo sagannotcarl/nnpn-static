@@ -7,7 +7,6 @@ image:      "goodness.jpg"
 weight:     -5
 ---
 
-Intro about affiliated artists
 
 - [Playwrights](/affiliated-artists/playwrights)
 - [Directors](/affiliated-artists/directors)
