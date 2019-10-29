@@ -7,6 +7,6 @@ related:
 - Commissions
 ---
 
-*Ironbound *(Smith Prize)\
+*Ironbound* (Smith Prize)\
 First Production: Round House Theatre
 
