@@ -1,6 +1,6 @@
 ---
 title: "Joan Ackermann"
-image: "playwright.png"
+image: "Joan-Ackermann.jpg"
 ---
 
 [Rolling World Premieres](/programs/rolling-world-premieres)
