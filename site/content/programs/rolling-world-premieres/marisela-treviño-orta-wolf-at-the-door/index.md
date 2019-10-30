@@ -9,15 +9,15 @@ play: "Wolf at the Door"
 type: "rolling_premier"
 ---
 
-**New Jersey Repertory Company**\
+[**New Jersey Repertory Company**](http://www.njrep.org/plays/wolf.htm)\
 Long Branch, NJ
 
-**Kitchen Dog Theater**\
+[**Kitchen Dog Theater**](https://www.kitchendogtheater.org/wolf)\
 Dallas, TX
 
-**Milagro**\
+[**Milagro**](https://milagro.org/event/wolf-at-the-door/)\
 Portland, OR
 
-**Halcyon Theatre**\
+[**Halcyon Theatre**](https://halcyontheatre.org/productions/wolf)\
 Spring 2020\
 Chicago, IL
