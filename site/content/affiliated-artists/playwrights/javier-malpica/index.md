@@ -1,6 +1,6 @@
 ---
 title: "Javier Malpica"
-image: "playwright.png"
+image: "Javier-Malpica.jpg"
 ---
 
 [National Showcase of New Plays](/programs/national-showcase-of-new-plays)
