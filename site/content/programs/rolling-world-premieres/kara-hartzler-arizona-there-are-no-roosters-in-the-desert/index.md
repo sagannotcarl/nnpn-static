@@ -1,5 +1,6 @@
 ---
 title: "Kara Hartzler"
+image: "Kara-Hartzler.jpg"
 current: "false"
 related:
 - Rolling World Premieres
