@@ -9,15 +9,15 @@ play: "Reykjavík"
 type: "rolling_premier"
 ---
 
-**Actor&#039;s Express**\
+[**Actor&#039;s Express**](https://www.actors-express.com/plays/reykjav%C3%ADk)\
 Atlanta, GA
 
-**Rorschach Theatre**\
+[**Rorschach Theatre**](https://rorschachtheatre.com/reykjavik/)\
 Washington, DC
 
-**Kitchen Dog Theater**\
+[**Kitchen Dog Theater**](https://www.kitchendogtheater.org/reykjavik)\
 Dallas, TX
 
-**Southern Rep Theatre**\
-February 2020\
+[**Southern Rep Theatre**](http://www.southernrep.com/reykjavik/)\
+March 18 - April 5, 2020\
 New Orleans, LA
