@@ -1,6 +1,7 @@
 ---
 title: "Joan Ackermann"
 current: "false"
+image: "Joan-Ackermann.jpg"
 related:
 - Rolling World Premieres
 play: "Ice Glen"
