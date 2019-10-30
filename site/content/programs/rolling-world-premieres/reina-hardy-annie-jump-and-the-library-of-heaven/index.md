@@ -9,15 +9,16 @@ play: "Annie Jump and the Library of Heaven"
 type: "rolling_premier"
 ---
 
-**Renaissance Theaterworks**\
+[**Renaissance Theaterworks**](http://r-t-w.com/assets/renaissance-anniejump-.pdf)\
 Milwaukee, WI
 
-**Rorschach Theatre**\
+[**Rorschach Theatre**](https://rorschachtheatre.com/2019/03/03/annie-jump-and-the-library-of-heaven-opens-april-2019/)\
 Washington, DC
 
-**The VORTEX**\
-April 9 - May 2, 2020\
+[**The VORTEX**](http://vortexrep.org/30_homeward)\
+April 11 - May 2, 2020\
 Austin, TX
 
-**Thrown Stone**\
+[**Thrown Stone**](https://thrownstone.org/annie/)\
+July 11 - 26, 2020\
 Ridgefield, CT
