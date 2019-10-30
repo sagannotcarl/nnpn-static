@@ -7,6 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*House on the Hill* (Alumni Project)\
+*House on the Hill* (Alumni Project)\
 *Day 392*, Hunter College
 

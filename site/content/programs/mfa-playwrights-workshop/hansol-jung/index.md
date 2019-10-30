@@ -7,5 +7,5 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Undesirables,* Yale School of Drama (in association with Seattle Repertory Theatre)
+*Undesirables*, Yale School of Drama (in association with Seattle Repertory Theatre)
 

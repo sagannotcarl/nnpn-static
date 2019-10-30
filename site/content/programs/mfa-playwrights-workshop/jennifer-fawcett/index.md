@@ -7,6 +7,6 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Birthwives and Witches* (Alumni Project)\
+*Birthwives and Witches* (Alumni Project)\
 *The Toymaker's War*, University of Iowa
 

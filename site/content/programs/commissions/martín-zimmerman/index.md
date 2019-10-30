@@ -7,5 +7,5 @@ related:
 - Commissions
 ---
 
-*White Tie Ball* (Smith Prize)
+*White Tie Ball* (Smith Prize)\
 

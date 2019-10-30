@@ -7,5 +7,5 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Leftover,* Yale School of Drama (The Lorraine Hansberry Workshop, in association with Company One)
+*Leftover*, Yale School of Drama (The Lorraine Hansberry Workshop, in association with Company One)
 

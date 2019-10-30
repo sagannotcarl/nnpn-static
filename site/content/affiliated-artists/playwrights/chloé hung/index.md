@@ -1,5 +1,5 @@
 ---
-title: "Chloé Hung"
+title: "Chloé Hung"
 image: "chloe_hung.jpg"
 ---
 

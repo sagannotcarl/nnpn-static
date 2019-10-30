@@ -6,5 +6,5 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Colossal,* The University of Texas at Austin
+*Colossal*, The University of Texas at Austin
 
