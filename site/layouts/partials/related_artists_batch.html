@@ -20,10 +20,8 @@
           <div class="artist-name">{{ .Params.play }}</div>
           <a class="author-name" href="//{{ .Params.link }}">by {{ .Title }}</a>
         {{ else }}
-          <div class="artist-name">{{ .Title }}</div>
-          {{ if .Params.author }}
-            <span>by {{ .Params.author }}</span>
-          {{ end }}
+          <div class="artist-name">{{ .Params.play }}</div>
+          <span>by {{ .Title }}</span>
         {{ end }}
       {{ else if .Params.name_override }}
         <div class="artist-name">{{ .Params.name_override }}</div>
@@ -65,10 +63,8 @@
           <div class="artist-name">{{ .Params.play }}</div>
           <a class="author-name" href="//{{ .Params.link }}">by {{ .Title }}</a>
         {{ else }}
-          <div class="artist-name">{{ .Title }}</div>
-          {{ if .Params.author }}
-            <span>by {{ .Params.author }}</span>
-          {{ end }}
+          <div class="artist-name">{{ .Params.play }}</div>
+          <span>by {{ .Title }}</span>
         {{ end }}
       {{ else if .Params.name_override }}
         <div class="artist-name">{{ .Params.name_override }}</div>
@@ -79,6 +75,8 @@
           <div class="artist-name">{{ .Title }}</div>
         {{ end }}
       {{ end }}
+
+
       {{ .Content }}
     </div>
   </li>
