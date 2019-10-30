@@ -1,5 +1,6 @@
 ---
 title: "Andrew Case"
+image: "Andrew-Case.png"
 link: "newplayexchange.org/users/682/andrew-case"
 current: "false"
 related:
