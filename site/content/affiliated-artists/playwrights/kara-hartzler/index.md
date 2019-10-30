@@ -1,6 +1,6 @@
 ---
 title: "Kara Hartzler"
-image: "playwright.png"
+image: "Kara-Hartzler.jpg"
 ---
 
 [Rolling World Premieres](/programs/rolling-world-premieres)
