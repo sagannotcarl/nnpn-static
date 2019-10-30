@@ -1,5 +1,6 @@
 ---
 title: "Kristin Simpson"
+image: "playwright.png"
 current: "false"
 related:
 - MFA Playwrights’ Workshop
