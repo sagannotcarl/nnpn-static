@@ -15,28 +15,37 @@ December 17, 2019 - January 26, 2020\
 Fort Myers, FL
 
 [**Capital Stage**](https://capstage.org/alabaster/)\
+January 22 - February 23, 2020\
 Sacramento, CA
 
 [**16th Street Theater**](https://16thstreettheater.org/season-thirteen-2020/)\
+January 30 - March 1, 2020\
 Berwyn, IL
 
 [**Kitchen Dog Theater**](https://www.kitchendogtheater.org/alabaster)\
+February 12 - March 8, 2020\
 Dallas, TX
 
 [**Shrewd Productions**](http://www.shrewdproductions.com/home)\
+February 20 - March 7, 2020\
 Austin, TX
 
 [**Know Theatre of Cincinnati**](https://knowtheatre.com/season-22/alabaster/)\
+February 27 - March 20, 2020\
 Cincinnati, OH
 
 [**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
+May 7 - 31, 2020\
 Indianapolis, IN
 
 [**Williamston Theatre**](http://www.williamstontheatre.org/alabaster)\
+May 21 - June 21, 2020\
 Williamston, MI
 
 [**New Jersey Repertory Company**](http://www.njrep.org/index.htm)\
+October 15 - November 15, 2020\
 Long Branch, NJ
 
 [**Salt Lake Acting Company**](https://www.saltlakeactingcompany.org/)\
+Fall 2020\
 Salt Lake City, UT
