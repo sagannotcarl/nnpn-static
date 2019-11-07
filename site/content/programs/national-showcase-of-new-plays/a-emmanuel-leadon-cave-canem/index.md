@@ -1,5 +1,5 @@
 ---
-title: "A Emmanual Leadon"
+title: "A Emmanuel Leadon"
 image: "A-Emmanuel-Leadon.jpg"
 link: "https://newplayexchange.org/users/19059/emmanuel-leadon"
 current: "true"
