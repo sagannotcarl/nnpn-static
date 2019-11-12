@@ -75,40 +75,40 @@ Artist Ambassadors
 - **Mark Bly**, The Acting Company/Fordham University
 - **Gigi Bolt**, Columbia School of the Arts
 - **Bostin Christopher**, Virginia Commonwealth University
-- **Ron Clark**, Co-Founder**, Riverside Theatre
+- **Ron Clark**, Co-Founder, Riverside Theatre
 - **Mario Correa**, Screenwriter
-- **Francisca Da Silveira**, Playwright/Dramaturg**, University of Edinburgh
+- **Francisca Da Silveira**, Playwright/Dramaturg, University of Edinburgh
 - **Steven Dietz**, Playwright
 - **Michael Dove**, Director
 - **Carol Dweck**, Stanford University
 - **Liz Engelman**, University of Texas-Austin/Tofte Lake Center
 - **Pat Flick**, Shakespeare Theatre Association
-- **Bryan Fonseca**, Artistic Director**, Fonseca Theatre Company
+- **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company
 - **David H. Friedlander**, Entertainment and Intellectual Property Attorney
-- **Barclay Goldsmith**, Founder**, Borderlands Theater
+- **Barclay Goldsmith**, Founder, Borderlands Theater
 - **Gary Heisserer**, Graceland University
 - **Gregg Henry**, Kennedy Center American College Theater Festival
 - **Donna Hoke**, Road Less Travelled Productions
-- **Jody Hovland**, Co-Founder**, Riverside Theatre
+- **Jody Hovland**, Co-Founder, Riverside Theatre
 - **Morgan Jenness**, In This Distracted Globe
 - **Dr. Ram Koppaka**, U.S. Department of Health & Human Services
 - **Kate Langsdorf**, Comedy Writer
 - **Jessica Litman**, University of Michigan Law School
 - **Amy Rose Marsh**, Samuel French
 - **Ricky J. Martinez**, Director & Playwright
-- **Annaliese McSweeney**, Literary Manager**, Stage Left Theatre
+- **Annaliese McSweeney**, Literary Manager, Stage Left Theatre
 - **Kelly Miller**, Literate.
 - **Amy Mueller**, Director
-- **Shannon Musgrave**, Communications Manager**, Allegheny Regional Asset District
+- **Shannon Musgrave**, Communications Manager, Allegheny Regional Asset District
 - **Kittson O'Neill**, Philadelphia Theater Maker
-- **Bruce Ostler**, Bret Adams**, Ltd.
+- **Bruce Ostler**, Bret Adams, Ltd.
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
 - **Mark Routhier**, Director
-- **Olga Sanchez**, Artistic Director Emerita**, Milagro
-- **Jordan Schwartz**, Associate Producing Director**, Fonseca Theatre Company
+- **Olga Sanchez**, Artistic Director Emerita, Milagro
+- **Jordan Schwartz**, Associate Producing Director, Fonseca Theatre Company
 - **Sandy Shinner**, Shattered Globe Theatre/DePaul University
-- **Dan Shoemaker**, Emeritus Executive Director**, Actor's Theatre of Charlotte
-- **Timothy Jay Smith**, Founder**, the NNPN Smith Prize for Political Theatre
+- **Dan Shoemaker**, Emeritus Executive Director, Actor's Theatre of Charlotte
+- **Timothy Jay Smith**, Founder, the NNPN Smith Prize for Political Theatre
 - **Zev Valancy**, Dramaturg
 - **Amanda White Thietje**, DalekoArts
 - **Richard Winkler**, Red Hanger Productions
