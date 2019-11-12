@@ -19,4 +19,4 @@ Core and Associate Member Theaters, Affiliated Artists from the Playwright in Re
 
 Prospective NNPN members, the Ambassadors Council, Affiliated Artists, and other industry professionals are invited to join our Core and Associate Members at the Showcase. More than 90% of the plays featured in Showcase have received a production within the next three seasons, many of them supported as NNPN Rolling World Premieres.
 
-The 2019 Showcase will be hosted by [Actor's Express](https://bstreettheatre.org/) with support from [Horizon Theatre Company](https://www.horizontheatre.com/) and [Synchronicity Theatre](https://synchrotheatre.com) from December 6-8 in Atlanta. 
+The 2019 Showcase will be hosted by [Actor's Express](https://www.actors-express.com/) with support from [Horizon Theatre Company](https://www.horizontheatre.com/) and [Synchronicity Theatre](https://synchrotheatre.com) from December 6-8 in Atlanta. 
