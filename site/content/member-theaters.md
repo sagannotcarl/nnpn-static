@@ -122,6 +122,7 @@ weight:       -7
 - [The Custom Made Theatre Company](http://www.custommade.org/) *San Francisco, CA*
 - [The NOLA Project](http://www.nolaproject.com/) *New Orleans, LA*
 - [The Public Theatre](https://thepublictheatre.org/) *Lewiston, ME*
+- [The Victory Theatre Center](https://www.thevictorytheatrecenter.org/) *Burbank, CA*
 - [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
 - [Theater Alliance](http://www.theateralliance.com/) *Washington, DC*
 - [Theater J](http://washingtondcjcc.org/center-for-arts/theater-j/) *Washington, DC*
