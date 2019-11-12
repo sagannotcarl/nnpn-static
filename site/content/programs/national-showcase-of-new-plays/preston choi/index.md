@@ -1,7 +1,7 @@
 ---
 title: "Preston Choi"
 image: "Preston-Choi.png"
-link: "https://newplayexchange.org/users/22469/preston-choi"
+link: "newplayexchange.org/users/22469/preston-choi"
 current: "true"
 related:
 - National Showcase of New Plays
