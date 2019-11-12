@@ -85,7 +85,9 @@ Artist Ambassadors
 - **Pat Flick**, Shakespeare Theatre Association
 - **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company
 - **David H. Friedlander**, Entertainment and Intellectual Property Attorney
+- **David Goldman**, Director, Stanford University National Center for New Plays; NNPN Founder
 - **Barclay Goldsmith**, Founder, Borderlands Theater
+- **Jane Harrison**
 - **Gary Heisserer**, Graceland University
 - **Gregg Henry**, Kennedy Center American College Theater Festival
 - **Donna Hoke**, Road Less Travelled Productions
@@ -94,12 +96,13 @@ Artist Ambassadors
 - **Dr. Ram Koppaka**, U.S. Department of Health & Human Services
 - **Kate Langsdorf**, Comedy Writer
 - **Jessica Litman**, University of Michigan Law School
-- **Amy Rose Marsh**, Samuel French
+- **Amy Rose Marsh**, Concord Theatricals
 - **Ricky J. Martinez**, Director & Playwright
 - **Annaliese McSweeney**, Literary Manager, Stage Left Theatre
 - **Kelly Miller**, Literate.
 - **Amy Mueller**, Director
 - **Shannon Musgrave**, Communications Manager, Allegheny Regional Asset District
+- **Bridget O'Leary**, Independent Director and Dramaturg
 - **Kittson O'Neill**, Philadelphia Theater Maker
 - **Bruce Ostler**, Bret Adams, Ltd.
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
@@ -110,7 +113,9 @@ Artist Ambassadors
 - **Dan Shoemaker**, Emeritus Executive Director, Actor's Theatre of Charlotte
 - **Timothy Jay Smith**, Founder, the NNPN Smith Prize for Political Theatre
 - **Zev Valancy**, Dramaturg
+- **Kristen Vehill**, Board Member, 16th Street Theater and Prop Thtr
 - **Amanda White Thietje**, DalekoArts
+- **Donna Willis**, Board Member, Actor's Express
 - **Richard Winkler**, Red Hanger Productions
 - **Gavin Witt**, Dramaturg and Director
 - **Joseph Zettelmaier**, Roustabout Theatre Troupe
