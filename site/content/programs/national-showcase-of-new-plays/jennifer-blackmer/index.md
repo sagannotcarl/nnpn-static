@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Blackmer"
 image: "Jennifer-Blackmer.jpg"
-link: "https://newplayexchange.org/users/1167/jennifer-blackmer"
+link: "newplayexchange.org/users/1167/jennifer-blackmer"
 current: "true"
 related:
 - National Showcase of New Plays
