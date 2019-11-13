@@ -16,6 +16,3 @@ Portland, OR
 [**Company One**](https://companyone.org/production/wolf-play/)\
 January 31 - February 29, 2020\
 Boston, MA
-
-**Mixed Blood Theatre**\
-Minneapolis, MN
