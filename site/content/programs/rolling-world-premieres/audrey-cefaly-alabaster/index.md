@@ -46,6 +46,10 @@ Williamston, MI
 October 15 - November 15, 2020\
 Long Branch, NJ
 
+[**Oregon Contemporary Theatre**](https://www.octheatre.org/)\
+October 21 - November 7, 2020\
+Eugene, OR
+
 [**Salt Lake Acting Company**](https://www.saltlakeactingcompany.org/)\
 Fall 2020\
 Salt Lake City, UT
