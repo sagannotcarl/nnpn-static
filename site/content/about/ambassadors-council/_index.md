@@ -70,6 +70,7 @@ Artist Ambassadors
 
 - **Leah Abrams**, Independent Producer
 - **Roy Arauz**, Director
+- **Kelly Armstrong**, Playwright
 - **Meghan Beals**, Dramaturg
 - **Beth Blickers**, APA
 - **Mark Bly**, The Acting Company/Fordham University
@@ -96,6 +97,7 @@ Artist Ambassadors
 - **Dr. Ram Koppaka**, U.S. Department of Health & Human Services
 - **Kate Langsdorf**, Comedy Writer
 - **Jessica Litman**, University of Michigan Law School
+- **Liz Maestri**, Playwright
 - **Amy Rose Marsh**, Concord Theatricals
 - **Ricky J. Martinez**, Director & Playwright
 - **Annaliese McSweeney**, Literary Manager, Stage Left Theatre
