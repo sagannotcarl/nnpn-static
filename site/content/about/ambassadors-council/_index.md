@@ -71,6 +71,7 @@ Artist Ambassadors
 - **Leah Abrams**, Independent Producer
 - **Roy Arauz**, Director
 - **Kelly Armstrong**, Playwright
+- **Brian Balcom**, Director
 - **Meghan Beals**, Dramaturg
 - **Beth Blickers**, APA
 - **Mark Bly**, The Acting Company/Fordham University
