@@ -112,6 +112,7 @@ Artist Ambassadors
 - **Mark Routhier**, Director
 - **Olga Sanchez**, Artistic Director Emerita, Milagro
 - **Jordan Schwartz**, Associate Producing Director, Fonseca Theatre Company
+- **Jean Bruce Scott**, Emeritus Executive Director, Native Voices at the Autry
 - **Sandy Shinner**, Shattered Globe Theatre/DePaul University
 - **Dan Shoemaker**, Emeritus Executive Director, Actor's Theatre of Charlotte
 - **Timothy Jay Smith**, Founder, the NNPN Smith Prize for Political Theatre
