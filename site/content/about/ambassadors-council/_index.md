@@ -86,6 +86,7 @@ Artist Ambassadors
 - **Liz Engelman**, University of Texas-Austin/Tofte Lake Center
 - **Pat Flick**, Shakespeare Theatre Association
 - **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company
+- **Lydia Fort**, Director
 - **David H. Friedlander**, Entertainment and Intellectual Property Attorney
 - **David Goldman**, Director, Stanford University National Center for New Plays; NNPN Founder
 - **Barclay Goldsmith**, Founder, Borderlands Theater
