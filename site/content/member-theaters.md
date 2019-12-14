@@ -67,6 +67,7 @@ weight:       -7
 - [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
 - [DCPA Theatre Company](https://www.denvercenter.org) *Denver, CO*
 - [Diversionary Theatre](https://www.diversionary.org/) *San Diego, CA*
+- [Dorset Theatre Festival](https://dorsettheatrefestival.org/) *Dorset, VT*
 - [Ensemble Theatre Cincinnati](https://www.ensemblecincinnati.org/) *Cincinnati, OH*
 - [Everyman Theatre](http://www.everymantheatre.org/) *Baltimore, MD*
 - [Florida Repertory Theatre](https://www.floridarep.org/) *Fort Myers, FL*
