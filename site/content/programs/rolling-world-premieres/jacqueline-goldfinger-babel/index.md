@@ -1,6 +1,6 @@
 ---
 title: "Jacqueline Goldfinger"
-image: "gregory_allison_headshot_2014.jpg"
+image: "Jacqueline-Goldfinger.JPG"
 link: "newplayexchange.org/plays/118761/babel"
 current: "true"
 related:
