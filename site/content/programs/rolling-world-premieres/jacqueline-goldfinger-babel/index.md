@@ -9,7 +9,8 @@ play: "Babel"
 type: "rolling_premier"
 ---
 
-**Unicorn Theatre**\
+[**Unicorn Theatre**](https://unicorntheatre.org/shows/babel/)\
+January 22-February 9, 2020
 Kansas City, MO
 
 **Theatre Exile**\
