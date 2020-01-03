@@ -74,6 +74,7 @@ weight:       -7
 - [Flying V Theatre](http://www.flyingvtheatre.com) *Bethesda, MD*
 - [Geva Theatre Center](http://www.gevatheatre.org/) *Rochester, NY*
 - [Gloucester Stage Company](https://gloucesterstage.com/) *Gloucester, MA*
+- [Good Company Theatre](https://www.goodcotheatre.com/) *Ogden, UT*
 - [Greenway Court Theatre](http://www.greenwaycourttheatre.org/) *Los Angeles, CA*
 - [Gulfshore Playhouse](http://www.gulfshoreplayhouse.org/) *Naples, FL*
 - [Halcyon Theatre](http://halcyontheatre.org/) *Chicago, IL*
@@ -95,6 +96,7 @@ weight:       -7
 - [Out of Hand Theater](http://www.outofhandtheater.com/) *Atlanta, GA*
 - [Pacific Resident Theatre](http://www.pacificresidenttheatre.com/) *Los Angeles, CA*
 - [Palm Beach Dramaworks](http://www.palmbeachdramaworks.org/) *West Palm Beach, FL*
+- [Passage Theatre](https://passagetheatre.org/) *Trenton, NJ*
 - [People’s Light](http://peopleslight.org/) *Malvern, PA*
 - [Phoenix Arts Association Theatre](http://www.phoenixtheatresf.org/) *San Francisco, CA*
 - [Pillsbury House Theatre](https://pillsburyhouseandtheatre.org/) *Minneapolis, MN*
