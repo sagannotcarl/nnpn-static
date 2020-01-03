@@ -15,8 +15,9 @@ Our mailing address is
 Washington, DC 20004
 
 - Executive Director [Nan Barnett](mailto:nan@nnpn.org) (she/her): 202.312.5270
-- Executive Assistant [Aria Velz](mailto:aria@nnpn.org) (she/her):  202.349.1283
+- Administrative Coordinator [Rose Figueroa](mailto:rose@nnpn.org) (she/her)
 - Programs Director [Jordana Fraider](mailto:jordana@nnpn.org) (she/her): 310.422.0472
-- Communications Coordinator [Jess Hutchinson](mailto:jess@nnpn.org) (she/her)
+- Engagement Manager [Jess Hutchinson](mailto:jess@nnpn.org) (she/her)
+- Development Manager [Rashad Bailey](mailto:rashad@nnpn.org) (he/him)
 - New Play Exchange Director [Gwydion Suilebhan](mailto:gwydion@nnpn.org) (he/him)
 - New Play Exchange Support [Ryan-Patrick McLaughlin](mailto:support@nnpn.org) (he/him)
