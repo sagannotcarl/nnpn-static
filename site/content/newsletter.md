@@ -1,6 +1,6 @@
 ---
 title:        "New Work Times"
-identifier:   "read"
+identifier:   "New Work Times"
 menu:         "top"
 weight:       3
 ---
