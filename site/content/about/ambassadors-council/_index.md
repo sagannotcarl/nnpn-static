@@ -76,6 +76,7 @@ Artist Ambassadors
 - **Beth Blickers**, APA
 - **Mark Bly**, The Acting Company/Fordham University
 - **Gigi Bolt**, Columbia School of the Arts
+- **Satya Jnani Chavez**, Actor/Singer/Musician
 - **Bostin Christopher**, Virginia Commonwealth University
 - **Ron Clark**, Co-Founder, Riverside Theatre
 - **Mario Correa**, Screenwriter
