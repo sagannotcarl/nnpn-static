@@ -61,7 +61,6 @@ weight:       -7
 - [Centenary Stage Company](http://www.centenarystageco.org/) *Hackettstown, NJ*
 - [CenterStage Theatre at the JCC](https://jccrochester.org/centerstage) *Rochester, NY*
 - [Central Works Theater Company](http://www.centralworks.org/) *Berkeley, CA*
-- [Children’s Theatre Company](https://www.childrenstheatre.org/) *Minneapolis, MN*
 - [City Theatre](http://citytheatre.com/pages/) *Miami, FL*
 - [Company of Fools](https://sunvalleycenter.org/companyoffools/) *Hailey, ID*
 - [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
