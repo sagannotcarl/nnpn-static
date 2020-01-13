@@ -1,6 +1,6 @@
 ---
 title: "Jess Hutchinson"
-image: "jess_hutchinson_cropped.jpg"
+image: "JessHutchinsonNewHeadshot.jpeg"
 link: "jesshutchinson.com/"
 ---
 
