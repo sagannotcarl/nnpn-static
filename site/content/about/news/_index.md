@@ -9,4 +9,3 @@ weight:     8
 type:       "news"
 ---
 
-Want to receive press releases from NNPN right in your inbox? [Join our press list.](http://eepurl.com/begCw9)
