@@ -7,6 +7,8 @@ weight:       4
 
 **Want to stay updated on all that NNPN is doing? Just [sign up](//eepurl.com/dDpGvT) and we will keep you informed about our programs,  Member Theaters, and Affiliated Artists.**
 
+**Want to receive press releases from NNPN right in your inbox?** [Join our press list.](http://eepurl.com/begCw9)
+
 You can also follow us on [Twitter](//twitter.com/#!/NewPlayNetwork) and [Facebook](//www.facebook.com/pages/national-new-play-network/105667195944).
 
 Our mailing address is
