@@ -30,6 +30,6 @@ Shepherdstown, WV
 2020-21 Season\
 Trenton, NJ
 
-[**Florida Studio Theatre**](https://www.floridastudiotheatre.org/)\
-Winter 2020-21\
-Sarasota, FL
+**6th Member Theater TBA** (pending season announcement)\
+Winter 2020-21
+
