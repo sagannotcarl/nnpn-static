@@ -23,7 +23,7 @@ January 30 - March 1, 2020\
 Berwyn, IL
 
 [**Kitchen Dog Theater**](https://www.kitchendogtheater.org/alabaster)\
-February 12 - March 8, 2020\
+February 13 - March 8, 2020\
 Dallas, TX
 
 [**Shrewd Productions**](http://www.shrewdproductions.com/home)\
