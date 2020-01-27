@@ -20,6 +20,5 @@ Washington, DC 20004
 - Administrative Coordinator [Rose Figueroa](mailto:rose@nnpn.org) (she/her)
 - Programs Director [Jordana Fraider](mailto:jordana@nnpn.org) (she/her): 310.422.0472
 - Engagement Manager [Jess Hutchinson](mailto:jess@nnpn.org) (she/her)
-- Development Manager [Rashad Bailey](mailto:rashad@nnpn.org) (he/him)
 - New Play Exchange Director [Gwydion Suilebhan](mailto:gwydion@nnpn.org) (he/him)
 - New Play Exchange Support [Ryan-Patrick McLaughlin](mailto:support@nnpn.org) (he/him)
