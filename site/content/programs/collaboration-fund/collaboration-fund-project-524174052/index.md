@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Salt Lake Acting Company**'s 2018 Playwrights’ Lab ([SLAC Lab](https://www.saltlakeactingcompany.org/new-play-development/slac-playwrights-lab)) with playwrights [Will Snider](https://newplayexchange.org/users/4095/will-snider) and [Eleanor Burgess](https://newplayexchange.org/users/1039/eleanor-burgess)
+**Salt Lake Acting Company**'s 2018 Playwrights’ Lab ([SLAC Lab](https://www.saltlakeactingcompany.org/new-play-development/slac-playwrights-lab)) with playwrights [Will Snider](https://newplayexchange.org/users/4095/will-snider) and [Eleanor Burgess](https://newplayexchange.org/users/1039/eleanor-burgess).
 
