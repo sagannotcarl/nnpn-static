@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Woolly Mammoth Theatre Company** and <a href="https://www.themovementtheatrecompany.org/" rel="nofollow">The Movement Theatre Company</a> partner to present <a href="https://www.bagofbeans.net/" rel="nofollow">Aleshea Harris'</a> *What to Send Up When It Goes Down* in the 2019-20 season and tour the production in black-owned spaces across Washington, D.C.
+The presentation and D.C. tour ([THEARC](https://bbardc.org/project/thearc/), [Howard University](https://theatrearts.howard.edu/), and [Duke Ellington School of the Arts](http://www.ellingtonschool.org/)) of <a href="https://www.themovementtheatrecompany.org/" rel="nofollow">The Movement Theatre Company</a>'s production of *What to Send Up When It Goes Down* <a href="https://www.bagofbeans.net/" rel="nofollow">Aleshea Harris'</a> in the 2019-20 season at **Woolly Mammoth Theatre Company**. 
 
