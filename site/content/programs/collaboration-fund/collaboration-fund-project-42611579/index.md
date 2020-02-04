@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Project support for the expansion of **Salt Lake Acting Company**'s 2017 Playwrights’ Lab ([SLAC Lab](https://www.saltlakeactingcompany.org/new-play-development/slac-playwrights-lab)), which convened at least 35 artists to work on the development of 4 new plays by playwrights [Hilary Bettis](https://newplayexchange.org/users/507/hilary-bettis), [Kathleen Cahill](https://newplayexchange.org/users/252/kathleen-cahill), [Dominic Finocchiaro](https://newplayexchange.org/users/4102/dominic-finocchiaro), and [Winter Miller](https://newplayexchange.org/users/140/winter-miller) over 7 days.
+The expansion of **Salt Lake Acting Company**'s 2017 Playwrights’ Lab ([SLAC Lab](https://www.saltlakeactingcompany.org/new-play-development/slac-playwrights-lab)), convening at least 35 artists to work on the development of 4 new plays by playwrights [Hilary Bettis](https://newplayexchange.org/users/507/hilary-bettis), [Kathleen Cahill](https://newplayexchange.org/users/252/kathleen-cahill), [Dominic Finocchiaro](https://newplayexchange.org/users/4102/dominic-finocchiaro), and [Winter Miller](https://newplayexchange.org/users/140/winter-miller) over 7 days.
 
