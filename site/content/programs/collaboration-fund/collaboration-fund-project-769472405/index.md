@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-The second edition of [INGENIO](https://milagro.org/event/ingenio-milagro-2018/)**Milagro**, a play and playwright development program for Latinx playwrights under the mentorship of <a href="https://newplayexchange.org/users/734/diana-burbano" rel="nofollow">Diana Burbano</a> and in partnership with <a href="http://www.nwtw.org/" rel="nofollow">Northwest Theatre Workshop</a>.
+The second edition of [INGENIO](https://milagro.org/event/ingenio-milagro-2018/) **Milagro**, a play and playwright development program for Latinx playwrights under the mentorship of <a href="https://newplayexchange.org/users/734/diana-burbano" rel="nofollow">Diana Burbano</a> and in partnership with <a href="http://www.nwtw.org/" rel="nofollow">Northwest Theatre Workshop</a>.
 
