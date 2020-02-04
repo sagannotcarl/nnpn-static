@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**B Street Theatre** will launch a full-scale, week-long New Comedies Festival in June of 2019 bringing in artists from across the country to be develop four comedies selected from an open submission process.
+**B Street Theatre** will launch a full-scale, week-long New Comedies Festival in June of 2019, bringing in artists from across the country to be develop four comedies selected from an open submission process.
 
