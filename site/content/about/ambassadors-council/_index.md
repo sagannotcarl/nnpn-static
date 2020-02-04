@@ -9,7 +9,7 @@ menu:
 weight:     6
 ---
 
-Artist Ambassadors
+### Artist Ambassadors
 
 - **Evan Bergman**, New Jersey Repertory Company
 - **John Biguenet**, Southern Rep Theatre
@@ -110,6 +110,7 @@ Artist Ambassadors
 - **Bridget O'Leary**, Independent Director and Dramaturg
 - **Kittson O'Neill**, Philadelphia Theater Maker
 - **Bruce Ostler**, Bret Adams, Ltd.
+- **Marc Pinate**, Artistic Director, Borderlands Theater
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
 - **Mark Routhier**, Director
 - **Olga Sanchez**, Artistic Director Emerita, Milagro
