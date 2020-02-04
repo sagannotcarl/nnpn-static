@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**InterAct Theatre Company**: Project support for Cross-Pollination, a local playwright trade project between **InterAct Theatre Company** and [R. Eric Thomas](https://newplayexchange.org/users/892/r-eric-thomas), **Kitchen Dog Theater** and [Jonathan Norton](https://newplayexchange.org/users/494/jonathan-norton), and **Cleveland Public Theatre** and [Lisa Langford](https://newplayexchange.org/users/9569/lisa-langford).
+Cross-Pollination, a local playwright trade project between **InterAct Theatre Company** and [R. Eric Thomas](https://newplayexchange.org/users/892/r-eric-thomas), **Kitchen Dog Theater** and [Jonathan Norton](https://newplayexchange.org/users/494/jonathan-norton), and **Cleveland Public Theatre** and [Lisa Langford](https://newplayexchange.org/users/9569/lisa-langford).
 
