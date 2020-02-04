@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Borderlands Theater​**: Support for collaborative team travel and video design for the Rolling World Premiere of *Guapa* by [Caridad Svich](https://newplayexchange.org/users/240/caridad-svich), for **Borderlands Theater**, Miracle Theatre Group (now **Milagro**), and **Phoenix Theatre**.
+Collaborative team travel and video design for the Rolling World Premiere of *Guapa* by [Caridad Svich](https://newplayexchange.org/users/240/caridad-svich) at **Borderlands Theater**, Miracle Theatre Group (now **Milagro**), and **Phoenix Theatre**.
 
