@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Actor’s Express** in collaboration with **City Theatre Company** will produce a workshop of the musical *Fck7thGrade* by award-winning songwriter <a href="https://www.jillsobule.com/" rel="nofollow">Jill Sobule</a> prior to its world premiere at City Theatre May 9-31, 2020.
+A workshop and concert reading of the musical *Fck7thGrade* by award-winning songwriter <a href="https://www.jillsobule.com/" rel="nofollow">Jill Sobule</a> at **Actor’s Express** prior to its world premiere at **City Theatre Company** May 9-31, 2020.
 
