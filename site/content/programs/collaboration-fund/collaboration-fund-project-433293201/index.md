@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**City Theatre Company**, as it deepens its work on Equity, Diversity and Inclusion company-wide, will create two Equity, Diversity, and Inclusion Advocate (EDIA) positions as part of the creative team for the world premiere of <a href="https://newplayexchange.org/users/30905/isaac-gomez" rel="nofollow">Isaac Gomez</a>’s *PerkUp PerKup*. 
+The creation of two Equity, Diversity, and Inclusion Advocate (EDIA) positions as part of the creative team for the world premiere of <a href="https://newplayexchange.org/users/30905/isaac-gomez" rel="nofollow">Isaac Gomez</a>’s *PerkUp PerKup* at **City Theatre Company**.
 
