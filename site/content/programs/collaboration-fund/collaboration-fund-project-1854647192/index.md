@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Phoenix Theatre**: Support for a workshop of *Rancho Mirage* by Steven Dietz at **Phoenix Theatre**, including representatives from the play's Rolling World Premiere partner theaters: **Olney Theatre**, **Curious Theatre Company**, and **New Repertory Theatre**.
+**Phoenix Theatre**: Support for a workshop of *Rancho Mirage* by [Steven Dietz](https://newplayexchange.org/users/479/steven-dietz) at **Phoenix Theatre**, including representatives from the play's Rolling World Premiere partner theaters: **Olney Theatre**, **Curious Theatre Company**, and **New Repertory Theatre**.
 
