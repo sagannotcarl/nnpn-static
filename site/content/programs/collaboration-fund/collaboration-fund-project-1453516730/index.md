@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Marin Theatre Company**: Support for the development of shared technical elements for the Rolling World Premiere of *Lasso of Truth* by [Carson Kreitzer](https://newplayexchange.org/users/12896/carson-kreitzer), in collaboration with **Marin Theatre Company**, **Unicorn Theatre**, and **Synchronicity Theatre Company**.
+The development of shared technical elements for the Rolling World Premiere of *Lasso of Truth* by [Carson Kreitzer](https://newplayexchange.org/users/12896/carson-kreitzer), in collaboration with **Marin Theatre Company**, **Unicorn Theatre**, and **Synchronicity Theatre Company**.
 
