@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Curious Theatre Company**: Project support for sustained development efforts for the Rolling World Premiere of *Collapse *by Allison Moore at **Curious Theatre Company**, along with **Kitchen Dog Theater** and Aurora Theatre.
+**Curious Theatre Company**: Project support for sustained development efforts for the Rolling World Premiere of *Collapse* by Allison Moore at **Curious Theatre Company**, along with **Kitchen Dog Theater** and Aurora Theatre.
 
