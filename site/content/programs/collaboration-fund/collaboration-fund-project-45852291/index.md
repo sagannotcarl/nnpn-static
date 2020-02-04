@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Actor's Theatre of Charlotte** and <a href="https://www.ctcharlotte.org/Online/default.asp" rel="nofollow">Children's Theatre of Charlotte</a> partner to simultaneously produce two commissioned plays with a central, parallel theme and story by <a href="https://newplayexchange.org/users/479/steven-dietz" rel="nofollow">Steven Dietz</a>, one written for young audiences, and one written for adult audiences.
+**Actor's Theatre of Charlotte** and <a href="https://www.ctcharlotte.org/Online/default.asp" rel="nofollow">Children's Theatre of Charlotte</a> partner to simultaneously produce two commissioned plays with a central, parallel theme and story by <a href="https://newplayexchange.org/users/479/steven-dietz" rel="nofollow">Steven Dietz</a>, *The Ghosts of Splinter Cove* written for young audiences, and *The Great Beyond* written for adult audiences.
 
