@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Cleveland Public Theatre** and **Borderlands Theater** will establish a partnership through the creation of a new work exploring each theater community's relationship to water and environment. 
+The co-creation of a new work by artists at **Cleveland Public Theatre** and **Borderlands Theater**, exploring each theater community's relationship to water and environment. 
 
