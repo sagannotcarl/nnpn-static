@@ -6,6 +6,5 @@ current: "false"
 related:
 - Collaboration Fund
 ---
-
-**Florida Studio Theatre**: Project support for **Florida Studio Theatre**, **Florida Repertory Theatre**, and **Orlando Shakespeare Theater**’s participation in the NNPN Florida Rolling Reading Tour, a traveling festival of staged readings of new plays.
+Project support for **Florida Studio Theatre**, **Florida Repertory Theatre**, and **Orlando Shakespeare Theater**’s participation in the NNPN Florida Rolling Reading Tour, a traveling festival of staged readings of new plays.
 
