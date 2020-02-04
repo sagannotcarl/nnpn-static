@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Orlando Shakes**, in partnership with **Florida Repertory Theatre**, **Florida Studio Theater**, **Palm Beach Dramaworks**, and **Gulfshore Playhouse** will participate in an exchange of new play directors among NNPN Member Theaters in the Florida New Play Development Collaboration.
+A collaborative directorial exchange of Member Theater artistic leadership between **Orlando Shakes**, **Florida Repertory Theatre**, **Florida Studio Theater**, **Palm Beach Dramaworks**, and **Gulfshore Playhouse** in their 2019-20 new play festivals.
 
