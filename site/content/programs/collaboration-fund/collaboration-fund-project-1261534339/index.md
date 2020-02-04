@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Borderlands Theater**: Support for Spanish translation services and a Spanish language workshop hosted by El Círculo Teatral (Mexico City) of *The Ghosts of Lote Bravo* by [Hilary Bettis](https://newplayexchange.org/users/507/hilary-bettis) and participants in the Rolling World Premiere: **Borderlands Theater**, **Teatro Publico de Cleveland/Cleveland Public Theatre**, and **Unicorn Theatre**.
+Spanish translation services and a Spanish language workshop hosted by [El Círculo Teatral](https://www.facebook.com/elcirculoteatral/) (Mexico City) for *The Ghosts of Lote Bravo* by [Hilary Bettis](https://newplayexchange.org/users/507/hilary-bettis) and partner theaters in the Rolling World Premiere: **Borderlands Theater**, **Teatro Publico de Cleveland/Cleveland Public Theatre**, and **Unicorn Theatre**.
 
