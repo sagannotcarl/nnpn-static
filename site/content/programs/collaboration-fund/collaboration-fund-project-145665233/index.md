@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-**Milagro: **Project support for the inaugural edition of INGENIO Milagro, a play and playwright development program for Latinx playwrights.
+**Milagro:** Project support for the inaugural edition of INGENIO Milagro, a play and playwright development program for Latinx playwrights.
 
