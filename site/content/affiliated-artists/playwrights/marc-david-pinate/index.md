@@ -4,4 +4,4 @@ image: "Marc-David-Pinate.jpeg"
 link: 
 ---
 
-[Playwright in Residence](/programs/collaboration-fund),
+[Collaboration Fund](/programs/collaboration-fund)
