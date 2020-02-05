@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "Marc-David-Pinate.jpg"
+image: "Marc-David-Pinate.jpeg"
 link: "nnpn.org/programs/collaboration-fund"
 current: "true"
 related:
