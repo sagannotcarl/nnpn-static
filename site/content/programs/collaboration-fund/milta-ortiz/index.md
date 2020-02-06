@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Borderlands Theater 
+Playwright in Residence at **Borderlands Theater**
 
