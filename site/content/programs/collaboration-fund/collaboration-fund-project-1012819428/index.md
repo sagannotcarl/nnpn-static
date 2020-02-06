@@ -1,5 +1,5 @@
 ---
-title: "Marc David Pinate"
+title: "Milagro"
 image: "Marc-David-Pinate.jpeg"
 link: "milagro.org"
 current: "true"
