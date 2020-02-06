@@ -6,5 +6,4 @@ related:
 - Collaboration Fund
 ---
 
-Playwrights Theatre of New Jersey
-
+Playwright in Residence at **Writer's Theatre of New Jersey** (formerly Playwright's Theatre of New Jersey)
