@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Unicorn Theater
+Playwright in Residence at **Unicorn Theater**
 
