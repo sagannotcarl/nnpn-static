@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Marc David Pinate"
 image: "Marc-David-Pinate.jpeg"
 link: "nnpn.org/programs/collaboration-fund"
 current: "true"
