@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Salt Lake Acting Company"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
-link: "nnpn.org/programs/collaboration-fund"
+link: "saltlakeactingcompany.org"
 current: "false"
 related:
 - Collaboration Fund
