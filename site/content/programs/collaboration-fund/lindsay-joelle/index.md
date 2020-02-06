@@ -1,11 +1,11 @@
 ---
-title: "Lindsay Joelle"
+title: "Curious Theatre Company"
 image: "lindsay_joelle2_0.jpg"
-link: "newplayexchange.org/users/881/lindsay-joelle"
+link: "curioustheatre.org"
 current: "false"
 related:
 - Collaboration Fund
 ---
 
-Development of the final play of Joelle's "Truck Trilogy" at **Curious Theatre Company**.
+Development of the final play of [Lindsay Joelle](https://newplayexchange.org/users/881/lindsay-joelle)'s "Truck Trilogy" at **Curious Theatre Company**.
 
