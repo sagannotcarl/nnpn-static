@@ -6,5 +6,5 @@ related:
 - Collaboration Fund
 ---
 
-Magic Theatre
+Playwright in Residence at **Magic Theatre**.
 
