@@ -6,5 +6,5 @@ related:
 - Collaboration Fund
 ---
 
-Florida Studio Theatre
+Playwright in Residence at **Florida Studio Theatre**.
 
