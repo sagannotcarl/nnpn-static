@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Cleveland Public Theatre
+Development of NNPN Annual Commission *Breakout Session (or Frogorse)* at **Cleveland Public Theatre**.
 
