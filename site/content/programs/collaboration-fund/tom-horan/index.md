@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Phoenix Theatre
+Playwright in Residence at **Phoenix Theatre**.
 
