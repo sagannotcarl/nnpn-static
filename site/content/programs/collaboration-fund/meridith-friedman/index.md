@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Curious Theatre Company
+Playwright in Residence at **Curious Theatre Company**.
 
