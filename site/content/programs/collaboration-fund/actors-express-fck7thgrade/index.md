@@ -1,7 +1,7 @@
 ---
 title: "Actor's Express"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
-link: "nnpn.org/programs/collaboration-fund"
+link: "actors-express.com"
 current: "true"
 related:
 - Collaboration Fund
