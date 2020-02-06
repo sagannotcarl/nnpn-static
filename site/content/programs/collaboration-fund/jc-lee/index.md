@@ -6,5 +6,5 @@ related:
 - Collaboration Fund
 ---
 
-Marin Theatre Company
+Playwright in Residence at **Marin Theatre Company**
 
