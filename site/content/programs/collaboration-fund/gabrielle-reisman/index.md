@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Southern Rep Theatre
+Playwright in Residence at **Southern Rep Theatre**
 
