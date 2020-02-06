@@ -1,11 +1,11 @@
 ---
-title: "Borderlands Theater & Virginia Grise"
+title: "Borderlands Theater"
 image: "virginia_grise.jpg"
-link: "newplayexchange.org/users/900/virginia-grise"
+link: "borderlandstheater.org"
 current: "false"
 related:
 - Collaboration Fund
 ---
 
-Development of NNPN Annual Commission *Their Dogs Came With Them* at **Borderlands Theater**.
+Development of NNPN Annual Commission *Their Dogs Came With Them* by [Virginia Grise](https://newplayexchange.org/users/900/virginia-grise), adapted from the novel by Helena Maria Viramontes, at **Borderlands Theater**.
 
