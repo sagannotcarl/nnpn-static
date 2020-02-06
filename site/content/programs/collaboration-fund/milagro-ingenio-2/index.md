@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Milagro"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
-link: "nnpn.org/programs/collaboration-fund"
+link: "milagro.org"
 current: "false"
 related:
 - Collaboration Fund
