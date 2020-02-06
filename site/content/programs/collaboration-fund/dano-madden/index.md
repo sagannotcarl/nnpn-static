@@ -6,5 +6,5 @@ related:
 - Collaboration Fund
 ---
 
-Playwright in Residence at **InterAct Theatre Company**.
+Playwright in Residence at **InterAct Theatre Company**
 
