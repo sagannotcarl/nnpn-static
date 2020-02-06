@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-New Jersey Repertory Theatre
+Playwright in Residence at **New Jersey Repertory Company**
 
