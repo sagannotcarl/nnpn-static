@@ -6,5 +6,5 @@ related:
 - Collaboration Fund
 ---
 
-Horizon Theatre Company
+Playwright in Residence at **Horizon Theatre Company**
 
