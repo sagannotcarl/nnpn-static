@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-New Repertory Theatre
+Playwright in Residence at **New Repertory Theatre**
 
