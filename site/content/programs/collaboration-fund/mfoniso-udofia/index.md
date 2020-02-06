@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Magic Theatre
+Developmental workshops and readings of 6 plays from Udofia's "The Ufot Cycle" by **Magic Theatre**.
 
