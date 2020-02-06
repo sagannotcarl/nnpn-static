@@ -1,7 +1,7 @@
 ---
 title: "Marc David Pinate"
 image: "Marc-David-Pinate.jpeg"
-link: "nnpn.org/programs/collaboration-fund"
+link: "milagro.org"
 current: "true"
 related:
 - Collaboration Fund
