@@ -7,5 +7,5 @@ related:
 - Collaboration Fund
 ---
 
-Development of the final play of Joelle's "Truck Trilogy" at Curious Theatre Company.
+Development of the final play of Joelle's "Truck Trilogy" at **Curious Theatre Company**.
 
