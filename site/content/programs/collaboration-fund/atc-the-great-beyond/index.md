@@ -1,7 +1,7 @@
 ---
 title: "Actor's Theatre of Charlotte"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
-link: "nnpn.org/programs/collaboration-fund"
+link: "www.atcharlotte.org"
 current: "false"
 related:
 - Collaboration Fund
