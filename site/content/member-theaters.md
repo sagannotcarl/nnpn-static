@@ -63,6 +63,7 @@ weight:       -7
 - [Central Works Theater Company](http://www.centralworks.org/) *Berkeley, CA*
 - [City Theatre](http://citytheatre.com/pages/) *Miami, FL*
 - [Company of Fools](https://sunvalleycenter.org/companyoffools/) *Hailey, ID*
+- [Crowded Fire Theaer Company](http://www.crowdedfire.org/) *San Francisco, CA*
 - [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
 - [DCPA Theatre Company](https://www.denvercenter.org) *Denver, CO*
 - [Diversionary Theatre](https://www.diversionary.org/) *San Diego, CA*
@@ -122,9 +123,7 @@ weight:       -7
 - [Su Teatro](http://www.suteatro.org/) *Denver, CO*
 - [Synchronicity Theatre](http://www.synchrotheatre.com/) *Atlanta, GA*
 - [Taproot Theatre Company](http://taproottheatre.org/) *Seattle, WA*
-- [The Custom Made Theatre Company](http://www.custommade.org/) *San Francisco, CA*
 - [The NOLA Project](http://www.nolaproject.com/) *New Orleans, LA*
-- [The Public Theatre](https://thepublictheatre.org/) *Lewiston, ME*
 - [The Victory Theatre Center](https://www.thevictorytheatrecenter.org/) *Burbank, CA*
 - [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
 - [Theater Alliance](http://www.theateralliance.com/) *Washington, DC*
