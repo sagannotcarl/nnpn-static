@@ -20,7 +20,6 @@ weight:     6
 - **Jennifer Fawcett**, Riverside Theatre
 - **Thomas Gibbons**, InterAct Theatre Company
 - **Andra Harbold**, Salt Lake Acting Company
-- **Celise Kalke**, Horizon Theatre Company
 - **Andrew Kramer**, Phoenix Theatre
 - **Aditi Brennan Kapil**, Mixed Blood Theatre
 - **York Kennedy**, Magic Theatre
@@ -80,7 +79,6 @@ weight:     6
 - **Bostin Christopher**, Virginia Commonwealth University
 - **Ron Clark**, Co-Founder, Riverside Theatre
 - **Mario Correa**, Screenwriter
-- **Francisca Da Silveira**, Playwright/Dramaturg, University of Edinburgh
 - **Steven Dietz**, Playwright
 - **Michael Dove**, Director
 - **Carol Dweck**, Stanford University
