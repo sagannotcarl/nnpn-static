@@ -63,7 +63,7 @@ weight:       -7
 - [Central Works Theater Company](http://www.centralworks.org/) *Berkeley, CA*
 - [City Theatre](http://citytheatre.com/pages/) *Miami, FL*
 - [Company of Fools](https://sunvalleycenter.org/companyoffools/) *Hailey, ID*
-- [Crowded Fire Theaer Company](http://www.crowdedfire.org/) *San Francisco, CA*
+- [Crowded Fire Theater Company](http://www.crowdedfire.org/) *San Francisco, CA*
 - [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
 - [DCPA Theatre Company](https://www.denvercenter.org) *Denver, CO*
 - [Diversionary Theatre](https://www.diversionary.org/) *San Diego, CA*
