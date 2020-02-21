@@ -1,6 +1,6 @@
 ---
 title: "Satya Chavez"
-image: "Satya-Chavez.jpeg"
+image: "Satya-Chavez.jpg"
 link: ""
 ---
 
