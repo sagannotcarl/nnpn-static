@@ -5,3 +5,5 @@ current: "false"
 related:
 - National Directors Fellowship
 ---
+
+**InterAct Theatre Company** (Philadelphia)
