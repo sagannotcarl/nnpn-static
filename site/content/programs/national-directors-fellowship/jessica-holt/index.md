@@ -6,3 +6,6 @@ current: "false"
 related:
 - National Directors Fellowship
 ---
+
+**Magic Theatre** (San Francisco)\
+**Rivendell Theatre Ensemble** (Chicago)
