@@ -6,3 +6,6 @@ current: "false"
 related:
 - National Directors Fellowship
 ---
+
+**Geva Theatre Center** (Rochester)\
+**Oregon Contemporary Theatre** (Eugene)
