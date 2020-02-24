@@ -7,4 +7,5 @@ related:
 - National Directors Fellowship
 ---
 
-**Cleveland Public Theatre**
+**Cleveland Public Theatre**\
+**InterAct Theatre Company** (Philadelphia)
