@@ -6,3 +6,6 @@ current: "false"
 related:
 - National Directors Fellowship
 ---
+
+**Southern Rep Theatre** (New Orleans)\
+**Artist's Repertory Theatre** (Portland)
