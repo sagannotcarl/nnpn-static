@@ -7,4 +7,5 @@ related:
 - National Directors Fellowship
 ---
 
-**Phoenix Theatre** (Indianapolis)
+**Phoenix Theatre** (Indianapolis)\
+**Mixed Blood Theatre** (Minneapolis)
