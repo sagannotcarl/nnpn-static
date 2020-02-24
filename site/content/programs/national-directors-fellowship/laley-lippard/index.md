@@ -6,3 +6,6 @@ current: "false"
 related:
 - National Directors Fellowship
 ---
+
+**Kitchen Dog Theater** (Dallas)\
+**Actor's Theatre of Charlotte**
