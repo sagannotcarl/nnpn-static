@@ -1,7 +1,6 @@
 ---
 title: "Ricardo Pérez González"
 image: "Ricardo-Perez-Gonzalez.png"
-link: ""
 current: "true"
 promoted: "false"
 related:
