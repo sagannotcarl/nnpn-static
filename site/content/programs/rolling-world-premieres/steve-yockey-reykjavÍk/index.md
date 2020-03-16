@@ -17,7 +17,3 @@ Washington, DC
 
 [**Kitchen Dog Theater**](https://www.kitchendogtheater.org/reykjavik)\
 Dallas, TX
-
-[**Southern Rep Theatre**](http://www.southernrep.com/reykjavik/)\
-March 18 - April 5, 2020\
-New Orleans, LA
