@@ -22,8 +22,8 @@ Philadelphia, PA
 March 26 - April 12, 2020\
 Ogden, UT
 
-[**Contemporary American Theater Festival**](https://catf.org/)\
-2020 Season\
+[**Contemporary American Theater Festival**](https://catf.org/babel-by-jacqueline-goldfinger/)\
+July 10 - August 2, 2020\
 Shepherdstown, WV
 
 [**Passage Theatre**](https://passagetheatre.org/)\
