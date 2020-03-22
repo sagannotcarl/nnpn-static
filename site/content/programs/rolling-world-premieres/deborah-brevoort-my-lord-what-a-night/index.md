@@ -2,7 +2,7 @@
 title: "Deborah Brevoort"
 image: "deborah_brevoort.jpeg"
 link: "newplayexchange.org/users/246/deborah-brevoort"
-current: "true"
+current: "false"
 related:
 - Rolling World Premieres
 play: "My Lord, What A Night"
@@ -13,7 +13,7 @@ type: "rolling_premier"
 Shepherdstown, WV
 
 [**Orlando Shakes**](https://www.orlandoshakes.org/show/my-lord-what-a-night/)\
-March 18 - April 26, 2020\
+POSTPONED\
 Orlando, FL
 
 **Florida Studio Theatre**\
