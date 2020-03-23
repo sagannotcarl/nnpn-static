@@ -31,7 +31,7 @@ February 20 - March 7, 2020\
 Austin, TX
 
 [**Know Theatre of Cincinnati**](https://knowtheatre.com/season-22/alabaster/)\
-February 27 - March 20, 2020\
+February 27 - April 4, 2020 (streaming online)\
 Cincinnati, OH
 
 [**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
