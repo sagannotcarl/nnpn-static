@@ -16,7 +16,7 @@ Milwaukee, WI
 Washington, DC
 
 [**The VORTEX**](http://vortexrep.org/30_homeward)\
-April 11 - May 2, 2020\
+POSTPONED\
 Austin, TX
 
 [**Thrown Stone**](https://thrownstone.org/annie/)\
