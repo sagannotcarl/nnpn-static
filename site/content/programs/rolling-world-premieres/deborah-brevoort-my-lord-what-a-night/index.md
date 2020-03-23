@@ -2,7 +2,7 @@
 title: "Deborah Brevoort"
 image: "deborah_brevoort.jpeg"
 link: "newplayexchange.org/users/246/deborah-brevoort"
-current: "false"
+current: "true"
 related:
 - Rolling World Premieres
 play: "My Lord, What A Night"
@@ -16,5 +16,5 @@ Shepherdstown, WV
 POSTPONED\
 Orlando, FL
 
-**Florida Studio Theatre**\
+[**Florida Studio Theatre**](https://www.floridastudiotheatre.org/)\
 Sarasota, FL
