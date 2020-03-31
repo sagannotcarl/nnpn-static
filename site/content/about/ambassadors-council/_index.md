@@ -110,6 +110,7 @@ weight:     6
 - **Bruce Ostler**, Bret Adams, Ltd.
 - **Marc Pinate**, Artistic Director, Borderlands Theater
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
+- **Lisa Rothe**, Director
 - **Mark Routhier**, Director
 - **Olga Sanchez**, Artistic Director Emerita, Milagro
 - **Jordan Schwartz**, Associate Producing Director, Fonseca Theatre Company
