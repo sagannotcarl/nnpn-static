@@ -31,16 +31,16 @@ February 20 - March 7, 2020\
 Austin, TX
 
 [**Know Theatre of Cincinnati**](https://knowtheatre.com/season-22/alabaster/)\
-February 27 - April 4, 2020 (streaming online)\
+February 27 - April 4, 2020\
 Cincinnati, OH
-
-[**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
-May 7 - 31, 2020\
-Indianapolis, IN
 
 [**Williamston Theatre**](http://www.williamstontheatre.org/alabaster)\
 May 21 - June 21, 2020\
 Williamston, MI
+
+[**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
+POSTPONED: August 6-30, 2020\
+Indianapolis, IN
 
 [**New Jersey Repertory Company**](http://www.njrep.org/index.htm)\
 October 15 - November 15, 2020\
