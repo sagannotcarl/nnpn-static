@@ -1,6 +1,6 @@
 ---
-slide_intro:    "Women Take the Page"
-slide_headline: "NNPN Women in Playwriting Festival"
-slide_link:     "www.sarasotamagazine.com/articles/2019/4/9/women-playwrights-the-focus-at-florida-studio-theatre"
+slide_intro:    "Resources for Artists"
+slide_headline: "Funding & a Survey to Measure COVID-19's impact on artists"
+slide_link:     "www.artistrelief.org/"
 type:           "carousel"
 ---
