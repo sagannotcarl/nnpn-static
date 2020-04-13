@@ -19,7 +19,7 @@ Help us create a healthy environment for new plays and playwrights, artists, and
 
 ## Ways to Support
 
-- You can support NNPN by donating via our secure page through the purple DONTATE button above. NNPN will acknowledge your gift via email within 48 hours of its receipt.
+- You can support NNPN by donating via our secure page through the purple DONATE button above. NNPN will acknowledge your gift via email within 48 hours of its receipt.
 - Or you can always send a check to: National New Play Network, c/o Nan Barnett, 365 Gregory Rd, West Palm Beach, FL 33405
 - Executive Director Nan Barnett would be delighted to talk with you about other ways you can support our work. You can reach her at nan@nnpn.org or by calling 202.312.5270.
 
