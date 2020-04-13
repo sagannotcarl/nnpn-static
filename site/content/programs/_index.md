@@ -12,7 +12,7 @@ Our programs are designed to support new play makers on both the organizational 
 
 We aim to be responsive to the issues around us so that we can best advance and sustain our [Core and Associate Members](/member-theaters), [Affiliated Artists](/affiliated-artists), and the national new play sector as a whole.
 
-<span class="lead-in"> **In response to COVID-19, please note the following:**  </span>
+**In response to COVID-19, please note the following:**
 - All RWP productions and other impacted projects have been granted a **12-month extension**
 - All first-year Producers in Residence will be **granted an second year on a non-competitive basis**
 - The Annual Conference is moving **online** from May 25-31
