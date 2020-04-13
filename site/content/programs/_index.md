@@ -25,6 +25,7 @@ Additionally, NNPN is hosting **weekly check-in meetings** via Zoom for Member T
 
 ---
 NNPN's Programs Include:
+
 - NNPN’s flagship initiative, the Rolling World Premiere program, gives playwrights and theaters the rare opportunity to bring a play from development to production in multiple locations across the country.
 - The New Play Exchange® is providing a cutting-edge, efficient, and streamlined way for new plays to be discovered and shared.
 - The National Showcase of New Plays sets the stage for theater makers, publishers, and agents to experience the new, production-ready work being championed by NNPN Member Theaters.
