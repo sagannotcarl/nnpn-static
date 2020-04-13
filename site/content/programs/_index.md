@@ -14,6 +14,7 @@ We aim to be responsive to the issues around us so that we can best advance and 
 
 ---
 
+
 **In response to COVID-19, please note the following:**
 - All RWP productions and other impacted projects have been granted a **12-month extension**
 - All first-year Producers in Residence will be **granted an second year on a non-competitive basis**
@@ -25,6 +26,7 @@ For more information about on-going adjustments to Programs, please contact [Jor
 Additionally, NNPN is hosting **weekly check-in meetings** via Zoom for Member Theaters and Affiliated Artists, with additional check-ins for Board, Ambassadors, and other ad-hoc groups as needed. If you would like more information about these sessions, please contact [Jess Hutchinson](mailto:jess@nnpn.org).
 
 ---
+
 
 NNPN's Programs Include:
 
