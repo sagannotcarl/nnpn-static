@@ -16,9 +16,13 @@ We aim to be responsive to the issues around us so that we can best advance and 
 
 
 **In response to COVID-19, please note the following:**
+
 - All RWP productions and other impacted projects have been granted a **12-month extension**
+
 - All first-year Producers in Residence will be **granted an second year on a non-competitive basis**
+
 - The Annual Conference is moving **online** from May 25-31
+
 - All funds for **current projects** have been released and reporting deadlines extended
   
 For more information about on-going adjustments to Programs, please contact [Jordana Fraider](mailto:jordana@nnpn.org). 
