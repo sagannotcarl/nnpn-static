@@ -27,7 +27,6 @@ weight:       -7
 - [Milagro](http://www.milagro.org/) *Portland, OR*
 - [Mixed Blood Theater](http://www.mixedblood.com/) *Minneapolis, MN*
 - [New Jersey Repertory Company](http://www.njrep.org/) *Long Branch, NJ*
-- [New Repertory Theatre](http://www.newrep.org/) *Watertown, MA*
 - [Orlando Shakes](https://www.orlandoshakes.org/) *Orlando, FL*
 - [Perseverance Theatre](http://www.ptalaska.org/) *Anchorage/Juneau, AK*
 - [Phoenix Theatre](https://www.phoenixtheatre.org/) *Indianapolis, IN*
