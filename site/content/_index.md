@@ -24,7 +24,6 @@ identifier:               "home"
 - Milagro
 - Mixed Blood Theater
 - New Jersey Repertory Company
-- New Repertory Theatre
 - Orlando Shakes
 - Perseverance Theatre
 - Phoenix Theatre
