@@ -7,7 +7,7 @@ menu:
   programs:
 weight:     4
 type:       "programs"
-image:          "2020banner.png"
+image:          "2020banner.jpg"
 banner_caption: "NNPN's First Virtual Annual Conference"
 ---
 
