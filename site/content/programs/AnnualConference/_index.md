@@ -5,7 +5,7 @@ menu:
   main:
     parent:     "Programs"
   programs:
-weight:     10
+weight:     4
 type:       "programs"
 related:
 - Annual Conference
