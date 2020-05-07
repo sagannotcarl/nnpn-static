@@ -1,6 +1,7 @@
 ---
 title:      "Annual Conference"
 identifier: "annual-conference"
+image:      "2020banner.jpg"
 menu:
   main:
     parent:     "Programs"
