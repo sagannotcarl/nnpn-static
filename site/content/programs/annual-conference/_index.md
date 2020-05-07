@@ -1,7 +1,7 @@
 ---
 title:      "Annual Conference"
 identifier: "annual-conference"
-image:      "2020banner.jpg"
+image:      "2020bannerV2.png"
 menu:
   main:
     parent:     "Programs"
@@ -20,3 +20,7 @@ Additionally, this is the first time that NNPN will introduce its annual Summit,
 This year, we ask the question: How can theaters become essential to their communities?
 
 Watch this space for more coming soon, and save the dates: May 26 - 29, 2020
+
+##OPPORTUNITIES TO LEARN##
+
+##OPPORTUNITIES TO CONNECT##
