@@ -21,6 +21,3 @@ This year, we ask the question: How can theaters become essential to their commu
 
 Watch this space for more coming soon, and save the dates: May 26 - 29, 2020
 
-##OPPORTUNITIES TO LEARN
-
-##OPPORTUNITIES TO CONNECT
