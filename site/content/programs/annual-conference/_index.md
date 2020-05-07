@@ -25,5 +25,5 @@ Watch this space for more coming soon, and save the dates: May 26 - 29, 2020
 Date | Time | Topic Overview | Registration Link
 :----:|:----|:----:|----:
 **May 26** | 3pm EDT | Welcome to the Annual Conference | [Register](www.nnpn.org)
- | 5pm EDT | Our First Big Party | [Register](www.nnpn.org)
+           | 5pm EDT | Our First Big Party | [Register](www.nnpn.org)
 
