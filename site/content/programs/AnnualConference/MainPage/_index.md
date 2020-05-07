@@ -1,9 +1,12 @@
 ---
 title: 			    "Annual Conference"
 identifier:	    "annual-conference-main-page"
-menu:           ["programs", "Annual Conference"]
-weight:         -10
-type:           "AnnualConference"
+menu:
+  main:
+    parent:     "Programs"
+  programs:
+weight:     4
+type:       "programs"
 image:          "2020banner.png"
 banner_caption: "NNPN's First Virtual Annual Conference"
 ---
