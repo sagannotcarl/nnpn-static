@@ -18,13 +18,13 @@ Associate Membership provides a wide range of professional, nonprofit producing 
 - Participation in all Member Chats and Pitch Sessions
 - A free Organization subscription on the New Play Exchange®
 
-Associate Members have a representative on the Board of Directors and are invited to serve on certain Committees. Annual dues for Associate Members in the 2017-18 year are $625.
+Associate Members have a representative on the Board of Directors and are invited to serve on certain Committees. Annual dues for Associate Members in the 2019-20 year are $650.
 
 For more on the process of applying for Associate Membership, please contact jordana@nnpn.org.
 
 ### CORE MEMBERSHIP
 
-Core Membership is best suited to theaters with a desire to participate in the governance of the organization and to help shape NNPN for its membership and the new play field.  Applications are made available to an inquiring company following approval by existing Core Members in the potential applicant’s market. Core Members have access to the full range of NNPN programs and funding opportunities and make a greater financial commitment to the organization. In 2017-18, Core Member annual dues are $2,500.
+Core Membership is best suited to theaters with a desire to participate in the governance of the organization and to help shape NNPN for its membership and the new play field.  Applications are made available to an inquiring company following approval by existing Core Members in the potential applicant’s market. Core Members have access to the full range of NNPN programs and funding opportunities and make a greater financial commitment to the organization. In 2019-20, Core Member annual dues are $2,500.
 
 Core Member benefits include:
 
