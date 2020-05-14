@@ -21,3 +21,8 @@ This year, we ask the question: How can theaters become essential to their commu
 
 Watch this space for more coming soon, and save the dates: May 26 - 29, 2020
 
+### May 26
+Time | Topic Overview | Registration Link
+:----|:----:|----:
+3pm EDT | Welcome to the Annual Conference | [Register](http://www.nnpn.org)
+5pm EDT | Our First Big Party | [Register](http://www.nnpn.org)
