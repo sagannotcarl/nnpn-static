@@ -15,7 +15,7 @@ related:
 <span class="lead-in">In 2020, NNPN will host its first virtual Annual Conference.</span>
 
 
-Additionally, this is the first time that NNPN will introduce its annual Summit, which we envision as a time for NNPN’s constituencies and friends across the field to come together to contemplate the big questions impacting our work as a whole.
+Additionally, this is the first time that NNPN will introduce its annual Summit, which we envision as a time for NNPN’s constituencies and partners across the field to come together to contemplate the big questions impacting our work as a whole.
 
 This year, we ask the question: **How can theaters become essential to their communities?**
 
@@ -31,7 +31,7 @@ Best For: Member Theater representatives\
 Registration Link Coming Soon
 
 ### 7pm EDT | ARTISTIC PRESENTATION
-#### DIARY OF AN EROTIC LIFE
+**DIARY OF AN EROTIC LIFE**
 Inspired by “Earth’s Spirit” & “Pandora’s Box” by Frank Wedekind\
 Written & Directed by Olivia Lilly\
 Devised by The Ensemble\
@@ -41,11 +41,11 @@ presented by Core Member [Prop Thtr](https://www.propthtr.org/)
 
 
 ## May 27
-### 3pm EDT | Triple Play
+### 3pm EDT | Triple Play: Past, Present, Future
 Best For: Audience Engagement & Marketing Pros\
 Registration Link Coming Soon!
 
-### 4:30pm EDT | Social Impact Commons
+### 4:30pm EDT | Social Impact Commons:
 Best For: Artistic & Business Leaders\
 Registration Link Coming Soon!
 
@@ -56,20 +56,20 @@ Because - after all - it's the Networking part of the Network that makes the Net
 
 
 ## May 28
-### 3pm EDT | Audience Price Sensitivity
-Best For: Managing & Marketing Directors\
+### 3pm EDT | JCA Arts Marketing: Valuing Art in the Era of COVID-19
+Best For: Managing & Marketing Pros\
 Registration Link Coming Soon!
 
-### 4:00pm EDT | POC Affinity Space
+### 4pm EDT | POC Affinity Space
 Designed For: POC Members of our Community\
 Registration Link Coming Soon!
 
-### 4:00pm EDT | Anti-Racist Affinity Space for White Folks
+### 4pm EDT | Anti-Racist Affinity Space for White Folks
 Designed For: White Members of our Community\
 Registration Link Coming Soon!
 
 ### 7pm EDT | A Virtual New Play Reading 
-#### THE LOYALS
+**THE LOYALS**\
 by NNPN Affiliated Artist Alison Gregory\
 directed by Hayley Finn\
 presented by our friends at [The Playwrights Center](https://pwcenter.org/)
@@ -77,11 +77,12 @@ presented by our friends at [The Playwrights Center](https://pwcenter.org/)
 ***
 
 ## May 29
-### 3pm EDT | Imagining a Back to the Theater campagin
+### 3pm EDT | Imagining a "Back to the Theater" campaign
 Best For: Artistic, Managing, & Marketing Leaders\
 Registration Link Coming Soon!
 
-### 4:00pm EDT | Keynote: Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation
+### 4pm EDT | You Have What You Need: Expanding the Depth, Breadth, and Diversity of your Audience
+### Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation
 All Are Welcome\
 Registration Link Coming Soon!
 
