@@ -81,7 +81,7 @@ presented by our friends at [The Playwrights Center](https://pwcenter.org/)
 Best For: Artistic, Managing, & Marketing Leaders\
 Registration Link Coming Soon!
 
-### 4:00pm EDT | Keynote: Charles Venable, Joanna Taft, and Tamara Winters In Conversation
+### 4:00pm EDT | Keynote: Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation
 All Are Welcome\
 Registration Link Coming Soon!
 
