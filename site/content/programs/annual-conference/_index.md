@@ -82,7 +82,7 @@ Best For: Artistic, Managing, & Marketing Leaders\
 Registration Link Coming Soon!
 
 ### 4pm EDT | You Have What You Need: Expanding the Depth, Breadth, and Diversity of your Audience
-### Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation
+Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation\
 All Are Welcome\
 Registration Link Coming Soon!
 
