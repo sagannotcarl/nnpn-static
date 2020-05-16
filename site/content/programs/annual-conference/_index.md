@@ -61,7 +61,7 @@ Best For: Managing & Marketing Pros\
 
 ### 4pm EDT | POC Affinity Space
 Designed For: POC Members of our Community\
-Registration Link Coming Soon!
+[Click here](https://us02web.zoom.us/meeting/register/tZIsde6vqTgrGtZD2xOYX1SFA_qkwSeLFabN) to register
 
 ### 4pm EDT | Anti-Racist Affinity Space for White Folks
 Designed For: White Members of our Community\
