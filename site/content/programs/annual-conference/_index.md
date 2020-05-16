@@ -24,23 +24,23 @@ We will convene Tuesday, May 26 - Friday, May 29. See below for our schedule and
 ## May 26
 ### 3pm EDT / 12pm PDT | We've Been Here Before: Theater & Crisis
 **Best For: Anyone & Everyone!**\
-
 Theater is no stranger to calamity. From the plagues that devastated Sophocles’s Athens, Shakespeare’s London, and Kushner’s NYC, to the acts of war and economic devastation that upended the whole world at once – the theater has survived, evolved, and thrived through it all. With perspectives from across history, a crack panel of dramaturgs illuminate where we’ve been as an art form – and invite us to consider where we hope to go next. This panel and discussion features Carrie Kaplan, Tanya Palmer, Sally Ollove, Edwin Wong, and moderator Julie Felise Dubiner.
 
 Registration Link Coming Soon!
 
 ### 4:30pm EDT / 1:30pm PDT | Pitch Session!
 **Best For: Member Theater representatives**\
-[Click here](https://us02web.zoom.us/meeting/register/tZMrcOyuqzIrEt0l2Pi2fte4b0YTjMfhp526) to register\
 The classic NNPN session goes digital! In addition to sharing the new plays and Rolling World Premiere opportunities that we are excited about producing in the future, we will also swap ideas about digital and analog strategies for engaging audiences and artists in the interim.
+
+[Click here](https://us02web.zoom.us/meeting/register/tZMrcOyuqzIrEt0l2Pi2fte4b0YTjMfhp526) to register
 
 ### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **DIARY OF AN EROTIC LIFE**
 Inspired by “Earth’s Spirit” & “Pandora’s Box” by Frank Wedekind\
 Written & Directed by Core Member Artistic Director Olivia Lilley\
 Devised by The Ensemble: Valeria Rosero, Kate Black Spence, Kenya Hall, Mary Iris Loncto, Caitlin Shantz, Dylan Fahoome, and Chelsea Turner\
-Stage Directions read by Electra Tremulis\  
+Stage Directions read by Electra Tremulis\
 Assistant Directors: Vero Maynez and Alison Thvedt\
-Dramaturgy by Tanuja Jagernauth\ 
+Dramaturgy by Tanuja Jagernauth\
 Presented by Core Member Prop Thtr  presented by Core Member [Prop Thtr](https://www.propthtr.org/)
 
 *Lulu, a young and ambitious South American woman, graduates from DePaul University, debt free thanks to her investor, Gold Coast native, Caroline. Lulu will not feel the vulnerability ofher immigration status as long as she does not veer from “their plan”. When romance complicates their arrangement, so does race, class, and power. Will Lulu ever find her American dream or will her spirit be crushed by her capitalism-entrenched community? A desecration of Wedekind's "Lulu" plays, reimagined in Chicago's Lincoln Park neighborhood in 2019.* 
@@ -97,7 +97,7 @@ This session will provide an affinity space for white theater-makers eager to wo
 
 [Click here](https://us02web.zoom.us/meeting/register/tZAvd-yrrTsuGNP1nJKgorferIfZJxP2bHQR) to register
 
-### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **THE LOYALS**\
+### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **THE LOYALS**
 by NNPN Affiliated Artist Alison Gregory\
 directed by Hayley Finn\
 presented by our friends at [The Playwrights Center](https://pwcenter.org/)
