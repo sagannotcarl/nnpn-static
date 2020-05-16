@@ -61,7 +61,7 @@ Triple Play is a national research project created by [Theatre Development Fund]
 **[Click here](https://us02web.zoom.us/meeting/register/tZAldO6rpjgjHtQCzcrRZ-he6_Hdnc8B16cT) to register**
 
 ### 4:30pm EDT / 1:30pm PDT | Social Impact Commons: Reimagining Our Sector: Possible Futures for Your Resource (aka “Business”) Model
-**Best For: Artistic & Business Leaders**\
+**Best For: Artistic & Management Leaders**\
 This session, presented by **Thaddeus Squire** and **Asta Petkeviciute** of [Social Impact Commons](https://www.socialimpactcommons.org/), focuses on how the rapidly changing landscape, owing to the COVID-19 pandemic, is inspiring new thinking in how we gather the resources to do our work. While money is certainly a focus, we will be thinking about resources (or “business model”) more expansively, examining how our approach to organizing personnel, technology, and even audiences themselves may be shifting and what this means for your work moving forward. This session is for both artistic and management team members of theatres. Ideally you should have done some scenario thinking about how the COVID-19 crisis is and will be affecting your work and what you might do to pivot. There is a short (30 min) preparatory exercise to gather some thinking about future scenarios that we ask participants to complete beforehand.
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZYvcOqvrj0oGdN65dUFcjr94HqfT9RVDBhT) to register**
