@@ -26,7 +26,7 @@ We will convene Tuesday, May 26 - Friday, May 29. See below for our schedule and
 **Best For: Anyone & Everyone!**\
 Theater is no stranger to calamity. From the plagues that devastated Sophocles’s Athens, Shakespeare’s London, and Kushner’s NYC, to the acts of war and economic devastation that upended the whole world at once – the theater has survived, evolved, and thrived through it all. With perspectives from across history, a crack panel of dramaturgs illuminate where we’ve been as an art form – and invite us to consider where we hope to go next. This panel and discussion features Carrie Kaplan, Tanya Palmer, Sally Ollove, Edwin Wong, and moderator Julie Felise Dubiner.
 
-**Registration Link Coming Soon!**
+**[Click here](https://www.eventbrite.com/e/nnpn-annual-conference-weve-been-here-before-theater-crisis-tickets-105652132372) to register**
 
 ### 4:30pm EDT / 1:30pm PDT | Pitch Session!
 **Best For: Member Theater representatives**\
@@ -45,7 +45,7 @@ Presented by Core Member Prop Thtr  presented by Core Member [Prop Thtr](https:/
 
 *Lulu, a young and ambitious South American woman, graduates from DePaul University, debt free thanks to her investor, Gold Coast native, Caroline. Lulu will not feel the vulnerability ofher immigration status as long as she does not veer from “their plan”. When romance complicates their arrangement, so does race, class, and power. Will Lulu ever find her American dream or will her spirit be crushed by her capitalism-entrenched community? A desecration of Wedekind's "Lulu" plays, reimagined in Chicago's Lincoln Park neighborhood in 2019.* 
 
-**Registration Link Coming Soon!**
+**[Click here](https://www.eventbrite.com/e/nnpn-annual-conference-diary-of-an-erotic-life-by-olivia-lilley-tickets-105655791316) to register**
 
 ***
 
@@ -125,11 +125,11 @@ While we must wait until our 2021 Conference to join our friends at the Phoenix 
 
 Each speaker will offer insights into how they leveraged the existing assets of their respective institutions to create value and access for a larger and more diverse segment of their community. Panelists will consider how strategies employed in the visual arts sector can be applied to the theater field, particularly as we strive to spotlight new stories and voices. How might we expand the purpose and utility of our physical spaces, work with artists to address the alienating and divisive forces of cultural gentrification in our surrounding neighborhoods, and reconsider how (and why) we invite diverse artists and audiences into primarily white institutions? And how might this work help our theaters become essential to their communities? 
 
-**Registration Link Coming Soon!**
+**[Click here](https://www.eventbrite.com/e/nnpn-annual-conference-you-have-everything-you-need-tickets-105454950596) to register**
 
 ### 8pm EDT / 5pm PDT | Affiliated Artists Playwright Slam 
 Hosted by NNPN Board Members Lynde Rosario ([Denver Center for the Performing Arts](https://www.denvercenter.org/)) & Liz Engelman ([Tofte Lake Center](https://toftelake.org/))\
-**Best For: Anyone & Everyon**\
+**Best For: Anyone & Everyone**\
 Join our Affiliated Artists as they read short selections from their work in this informal, open-mic style event. Inspired by the annual crowd favorite at the Colorado New Play Summit (and a tribute to the beloved Doug Langworthy who championed so many new works during his inspiring and field-altering career), it’s like a sampler platter and speed dating in one! 
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZwpd--oqj0jE9xS_pGKwJVfkXbyxnQmuMT_) to register**
