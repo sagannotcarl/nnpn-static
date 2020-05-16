@@ -28,7 +28,7 @@ Theater is no stranger to calamity. From the plagues that devastated Sophocles�
 
 **[Click here](https://www.eventbrite.com/e/nnpn-annual-conference-weve-been-here-before-theater-crisis-tickets-105652132372) to register**
 
-### 4:30pm EDT / 1:30pm PDT | Pitch Session!
+### 4:30pm EDT / 1:30pm PDT | Pitch Session
 **Best For: Member Theater representatives**\
 The classic NNPN session goes digital! In addition to sharing the new plays and Rolling World Premiere opportunities that we are excited about producing in the future, we will also swap ideas about digital and analog strategies for engaging audiences and artists in the interim.
 
@@ -53,7 +53,7 @@ Presented by Core Member Prop Thtr  presented by Core Member [Prop Thtr](https:/
 ## May 27
 ### 3pm EDT / 12pm PDT | Triple Play: Past, Present, Future
 **Best For: Audience Engagement & Marketing Pros**\
-Triple Play is a national research project created by Theatre Development Fund and Theatre Bay Area, with support from NNPN Member Theaters, that investigated the relationship of audiences to new plays. In this session, Victoria Bailey (TDF) and Brad Erickson (TBD) will lead us through a continued investigation of how findings from the initial study were impacting audience development efforts pre-pandemic as well as how we might build upon this work going forward to find and build new audiences, turn our occasional ticket-buyers into new works advocates, and hone our skills for bringing our aspirational audiences into our spaces when we reopen.
+Triple Play is a national research project created by [Theatre Development Fund](https://www.tdf.org/) and [Theatre Bay Area](https://www.theatrebayarea.org/), with support from NNPN Member Theaters, that investigated the relationship of audiences to new plays. In this session, **Victoria Bailey (TDF)** and **Brad Erickson (TBA)** will lead us through a continued investigation of how findings from the initial study were impacting audience development efforts pre-pandemic as well as how we might build upon this work going forward to find and build new audiences, turn our occasional ticket-buyers into new works advocates, and hone our skills for bringing our aspirational audiences into our spaces when we reopen.
 
 **How to Prepare:** Session participants should be familiar with Triple Play, either through past experience and/or by reading the Executive Summary of the full report (available here).
 
@@ -61,7 +61,7 @@ Triple Play is a national research project created by Theatre Development Fund a
 
 ### 4:30pm EDT / 1:30pm PDT | Social Impact Commons: Reimagining Our Sector: Possible Futures for Your Resource (aka “Business”) Model
 **Best For: Artistic & Business Leaders**\
-This session, presented by Thaddeus Squire and Asta Petkeviciute of Social Impact Commons, focuses on how the rapidly changing landscape, owing to the COVID-19 pandemic, is inspiring new thinking in how we gather the resources to do our work. While money is certainly a focus, we will be thinking about resources (or “business model”) more expansively, examining how our approach to organizing personnel, technology, and even audiences themselves may be shifting and what this means for your work moving forward. This session is for both artistic and management team members of theatres. Ideally you should have done some scenario thinking about how the COVID-19 crisis is and will be affecting your work and what you might do to pivot. There is a short (30 min) preparatory exercise to gather some thinking about future scenarios that we ask participants to complete beforehand.
+This session, presented by **Thaddeus Squire** and **Asta Petkeviciute** of [Social Impact Commons](https://www.socialimpactcommons.org/), focuses on how the rapidly changing landscape, owing to the COVID-19 pandemic, is inspiring new thinking in how we gather the resources to do our work. While money is certainly a focus, we will be thinking about resources (or “business model”) more expansively, examining how our approach to organizing personnel, technology, and even audiences themselves may be shifting and what this means for your work moving forward. This session is for both artistic and management team members of theatres. Ideally you should have done some scenario thinking about how the COVID-19 crisis is and will be affecting your work and what you might do to pivot. There is a short (30 min) preparatory exercise to gather some thinking about future scenarios that we ask participants to complete beforehand.
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZYvcOqvrj0oGdN65dUFcjr94HqfT9RVDBhT) to register**
 
@@ -79,7 +79,7 @@ Because the Networking part of the Network is what makes the Network work! Grab 
 **Best For: Managing & Marketing Pros**\
 During the time of coronavirus, theatres are not short on plans for online content (for the short-term) and for eventually reopening their doors (for the long-term). A critical piece of these plans is the price of a ticket, which is key to determine both your revenue and your audience’s perception of your art.
 
-In this session, experts Jennifer Sowinski and Jamie Alexander from JCA Arts Marketing will explore how to communicate value and maximize revenue through pricing for online and in-person performances. We’ll review questions such as: How do you price streamed performances and other online offerings, and how do you communicate their value to patrons? How much will audiences be willing to pay for a theatre ticket after reopening? How can you make up lost revenue through pricing?
+In this session, experts **Jennifer Sowinski** and **Jamie Alexander** from [JCA Arts Marketing](https://jcainc.com/) will explore how to communicate value and maximize revenue through pricing for online and in-person performances. We’ll review questions such as: How do you price streamed performances and other online offerings, and how do you communicate their value to patrons? How much will audiences be willing to pay for a theatre ticket after reopening? How can you make up lost revenue through pricing?
 
 You’ll come away with basic knowledge of pricing best practices for online and offline content, and ideas for optimizing revenue and value perception through pricing.
 
@@ -121,15 +121,15 @@ In an era when safety, security, and risk are both individually-defined and at t
 ### 4pm EDT / 1pm PDT | You Have Everything You Need: Expanding the Depth, Breadth, and Diversity of your Audience
 Indianapolis Arts & Cultural Leaders Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation\
 **Best For: Anyone & Everyone**\
-While we must wait until our 2021 Conference to join our friends at the Phoenix Theatre in Indianapolis, there is much to be explored in the work taking place across the city’s arts & cultural sector, particularly as it relates to audience engagement, development, and inclusion. This session will feature a conversation among Tamara Winfrey-Harris, Vice President of Community Leadership and Effective Philanthropy at Central Indiana Community Foundation; Joanna Beatty Taft, Executive Director of the Harrison Center; and Dr. Charles L. Venable, The Melvin & Bren Simon Director and CEO of Newfields (formerly the Indianapolis Museum of Art).  
+While we must wait until our 2021 Conference to join our friends at the [Phoenix Theatre](https://www.phoenixtheatre.org/) in Indianapolis, there is much to be explored in the work taking place across the city’s arts & cultural sector, particularly as it relates to audience engagement, development, and inclusion. This session will feature a conversation among **Tamara Winfrey-Harris**, Vice President of Community Leadership and Effective Philanthropy at [Central Indiana Community Foundation](https://www.cicf.org/); **Joanna Beatty Taft**, Executive Director of the [Harrison Center](https://www.harrisoncenter.org/); and **Dr. Charles L. Venable**, The Melvin & Bren Simon Director and CEO of [Newfields](https://discovernewfields.org/) (formerly the Indianapolis Museum of Art).  
 
 Each speaker will offer insights into how they leveraged the existing assets of their respective institutions to create value and access for a larger and more diverse segment of their community. Panelists will consider how strategies employed in the visual arts sector can be applied to the theater field, particularly as we strive to spotlight new stories and voices. How might we expand the purpose and utility of our physical spaces, work with artists to address the alienating and divisive forces of cultural gentrification in our surrounding neighborhoods, and reconsider how (and why) we invite diverse artists and audiences into primarily white institutions? And how might this work help our theaters become essential to their communities? 
 
 **[Click here](https://www.eventbrite.com/e/nnpn-annual-conference-you-have-everything-you-need-tickets-105454950596) to register**
 
 ### 8pm EDT / 5pm PDT | Affiliated Artists Playwright Slam 
-Hosted by NNPN Board Members Lynde Rosario ([Denver Center for the Performing Arts](https://www.denvercenter.org/)) & Liz Engelman ([Tofte Lake Center](https://toftelake.org/))\
 **Best For: Anyone & Everyone**\
+Hosted by NNPN Board Members Lynde Rosario ([Denver Center for the Performing Arts](https://www.denvercenter.org/)) & Liz Engelman ([Tofte Lake Center](https://toftelake.org/))\
 Join our Affiliated Artists as they read short selections from their work in this informal, open-mic style event. Inspired by the annual crowd favorite at the Colorado New Play Summit (and a tribute to the beloved Doug Langworthy who championed so many new works during his inspiring and field-altering career), it’s like a sampler platter and speed dating in one! 
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZwpd--oqj0jE9xS_pGKwJVfkXbyxnQmuMT_) to register**
