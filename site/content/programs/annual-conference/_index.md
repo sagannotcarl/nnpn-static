@@ -35,6 +35,7 @@ The classic NNPN session goes digital! In addition to sharing the new plays and 
 **[Click here](https://us02web.zoom.us/meeting/register/tZMrcOyuqzIrEt0l2Pi2fte4b0YTjMfhp526) to register**
 
 ### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **DIARY OF AN EROTIC LIFE**
+**Best For: Anyone & Everyone**\
 Inspired by “Earth’s Spirit” & “Pandora’s Box” by Frank Wedekind\
 Written & Directed by Core Member Artistic Director Olivia Lilley\
 Devised by The Ensemble: Valeria Rosero, Kate Black Spence, Kenya Hall, Mary Iris Loncto, Caitlin Shantz, Dylan Fahoome, and Chelsea Turner\
@@ -98,6 +99,7 @@ This session will provide an affinity space for white theater-makers eager to wo
 **[Click here](https://us02web.zoom.us/meeting/register/tZAvd-yrrTsuGNP1nJKgorferIfZJxP2bHQR) to register**
 
 ### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **THE LOYALS**
+**Best For: Anyone & Everyone (please note that tickets are limited to this event)**\
 by NNPN Affiliated Artist Alison Gregory\
 directed by Hayley Finn\
 presented by our friends at [The Playwrights Center](https://pwcenter.org/)
@@ -119,7 +121,6 @@ In an era when safety, security, and risk are both individually-defined and at t
 **[Click here](https://us02web.zoom.us/meeting/register/tZwvduCvrDsvHNyBnm_6PfhYFdJVBnBLEH9K) to register**
 
 ### 4pm EDT / 1pm PDT | You Have Everything You Need: Expanding the Depth, Breadth, and Diversity of your Audience
-Indianapolis Arts & Cultural Leaders Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation\
 **Best For: Anyone & Everyone**\
 While we must wait until our 2021 Conference to join our friends at the [Phoenix Theatre](https://www.phoenixtheatre.org/) in Indianapolis, there is much to be explored in the work taking place across the city’s arts & cultural sector, particularly as it relates to audience engagement, development, and inclusion. This session will feature a conversation among **Tamara Winfrey-Harris**, Vice President of Community Leadership and Effective Philanthropy at [Central Indiana Community Foundation](https://www.cicf.org/); **Joanna Beatty Taft**, Executive Director of the [Harrison Center](https://www.harrisoncenter.org/); and **Dr. Charles L. Venable**, The Melvin & Bren Simon Director and CEO of [Newfields](https://discovernewfields.org/) (formerly the Indianapolis Museum of Art).  
 
