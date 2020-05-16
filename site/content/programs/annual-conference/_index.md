@@ -38,7 +38,7 @@ The classic NNPN session goes digital! In addition to sharing the new plays and 
 **Best For: Anyone & Everyone!**\
 Inspired by “Earth’s Spirit” & “Pandora’s Box” by Frank Wedekind\
 Written & Directed by Core Member Artistic Director Olivia Lilley\
-Devised by The Ensemble: Valeria Rosero, Kate Black Spence, Kenya Hall, Mary Iris Loncto, Caitlin Shantz, Dylan Fahoome, and Chelsea Turner\
+Devised by The Ensemble: Valeria Rosero, Kate Black Spence, Kenya Ann Hall, Mary Iris Loncto, Caitlin Shantz, Dylan Fahoome, and Chelsea Turner\
 Stage Directions read by Electra Tremulis\
 Assistant Directors: Vero Maynez and Alison Thvedt\
 Dramaturgy by Tanuja Jagernauth\
