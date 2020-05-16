@@ -60,12 +60,12 @@ Best For: Managing & Marketing Pros\
 [Click here](https://us02web.zoom.us/meeting/register/tZcsc-yurjkuGt3eOC2TtaQSCi8AJ5D2lpDn) to register
 
 ### 4pm EDT | POC Affinity Space
-Designed For: POC Members of our Community\
+Designed For: POC Folx in the NNPN Community (includes Affiliated Artists, Ambassadors, and Partner Organizations)\
 [Click here](https://us02web.zoom.us/meeting/register/tZIsde6vqTgrGtZD2xOYX1SFA_qkwSeLFabN) to register
 
 ### 4pm EDT | Anti-Racist Affinity Space for White Folks
-Designed For: White Members of our Community\
-Registration Link Coming Soon!
+Designed For: White Folx in the NNPN Community (includes Affiliated Artists, Ambassadors, and Partner Organizations)\
+[Click here](https://us02web.zoom.us/meeting/register/tZAvd-yrrTsuGNP1nJKgorferIfZJxP2bHQR) to register
 
 ### 7pm EDT | A Virtual New Play Reading of **THE LOYALS**\
 by NNPN Affiliated Artist Alison Gregory\
