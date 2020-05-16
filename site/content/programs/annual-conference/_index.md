@@ -77,7 +77,7 @@ presented by our friends at [The Playwrights Center](https://pwcenter.org/)
 ## May 29
 ### 3pm EDT | Imagining a "Back to the Theater" campaign
 Best For: Artistic, Managing, & Marketing Leaders\
-Registration Link Coming Soon!
+[Click here](https://us02web.zoom.us/meeting/register/tZwvduCvrDsvHNyBnm_6PfhYFdJVBnBLEH9K) to register
 
 ### 4pm EDT | You Have Everything You Need: Expanding the Depth, Breadth, and Diversity of your Audience
 Indianapolis Arts & Cultural Leaders Charles Venable, Joanna Taft, and Tamara Winfrey-Harris In Conversation\
