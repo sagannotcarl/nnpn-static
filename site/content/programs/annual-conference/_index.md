@@ -49,7 +49,8 @@ Best For: Artistic & Business Leaders\
 [Click here](https://us02web.zoom.us/meeting/register/tZYvcOqvrj0oGdN65dUFcjr94HqfT9RVDBhT) to register
 
 ### 6:30pm EDT | NNPN Virtual Happy Hour
-Because - after all - it's the Networking part of the Network that makes the Network work!
+Because - after all - it's the Networking part of the Network that makes the Network work!\
+[Click here](https://us02web.zoom.us/j/88478552612) to join the event
 
 ***
 
