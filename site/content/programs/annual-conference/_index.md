@@ -54,9 +54,17 @@ Presented by Core Member Prop Thtr  presented by Core Member [Prop Thtr](https:/
 ## May 27
 ### 3pm EDT / 12pm PDT | Triple Play: Past, Present, Future
 **Best For: Audience Engagement & Marketing Pros (please note space is limited for this session)**\
-Triple Play is a national research project created by [Theatre Development Fund](https://www.tdf.org/) and [Theatre Bay Area](https://www.theatrebayarea.org/), with support from NNPN Member Theaters, that investigated the relationship of audiences to new plays. In this session, **Victoria Bailey (TDF)** and **Brad Erickson (TBA)** will lead us through a continued investigation of how findings from the initial study were impacting audience development efforts pre-pandemic as well as how we might build upon this work going forward to find and build new audiences, turn our occasional ticket-buyers into new works advocates, and hone our skills for bringing our aspirational audiences into our spaces when we reopen.
+This session will engage participants in participatory conversation about the new take-aways from the Triple Play study uncovered by NNPN Member Theaters and others in the new play sector. Led by Triple Play partners **Tory Bailey** of [Theatre Development Fund](https://www.tdf.org/) and **Brad Erickson** of [Theatre Bay Area](https://www.theatrebayarea.org/), the discussion will ask: 
 
-**How to Prepare:** Session participants should be familiar with Triple Play, either through past experience and/or by reading the Executive Summary of the full report (available here).
+What learning from Triple Play informed your audience engagement effort practices pre-COVID and what efforts were most effective in attracting new audiences and converting occasional theater-goers into new works fans? 
+
+What learning from Triple Play is informing your practices now in the midst of the pandemic? 
+
+What learning do you imagine bringing forward into your practices as we emerge from the pandemic and how might they assist you in attracting new audiences and deepening engagement once we have reopened our theaters? 
+
+In considering these questions, we hope to generate ideas about the audience we imagine for the future-how do we ensure the continued engagement of our traditional audiences, how do we build on engagement with new participants we may be reaching right now as we use technology to reduce barriers and who are the newcomers in the future audience we might want to reach when we reopen our doors?
+
+**How to Prepare:** Session participants should be familiar with Triple Play, either through past experience and/or by reading the Executive Summary of the full report (available [here](https://www.tdf.org/cmsfiles/documents/TriplePlayExecutiveSummary.pdf)).
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZAldO6rpjgjHtQCzcrRZ-he6_Hdnc8B16cT) to register**
 
