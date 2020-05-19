@@ -19,7 +19,7 @@ Additionally, this is the first time that NNPN will introduce its annual Summit,
 
 This year, we ask the question: **How can theaters become essential to their communities?**
 
-We will convene Tuesday, May 26 - Friday, May 29. See below for our schedule and registration links - COMING SOON! Please note that while all sessions are free, registration is required (except for the Happy Hour).
+We will convene Tuesday, May 26 - Friday, May 29. See below for our schedule and registration links. Please note that while all sessions are free, registration is required (except for the Happy Hour).
 
 ## May 26
 ### 3pm EDT / 12pm PDT | We've Been Here Before: Theater & Crisis
