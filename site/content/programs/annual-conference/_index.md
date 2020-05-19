@@ -108,7 +108,7 @@ This session will provide an affinity space for white theater-makers eager to wo
 
 ### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **THE LOYALS**
 **Best For: Anyone & Everyone! (please note that tickets are limited to this event)**\
-by NNPN Affiliated Artist Alison Gregory\
+by NNPN Affiliated Artist [Alison Gregory](https://newplayexchange.org/users/1848/allison-gregory)\
 directed by Hayley Finn\
 presented by our friends at [The Playwrights Center](https://pwcenter.org/)
 
@@ -116,7 +116,7 @@ presented by our friends at [The Playwrights Center](https://pwcenter.org/)
 
 The Loyals *is a gripping investigation into espionage and patriotism during the American Revolution – and the greatest act of disloyalty this young country had ever seen. History is the fundamental lens through which we view the present. With this romantic comedy about treason, I seek to investigate the intersection of historical fact and my own narrative invention, while telling a two-hundred and forty year-old narrative that throws light and resonance on today’s political shenanigans.*
 
-**Registration Link Coming Soon!**
+**[Click here](https://www.eventbrite.com/e/105656587698)to register**
 
 ***
 
