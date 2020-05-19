@@ -53,7 +53,7 @@ Presented by Core Member Prop Thtr  presented by Core Member [Prop Thtr](https:/
 
 ## May 27
 ### 3pm EDT / 12pm PDT | Triple Play: Past, Present, Future
-**Best For: Audience Engagement & Marketing Pros (please note space is limited for this session)**\
+**Best For: NNPN Member Theater Audience Engagement & Marketing Pros (please note space is limited for this session)**\
 This session will engage participants in participatory conversation about the new take-aways from the Triple Play study uncovered by NNPN Member Theaters and others in the new play sector. Led by Triple Play partners **Tory Bailey** of [Theatre Development Fund](https://www.tdf.org/) and **Brad Erickson** of [Theatre Bay Area](https://www.theatrebayarea.org/), the discussion will ask: 
 
 What learning from Triple Play informed your audience engagement effort practices pre-COVID and what efforts were most effective in attracting new audiences and converting occasional theater-goers into new works fans? 
@@ -69,7 +69,7 @@ In considering these questions, we hope to generate ideas about the audience we 
 **[Click here](https://us02web.zoom.us/meeting/register/tZAldO6rpjgjHtQCzcrRZ-he6_Hdnc8B16cT) to register**
 
 ### 4:30pm EDT / 1:30pm PDT | Social Impact Commons: Reimagining Our Sector: Possible Futures for Your Resource (aka “Business”) Model
-**Best For: Artistic & Management Leaders (please note space is limited for this session)**\
+**Best For: NNPN Member Theater Artistic & Management Leaders (please note space is limited for this session)**\
 This session, presented by **Thaddeus Squire** and **Asta Petkeviciute** of [Social Impact Commons](https://www.socialimpactcommons.org/), focuses on how the rapidly changing landscape, owing to the COVID-19 pandemic, is inspiring new thinking in how we gather the resources to do our work. While money is certainly a focus, we will be thinking about resources (or “business model”) more expansively, examining how our approach to organizing personnel, technology, and even audiences themselves may be shifting and what this means for your work moving forward. This session is for both artistic and management team members of theatres. Ideally you should have done some scenario thinking about how the COVID-19 crisis is and will be affecting your work and what you might do to pivot. There is a short (30 min) [preparatory exercise](https://nationalnewplaynetwork013-my.sharepoint.com/:w:/g/personal/admin_nnpn_org/EUdDZETVaJtIiVWwzLlhPtIBZbCdUbDe9gvANb3AjBROPA?e=AgpSip) to gather some thinking about future scenarios that we ask participants to complete beforehand.
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZYvcOqvrj0oGdN65dUFcjr94HqfT9RVDBhT) to register**
