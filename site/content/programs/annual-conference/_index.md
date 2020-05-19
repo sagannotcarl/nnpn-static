@@ -114,7 +114,7 @@ presented by our friends at [The Playwrights Center](https://pwcenter.org/)
 
 *Meet Peggy Shipman: young, bright, socially prominent, politically ambivalent. At eighteen she becomes Mrs. Benedict Arnold. But wait -- is she a knowing partner in her infamous husband’s treason? Is she playing a conniving role in his outrageous attempt to destroy an adolescent country fighting for its independence? Or is she merely a naïve spouse, betrayed along with George Washington and the rest of America? And how does she get her hair so high?*
 
-The Loyals *is a gripping investigation into espionage and patriotism during the American Revolution – and the greatest act of disloyalty this young country had ever seen. History is the fundamental lens through which we view the present. With this romantic comedy about treason, I seek to investigate the intersection of historical fact and my own narrative invention, while telling a two-hundred and forty year-old narrative that throws light and resonance on today’s political shenanigans.*
+The Loyals *is a gripping investigation into espionage and patriotism during the American Revolution – and the greatest act of disloyalty this young country had ever seen. History is the fundamental lens through which we view the present. With this romantic comedy about treason, Gregory seeks to investigate the intersection of historical fact and her own narrative invention, while telling a two-hundred and forty year-old narrative that throws light and resonance on today’s political shenanigans.*
 
 **[Click here](https://www.eventbrite.com/e/105656587698) to register**
 
