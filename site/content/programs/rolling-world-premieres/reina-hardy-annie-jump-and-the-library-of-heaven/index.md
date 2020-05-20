@@ -3,7 +3,7 @@ title: "Reina Hardy"
 image: "reina_hardy.jpg"
 link: "newplayexchange.org/users/223/reina-hardy"
 current: "true"
-promoted: "true"
+promoted: "false"
 related:
 - Rolling World Premieres
 play: "Annie Jump and the Library of Heaven"
@@ -21,5 +21,5 @@ POSTPONED\
 Austin, TX
 
 [**Thrown Stone**](https://thrownstone.org/annie/)\
-July 11 - 26, 2020\
+POSTPONED: Summer 2021\
 Ridgefield, CT
