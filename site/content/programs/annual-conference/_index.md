@@ -66,13 +66,19 @@ In considering these questions, we hope to generate ideas about the audience we 
 
 **How to Prepare:** Session participants should be familiar with Triple Play, either through past experience and/or by reading the Executive Summary of the full report (available [here](https://www.tdf.org/cmsfiles/documents/TriplePlayExecutiveSummary.pdf)).
 
-**_THIS SESSION IS CURRENTLY AT CAPACITY!_ [Click here](https://us02web.zoom.us/meeting/register/tZAldO6rpjgjHtQCzcrRZ-he6_Hdnc8B16cT) and register to be added to the Wait List. We'll let you know as soon as seats open up - and thanks for your understanding!**
+**_THIS SESSION IS CURRENTLY AT CAPACITY!_\
+[Click here](https://us02web.zoom.us/meeting/register/tZAldO6rpjgjHtQCzcrRZ-he6_Hdnc8B16cT) and register to be added to the Wait List. We'll let you know as soon as seats open up - and thanks for your understanding!**
+
+
 
 ### 4:30pm EDT / 1:30pm PDT | Social Impact Commons: Reimagining Our Sector: Possible Futures for Your Resource (aka “Business”) Model
 **Best For: NNPN Member Theater Artistic & Management Leaders (please note space is limited for this session)**\
 This session, presented by **Thaddeus Squire** and **Asta Petkeviciute** of [Social Impact Commons](https://www.socialimpactcommons.org/), focuses on how the rapidly changing landscape, owing to the COVID-19 pandemic, is inspiring new thinking in how we gather the resources to do our work. While money is certainly a focus, we will be thinking about resources (or “business model”) more expansively, examining how our approach to organizing personnel, technology, and even audiences themselves may be shifting and what this means for your work moving forward. This session is for both artistic and management team members of theatres. Ideally you should have done some scenario thinking about how the COVID-19 crisis is and will be affecting your work and what you might do to pivot. There is a short (30 min) [preparatory exercise](https://nationalnewplaynetwork013-my.sharepoint.com/:w:/g/personal/admin_nnpn_org/EUdDZETVaJtIiVWwzLlhPtIBZbCdUbDe9gvANb3AjBROPA?e=AgpSip) to gather some thinking about future scenarios that we ask participants to complete beforehand.
 
-**_THIS SESSION IS CURRENTLY AT CAPACITY!_ [Click here](https://us02web.zoom.us/meeting/register/tZYvcOqvrj0oGdN65dUFcjr94HqfT9RVDBhT) and register to be added to the Wait List. We'll let you know as soon as seats open up - and thanks for your understanding!**
+**_THIS SESSION IS CURRENTLY AT CAPACITY!_\
+[Click here](https://us02web.zoom.us/meeting/register/tZYvcOqvrj0oGdN65dUFcjr94HqfT9RVDBhT) and register to be added to the Wait List. We'll let you know as soon as seats open up - and thanks for your understanding!**
+
+
 
 ### 6:30pm EDT / 3:30pm PDT | NNPN Virtual Happy Hour
 **Best For: Anyone & Everyone!**\
