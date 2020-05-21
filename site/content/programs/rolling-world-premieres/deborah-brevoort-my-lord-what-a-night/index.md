@@ -17,6 +17,4 @@ Shepherdstown, WV
 POSTPONED\
 Orlando, FL
 
-[**Florida Studio Theatre**](https://www.floridastudiotheatre.org/)\
-POSTPONED
-Sarasota, FL
+Third partner theater TBA
