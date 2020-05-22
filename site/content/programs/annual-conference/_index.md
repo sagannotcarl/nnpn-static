@@ -28,7 +28,7 @@ Theater is no stranger to calamity. From the plagues that devastated Sophocles�
 
 **[Click here](https://www.eventbrite.com/e/nnpn-annual-conference-weve-been-here-before-theater-crisis-tickets-105652132372) to register**
 
-### 4:30pm EDT / 1:30pm PDT | Pitch Session
+### 4:45pm EDT / 1:45pm PDT | Pitch Session
 **Best For: Member Theater representatives**\
 The classic NNPN session goes digital! In addition to sharing the new plays and Rolling World Premiere opportunities that we are excited about producing in the future, we will also swap ideas about digital and analog strategies for engaging audiences and artists in the interim.
 
@@ -71,7 +71,7 @@ In considering these questions, we hope to generate ideas about the audience we 
 
 
 
-### 4:30pm EDT / 1:30pm PDT | Social Impact Commons: Reimagining Our Sector: Possible Futures for Your Resource (aka “Business”) Model
+### 4:45pm EDT / 1:45pm PDT | Social Impact Commons: Reimagining Our Sector: Possible Futures for Your Resource (aka “Business”) Model
 **Best For: NNPN Member Theater Artistic & Management Leaders (please note space is limited for this session)**\
 This session, presented by **Thaddeus Squire** and **Asta Petkeviciute** of [Social Impact Commons](https://www.socialimpactcommons.org/), focuses on how the rapidly changing landscape, owing to the COVID-19 pandemic, is inspiring new thinking in how we gather the resources to do our work. While money is certainly a focus, we will be thinking about resources (or “business model”) more expansively, examining how our approach to organizing personnel, technology, and even audiences themselves may be shifting and what this means for your work moving forward. This session is for both artistic and management team members of theatres. Ideally you should have done some scenario thinking about how the COVID-19 crisis is and will be affecting your work and what you might do to pivot. There is a short (30 min) [preparatory exercise](https://nationalnewplaynetwork013-my.sharepoint.com/:w:/g/personal/admin_nnpn_org/EUdDZETVaJtIiVWwzLlhPtIBZbCdUbDe9gvANb3AjBROPA?e=AgpSip) to gather some thinking about future scenarios that we ask participants to complete beforehand.
 
@@ -100,13 +100,13 @@ You’ll come away with basic knowledge of pricing best practices for online and
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZcsc-yurjkuGt3eOC2TtaQSCi8AJ5D2lpDn) to register**
 
-### 4pm EDT / 1pm PDT | POC Affinity Space
+### 4:15pm EDT / 1:15pm PDT | POC Affinity Space
 **Designed For: POC Folx in the NNPN Community (includes Affiliated Artists, and Ambassadors)**\
 Building on the discussions and ideas generated at the Women of Color Affinity Space last December at Showcase, this session is an opportunity address the status of our Member Theaters and theater-makers of color and what we can create going forward in the wake of this pandemic.
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZIsde6vqTgrGtZD2xOYX1SFA_qkwSeLFabN) to register**
 
-### 4pm EDT / 1pm PDT | Anti-Racist Affinity Space for White Folks
+### 4:15pm EDT / 1:15pm PDT | Anti-Racist Affinity Space for White Folks
 **Designed For: White Folx in the NNPN Community (includes Affiliated Artists, Ambassadors, and Partner Organizations)**\
 This session will provide an affinity space for white theater-makers eager to work toward racial justice and equity in the American theater (and the world writ large). This space will allow us to ask tough questions, share experiences and support, and work together to envision what might come next for ourselves and our field as we begin to imagine an anti-racist, post-pandemic world. 
 
@@ -134,7 +134,7 @@ In an era when safety, security, and risk are both individually-defined and at t
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZwvduCvrDsvHNyBnm_6PfhYFdJVBnBLEH9K) to register**
 
-### 4pm EDT / 1pm PDT | You Have Everything You Need: Expanding the Depth, Breadth, and Diversity of your Audience
+### 4:15pm EDT / 1:15pm PDT | You Have Everything You Need: Expanding the Depth, Breadth, and Diversity of your Audience
 **Best For: Anyone & Everyone!**\
 While we must wait until our 2021 Conference to join our friends at the [Phoenix Theatre](https://www.phoenixtheatre.org/) in Indianapolis, there is much to be explored in the work taking place across the city’s arts & cultural sector, particularly as it relates to audience engagement, development, and inclusion. This session will feature a conversation among **Tamara Winfrey-Harris**, Vice President of Community Leadership and Effective Philanthropy at [Central Indiana Community Foundation](https://www.cicf.org/); **Joanna Beatty Taft**, Executive Director of the [Harrison Center](https://www.harrisoncenter.org/); **Reginald Douglas**, Associate Artistic Director at [Studio Theatre](https://www.studiotheatre.org/) (and NNPN Board Member); and **Dr. Charles L. Venable**, The Melvin & Bren Simon Director and CEO of [Newfields](https://discovernewfields.org/), home to the Indianapolis Museum of Art, The Garden, and the Virginia B. Fairbanks Art & Nature Park.  
 
