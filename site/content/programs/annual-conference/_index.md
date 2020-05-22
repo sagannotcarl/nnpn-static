@@ -100,13 +100,13 @@ You’ll come away with basic knowledge of pricing best practices for online and
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZcsc-yurjkuGt3eOC2TtaQSCi8AJ5D2lpDn) to register**
 
-### 4:15pm EDT / 1:15pm PDT | POC Affinity Space
-**Designed For: POC Folx in the NNPN Community (includes Affiliated Artists, and Ambassadors)**\
+### 4:15pm EDT / 1:15pm PDT | POC Theater-Maker Affinity Space
+**Designed For: POC Folx in the NNPN Community (includes Affiliated Artists and Ambassadors)**\
 Building on the discussions and ideas generated at the Women of Color Affinity Space last December at Showcase, this session is an opportunity address the status of our Member Theaters and theater-makers of color and what we can create going forward in the wake of this pandemic.
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZIsde6vqTgrGtZD2xOYX1SFA_qkwSeLFabN) to register**
 
-### 4:15pm EDT / 1:15pm PDT | Anti-Racist Affinity Space for White Folks
+### 4:15pm EDT / 1:15pm PDT | Anti-Racist Affinity Space for White Theater-Makers
 **Designed For: White Folx in the NNPN Community (includes Affiliated Artists, Ambassadors, and Partner Organizations)**\
 This session will provide an affinity space for white theater-makers eager to work toward racial justice and equity in the American theater (and the world writ large). This space will allow us to ask tough questions, share experiences and support, and work together to envision what might come next for ourselves and our field as we begin to imagine an anti-racist, post-pandemic world. 
 
