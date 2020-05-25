@@ -116,7 +116,7 @@ This session will provide an affinity space for white theater-makers eager to wo
 **Best For: Anyone & Everyone! (please note that tickets are limited to this event)**\
 by NNPN Affiliated Artist [Alison Gregory](https://newplayexchange.org/users/1848/allison-gregory)\
 directed by Hayley Finn\
-presented by our friends at [The Playwrights Center](https://pwcenter.org/)
+presented by our friends at [The Playwrights' Center](https://pwcenter.org/)
 
 *Meet Peggy Shipman: young, bright, socially prominent, politically ambivalent. At eighteen she becomes Mrs. Benedict Arnold. But wait -- is she a knowing partner in her infamous husband’s treason? Is she playing a conniving role in his outrageous attempt to destroy an adolescent country fighting for its independence? Or is she merely a naïve spouse, betrayed along with George Washington and the rest of America? And how does she get her hair so high?*
 
