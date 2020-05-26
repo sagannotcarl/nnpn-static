@@ -34,6 +34,7 @@ Theater is no stranger to calamity. From the plagues that devastatedÂ Sophoclesâ
 **Best For: Member Theater representatives**\
 The classic NNPN session goes digital! In addition to sharing the new plays and Rolling World Premiere opportunities that we are excited about producing in the future, we will also swap ideas about digital and analog strategies for engaging audiences and artists in the interim.
 
+**_THIS SESSION IS CURRENTLY AT CAPACITY EXCEPT FOR MEMBER THEATERS!_\
 **[Click here](https://us02web.zoom.us/meeting/register/tZMrcOyuqzIrEt0l2Pi2fte4b0YTjMfhp526) to register**
 
 ### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **DIARY OF AN EROTIC LIFE**
