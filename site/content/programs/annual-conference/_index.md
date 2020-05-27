@@ -117,7 +117,7 @@ This session will provide an affinity space for white theater-makers eager to wo
 
 ### 7pm EDT / 4pm PDT | A Virtual New Play Reading of **THE LOYALS**
 **Best For: Anyone & Everyone! (please note that tickets are limited to this event)**\
-by NNPN Affiliated Artist [Alison Gregory](https://newplayexchange.org/users/1848/allison-gregory)\
+by NNPN Affiliated Artist [Allison Gregory](https://newplayexchange.org/users/1848/allison-gregory)\
 directed by Hayley Finn\
 presented by our friends at [The Playwrights' Center](https://pwcenter.org/)
 
