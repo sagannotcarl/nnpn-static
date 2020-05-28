@@ -125,7 +125,7 @@ presented by our friends at [The Playwrights' Center](https://pwcenter.org/)
 
 The Loyals *is a gripping investigation into espionage and patriotism during the American Revolution – and the greatest act of disloyalty this young country had ever seen. History is the fundamental lens through which we view the present. With this romantic comedy about treason, Gregory seeks to investigate the intersection of historical fact and her own narrative invention, while telling a two-hundred and forty year-old narrative that throws light and resonance on today’s political shenanigans.*
 
-**[Click here](https://www.eventbrite.com/e/105656587698) to register**
+**This reading is currently at capacity! [Email Jess](mailto:jess@nnpn.org) to be added to the waitlist.**
 
 ***
 
