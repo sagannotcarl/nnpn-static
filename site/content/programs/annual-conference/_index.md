@@ -133,7 +133,9 @@ The Loyals *is a gripping investigation into espionage and patriotism during the
 ## May 29
 ### 3pm EDT / 12pm PDT | Imagining a "Back to the Theater" campaign
 **Best For: Artistic, Managing, & Marketing Leaders**\
-In an era when safety, security, and risk are both individually-defined and at the front of audiences’ minds, how can new play theaters across the country effectively and cohesively communicate the policies and procedures they’ve implemented to ensure the well-being of in-person visitors to their spaces? This session will start to develop ideas for a national campaign that champions safety and compassionately encourages audiences to come back to the theater. 
+In this session, we will start to consider how we are currently engaging and how we will welcome audiences back into our spaces, even though many of our timelines for that return remain uncertain.
+
+We'll invite participants to take an honest look at who their audiences were, invite them to be curious about who their audiences are now, and to be wildly aspirational about who their audiences can be in the future. As an organization that believes that new plays are vital to our communities because they reflect, chronicle, and question the ideas, issues, and stories of our time, we will also invite participants to consider ways in which new and/or local stories can be a balm to our communities and help bridge the gap between who our audiences were and who we want them to be in the future. 
 
 **[Click here](https://us02web.zoom.us/meeting/register/tZwvduCvrDsvHNyBnm_6PfhYFdJVBnBLEH9K) to register**
 
