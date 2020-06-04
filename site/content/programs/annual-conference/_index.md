@@ -28,6 +28,8 @@ We convened Tuesday, May 26 - Friday, May 29. See below for our schedule.
 **Best For: Anyone & Everyone!**\
 Theater is no stranger to calamity. From the plagues that devastated Sophocles’s Athens, Shakespeare’s London, and Kushner’s NYC, to the acts of war and economic devastation that upended the whole world at once – the theater has survived, evolved, and thrived through it all. With perspectives from across history, a crack panel of dramaturgs illuminate where we’ve been as an art form – and invite us to consider where we hope to go next. This panel and discussion features Carrie Kaplan, Tanya Palmer, Sally Ollove, Edwin Wong, and moderator Julie Felise Dubiner.
 
+Watch the recorded session [here](https://youtu.be/-2MOP5C2Th8).
+
 
 ### 4:45pm EDT / 1:45pm PDT | Pitch Session
 **Best For: Member Theater representatives**\
@@ -135,11 +137,13 @@ While we must wait until our 2021 Conference to join our friends at the [Phoenix
 
 Each speaker will offer insights into how they leveraged the existing assets of their respective institutions to create value and access for a larger and more diverse segment of their community. Panelists will consider how strategies employed in the visual arts sector can be applied to the theater field, particularly as we strive to spotlight new stories and voices. How might we expand the purpose and utility of our physical spaces, work with artists to address the alienating and divisive forces of cultural gentrification in our surrounding neighborhoods, and reconsider how (and why) we invite diverse artists and audiences into primarily white institutions? And how might this work help our theaters become essential to their communities? 
 
-
+Watch the recording of this conversation [here](https://youtu.be/feLx-We8rDk).
 
 ### 8pm EDT / 5pm PDT | Affiliated Artists Playwright Slam 
 **Best For: Anyone & Everyone!**\
 Hosted by NNPN Board Members Lynde Rosario ([Denver Center for the Performing Arts](https://www.denvercenter.org/)) & Liz Engelman ([Tofte Lake Center](https://toftelake.org/))\
 Join our Affiliated Artists as they read short selections from their work in this informal, open-mic style event. Inspired by the annual crowd favorite at the Colorado New Play Summit (and a tribute to the beloved Doug Langworthy who championed so many new works during his inspiring and field-altering career), it’s like a sampler platter and speed dating in one! 
+
+Watch the recording of the Playwrights Slam [here](https://youtu.be/FawAoYc_itY).
 
 
