@@ -13,7 +13,7 @@ related:
 - Rolling World Premieres
 ---
 
-<span class="lead-in">NNPN’S FLAGSHIP INITIATIVE, THE ROLLING WORLD PREMIERE (RWP) PROGRAM, IS SHIFTING THE NEW PLAY PARADIGM OF THE ONE-AND-DONE PREMIERE TO A DIVERSIFIED, TRAVELING, MULTI-PRODUCTION PREMIERE. THE RWP PROGRAM MODELS A PROCESS FOR DEVELOPING AND PRODUCING NEW PLAYS – ONE THAT RESULTS IN STRONGER WORK OVERALL AND THE MOMENTUM NEEDED FOR A PLAY TO JOIN THE REPERTOIRE OF FREQUENTLY PRODUCED NEW AMERICAN WORKS.</span>
+<span class="lead-in">NNPN’s flagship initiative, the Rolling World Premiere (RWP) program, is shifting the new play paradigm of the one-and-done premiere to a diversified, traveling, multi-production premiere. The RWP program models a process for developing and producing new plays – one that results in stronger work overall and the momentum needed for a play to join the repertoire of frequently produced new American works.</span>
 
 Each RWP supports three or more theaters that choose to mount the same new play within a 12-month period, allowing the playwright to develop a new work with multiple creative teams in multiple communities. The playwright is part of the process, working on the script and making adjustments based on what is learned from each production.
 
