@@ -9,7 +9,7 @@ menu:
 weight:     2
 ---
 
-<span class="lead-in">IN 1998, A SMALL GROUP OF THEATER LEADERS FOUNDED NATIONAL NEW PLAY NETWORK ON THE BELIEF THAT THE NEXT GENERATION OF NEW PLAY DEVELOPMENT SHOULD BE DECENTRALIZED, DYNAMIC, AND COLLABORATIVE IN SCOPE AND PRACTICE, AND THAT THERE SHOULD BE A PIPELINE FOR SHARING NEW WORK BETWEEN REGIONAL THEATERS.</span>
+<span class="lead-in">In 1998, a small group of theater leaders founded National New Play Network on the belief that the next generation of new play development should be decentralized, dynamic, and collaborative in scope and practice, and that there should be a pipeline for sharing new work between regional theaters.</span>
 
 Working with George C. White, Founder David Goldman, then serving as Special Programs Director of the Eugene O’Neill Theatre Center, convened a group of artistic and managing leaders from organizations that had demonstrated a commitment to the development and production of new plays, launching NNPN’s legacy of sharing the work of the artists they and their audiences admired.
 
