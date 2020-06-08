@@ -23,7 +23,7 @@ POSTPONED\
 Ogden, UT
 
 [**Contemporary American Theater Festival**](https://catf.org/babel-by-jacqueline-goldfinger/)\
-July 10 - August 2, 2020\
+POSTPONED: 2021 Season\
 Shepherdstown, WV
 
 [**Passage Theatre**](https://passagetheatre.org/)\
