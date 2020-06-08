@@ -1,7 +1,7 @@
 ---
 title:          "Carroll"
 name_override:  "Siobhan Carroll"
-image:          "Siobhan-Carroll.jpg"
+image:          "Siobhan-Carroll.jpeg"
 current:        "true"
 related:
 - Staff
