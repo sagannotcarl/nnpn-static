@@ -8,4 +8,4 @@ related:
 ---
 
 Dramaturg\
-Tofte Lake Center | University of Texas at Austin
+Tofte Lake Center
