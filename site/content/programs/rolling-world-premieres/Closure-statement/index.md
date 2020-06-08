@@ -1,5 +1,6 @@
 ---
-title: "National New Play Network"
+title: "1Closure"
+name_override:  "National New Play Network"
 image: "NNPN-02.png"
 link: "newplayexchange.org/organizations/1693/national-new-play-network"
 current: "true"
@@ -10,4 +11,4 @@ play: "In this period of closure"
 type: "rolling_premier"
 ---
 
-We look forward to welcoming Rolling World Premieres back to our Member Theaters' stages when we can safely return to live, in-person theater!
+We look forward to welcoming Rolling World Premieres back to our Member Theaters' stages when we can safely return to live, in-person theater.
