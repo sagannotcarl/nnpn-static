@@ -12,7 +12,7 @@ related:
 - Collaboration Fund
 ---
 
-<span class="lead-in">IN 2010, IN AN EFFORT TO ENCOURAGE INNOVATIVE, PIONEERING, PROJECT-BASED PARTNERSHIPS AMONG THEATERS IN SUPPORT OF PLAYWRIGHTS AND NEW PLAYS, NATIONAL NEW PLAY NETWORK ESTABLISHED ITS COLLABORATION FUND.</span>
+<span class="lead-in">In 2010, in an effort to encourage innovative, pioneering, project-based partnerships among theaters in support of playwrights and new plays, National New Play Network established its Collaboration Fund.</span>
 
 The Collaboration Fund supports innovative partnerships that explore the many different ways theater companies can work, both together and with playwrights, on the development of a new work. Up to $10,000 per project is awarded annually on a competitive basis to projects proposed by NNPN Core Member Theaters.
 
