@@ -7,7 +7,7 @@ related:
 - Staff
 ---
 
-### Development Consultant
+### Senior Development Consultant
 
 [Christine Stanley](https://newplayexchange.org/users/23392/christine-stanley) is a passionate advocate for the arts, engaging the community and donors in the life of theater, music and the performing arts.
 
