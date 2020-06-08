@@ -7,5 +7,5 @@ related:
 - Board of Directors
 ---
 
-Latinx Producer\
+Latinx Producer in Residence\
 San Diego Repertory Theatre
