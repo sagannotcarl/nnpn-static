@@ -1,6 +1,6 @@
 ---
-slide_intro:    "Expose Yourself"
-slide_headline: "To NNPN"
-slide_link:     "nnpn.org/programs/annual-conference/"
+slide_intro:    "In Solidarity"
+slide_headline: "#BlackLivesMatter"
+slide_link:     ""
 type:           "carousel"
 ---
