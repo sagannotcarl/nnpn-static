@@ -39,11 +39,11 @@ POSTPONED\
 Williamston, MI
 
 [**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
-POSTPONED: August 6-30, 2020\
+POSTPONED\
 Indianapolis, IN
 
 [**New Jersey Repertory Company**](http://www.njrep.org/index.htm)\
-October 15 - November 15, 2020\
+POSTPONED\
 Long Branch, NJ
 
 [**Oregon Contemporary Theatre**](https://www.octheatre.org/)\
