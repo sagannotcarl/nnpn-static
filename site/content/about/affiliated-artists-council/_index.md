@@ -8,7 +8,7 @@ menu:
   about:
 weight:         5
 type:           "about"
-current_label:  "2017-18 Council"
+current_label:  "2019-20 Council"
 past_label:     "Past Council Members"
 related:
 - Affiliated Artists Council
