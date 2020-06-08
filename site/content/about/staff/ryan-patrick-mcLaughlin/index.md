@@ -1,5 +1,5 @@
 ---
-title:          "ZZ"
+title:          "9McLaughlin"
 name_override:  "Ryan-Patrick McLaughlin"
 image:          "csh_9946.jpg"
 current:        "true"
