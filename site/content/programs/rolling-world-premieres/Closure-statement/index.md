@@ -1,7 +1,6 @@
 ---
 title: "1 In this period of closure"
 image: "NNPN-02.png"
-link: ""
 current: "true"
 promoted: "true"
 related:
