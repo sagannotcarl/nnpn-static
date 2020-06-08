@@ -9,7 +9,7 @@ banner_caption: "NNPN Rolling World Premiere of *WINTER* by Julie Jensen at Salt
 ---
 
 <span class="lead-in">
-**NATIONAL NEW PLAY NETWORK (NNPN)** is an alliance of professional theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays. Founded in 1998, NNPN continues to revolutionize the new play landscape through the strength of its member theaters, collaborate efforts, and its nationally recognized programs and services for artists and organizations.
+**NATIONAL NEW PLAY NETWORK (NNPN)** is an alliance of professional theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays. Founded in 1998, NNPN continues to revolutionize the new play landscape through the strength of its member theaters, collaborative efforts, and its nationally recognized programs and services for artists and organizations.
 </span>
 
 NNPN boasts a diverse roster of Member Theaters through its two-tiered membership structure: **Core Members**, the governing network of theaters with annual budgets over $150,000 and missions that affirm a dedication to new works; and **Associate Members**, companies that produce or develop at least one new work per year and demonstrate a commitment to NNPN’s values.
