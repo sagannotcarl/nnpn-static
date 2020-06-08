@@ -7,4 +7,4 @@ related:
 - Board of Directors
 ---
 
-Artistic Producer, City Theatre Company
+Associate Artistic Director, Studio Theatre
