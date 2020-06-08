@@ -1,6 +1,6 @@
 ---
-slide_intro:    "Resources for Artists"
-slide_headline: "Funding & Measuring COVID-19's impact on artists"
-slide_link:     "www.artistrelief.org/"
+slide_intro:    "Engaging Audiences Summit"
+slide_headline: "Session Recordings now available"
+slide_link:     "http://nnpn.org/programs/annual-conference/"
 type:           "carousel"
 ---
