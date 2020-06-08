@@ -6,3 +6,5 @@ current: "true"
 related:
 - Board of Directors
 ---
+
+Principal, InsightStorm
