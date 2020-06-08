@@ -1,5 +1,5 @@
 ---
-title:          "STU"
+title:          "6Schreiber"
 name_override:  "Caroline Schreiber"
 image:          "Caroline-Schreiber.jpg"
 current:        "true"
