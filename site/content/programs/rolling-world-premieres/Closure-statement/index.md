@@ -10,4 +10,4 @@ play: "In this period of closure"
 type: "rolling_premier"
 ---
 
-We look forward to welcoming Rolling World Premieres back to our Member Theaters' stages when we can safely return to live theater!
+We look forward to welcoming Rolling World Premieres back to our Member Theaters' stages when we can safely return to live, in-person theater!
