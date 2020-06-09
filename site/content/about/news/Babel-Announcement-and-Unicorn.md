@@ -1,7 +1,7 @@
 ---
 title: "Annoucning NNPN's 93rd Rolling World Premiere: BABEL by Jacqueline Goldfinger"
 type: "news"
-date: 2020-1-24
+date: 2020-01-24
 ---
 
 <p><span class="lead-in">Ms. Goldfinger's new play set in a near-future where parents can learn about the traits of a child still in utero begins its six-theater roll this week in Kansas City at Unicorn Theatre.</span></p>
