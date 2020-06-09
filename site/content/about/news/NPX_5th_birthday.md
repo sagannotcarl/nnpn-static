@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday, New Play Exchange!"
 type: "news"
-date: 2020-1-15
+date: 2020-01-15
 ---
 
 <p><span class="lead-in">National New Play Network's field-altering program that has become the world's largest digital library of scripts by living writers celebrates five years of life this week as it looks forward to the next five years - and beyond.  </span></p>
