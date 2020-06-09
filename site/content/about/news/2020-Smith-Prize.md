@@ -1,7 +1,7 @@
 ---
 title: "2020 Smith Prize for Political Theater goes to Vicki Ramirez"
 type: "news"
-date: 2020-6-8
+date: 2020-06-08
 ---
 
 <p><span class="lead-in">National New Play Network, the country's alliance of professional theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays, announces the winner of the 2020 Smith Prize for Political Theater: [Vickie Ramirez](https://newplayexchange.org/users/411/vickie-ramirez). </span></p>
