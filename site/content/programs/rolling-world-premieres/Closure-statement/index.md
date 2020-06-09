@@ -1,6 +1,5 @@
 ---
-title: "1Closure"
-title_override:  "National New Play Network"
+title: "National New Play Network"
 image: "NNPN-02.png"
 link: "newplayexchange.org/organizations/1693/national-new-play-network"
 current: "true"
