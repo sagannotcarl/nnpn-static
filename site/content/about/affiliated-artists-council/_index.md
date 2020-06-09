@@ -2,11 +2,7 @@
 title:          "Affiliated Artists Council"
 identifier:     "affiliated-artists-council"
 image:          "goodness.jpg"
-menu:
-  main:
-    parent:     "About"
-  about:
-weight:         5
+
 type:           "about"
 current_label:  "2019-20 Council"
 past_label:     "Past Council Members"
