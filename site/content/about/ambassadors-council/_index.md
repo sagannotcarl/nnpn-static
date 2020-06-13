@@ -82,7 +82,7 @@ weight:     6
 - **Steven Dietz**, Playwright
 - **Michael Dove**, Director
 - **Carol Dweck**, Stanford University
-- **Liz Engelman**, University of Texas-Austin/Tofte Lake Center
+- **Liz Engelman**, Tofte Lake Center
 - **Pat Flick**, Shakespeare Theatre Association
 - **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company
 - **Lydia Fort**, Director
