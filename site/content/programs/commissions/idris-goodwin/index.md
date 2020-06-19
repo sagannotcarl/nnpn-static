@@ -7,6 +7,5 @@ related:
 - Commissions
 ---
 
-*Quotable* \
-Nominated: Company One Theatre
+Company One Theatre, *Quotable*Company One Theatre
 
