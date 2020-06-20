@@ -21,4 +21,4 @@ Fellowships begin at the Eugene O’Neill Theater Center in July, and include di
 
 Email [ndf@theoneill.org](mailto:ndf@theoneill.org) for additional information about the program and application.
 
-Our current class of fellows was selected from a nationwide pool of more than 300 applicants, ranging broadly across all levels of experience and backgrounds. Read more about the 2017 Fellows here.
+Our current class of fellows was selected from a nationwide pool of more than 300 applicants, ranging broadly across all levels of experience and backgrounds. Read more about this cohort of Fellows here.
