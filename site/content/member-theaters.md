@@ -81,7 +81,7 @@ weight:       -7
 - [IAMA Theatre Company](http://www.iamatheatre.com/) *Van Nuys, CA*
 - [Island City Stage](http://www.islandcitystage.org/) *Wilton Manors, FL*
 - [Know Theatre of Cincinnati](http://knowtheatre.com/) *Cincinnati, OH*
-- [Lower Depth Theatre Ensemble](http://www.lowerdepththeatreensemble.org/) *Los Angeles, CA*
+- [Lower Depth Theatre Ensemble](https://www.lower-depth.com/) *Los Angeles, CA*
 - [Merrimack Repertory Theatre](https://mrt.org/) *Lowell, MA*
 - [Milwaukee Repertory Theater](http://www.milwaukeerep.com/) *Milwaukee, WI*
 - [Minnesota Jewish Theater Company](http://mnjewishtheatre.org/) *St. Paul, MN*
