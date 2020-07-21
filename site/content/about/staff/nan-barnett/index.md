@@ -9,7 +9,7 @@ related:
 
 ### Executive Director
 
-[Nan Barnett](https://newplayexchange.org/users/524/nan-barnett) is a new play developer and producer and an advocate for theater-makers and the theater they make. She is the Executive Director of National New Play Network, the country's alliance of more than 125 theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays.
+[Nan Barnett](https://newplayexchange.org/users/524/nan-barnett) (she/her) is a new play developer and producer and an advocate for theater-makers and the theater they make. She is the Executive Director of National New Play Network, the country's alliance of more than 125 theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays.
 
 During her previous tenures on NNPN’s Executive Committee and as its President she worked to create and implement several of the organization’s revolutionary initiatives, including the acclaimed NNPN Rolling World Premiere and NNPN Playwright and Producer Residency programs. She took over the Network’s administration full time in 2013. She guided NNPN through the development and launch of its field-altering database, the New Play Exchange, which is now home to information on more than 34,000 plays by living writers and has users around the world. Under Nan’s leadership, NNPN received The Washington Post’s Award for Innovative Leadership in the Theater Community, quadrupled its membership, built a strong base of nationwide support, and dramatically increased both earned and unearned income.
 
