@@ -9,7 +9,7 @@ related:
 
 ### Senior Development Consultant
 
-[Christine Stanley](https://newplayexchange.org/users/23392/christine-stanley) is a passionate advocate for the arts, engaging the community and donors in the life of theater, music and the performing arts.
+[Christine Stanley](https://newplayexchange.org/users/23392/christine-stanley) (she/her) is a passionate advocate for the arts, engaging the community and donors in the life of theater, music and the performing arts.
 
 Christine currently serves as the Senior Director of Advancement and Planning at Signature Theatre in Arlington, VA . Christine also teaches in the arts administration at Shenandoah Conservatory at Shenandoah University. She is also an active fundraising and strategic planning consultant. She is currently working with the National New Play Network. Other projects have included the Washington National Cathedral, where she worked with the Cathedral’s artists, fundraising, and communications teams to develop a strategic plan for the expansion of the presentations for the Cathedral’s arts programs. Prior to that, she served as the Director of Development for Washington Performing Arts Society where she led a team of board, volunteers and staff to record-setting revenue achievements in all giving areas.
 
