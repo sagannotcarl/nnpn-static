@@ -68,6 +68,7 @@ weight:     6
 ### At Large Ambassadors
 
 - **Leah Abrams**, Independent Producer
+- **Chelsea Anderson**, Director
 - **Roy Arauz**, Director
 - **Kelly Armstrong**, Playwright
 - **Brian Balcom**, Director
@@ -75,7 +76,6 @@ weight:     6
 - **Beth Blickers**, APA
 - **Mark Bly**, The Acting Company/Fordham University
 - **Gigi Bolt**, Columbia School of the Arts
-- **Satya Jnani Chavez**, Actor/Singer/Musician
 - **Bostin Christopher**, Virginia Commonwealth University
 - **Ron Clark**, Co-Founder, Riverside Theatre
 - **Mario Correa**, Screenwriter
@@ -108,7 +108,7 @@ weight:     6
 - **Bridget O'Leary**, Independent Director and Dramaturg
 - **Kittson O'Neill**, Philadelphia Theater Maker
 - **Bruce Ostler**, Bret Adams, Ltd.
-- **Marc Pinate**, Artistic Director, Borderlands Theater
+- **Alejandro Rodriguez**
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
 - **Lisa Rothe**, Director
 - **Mark Routhier**, Director
