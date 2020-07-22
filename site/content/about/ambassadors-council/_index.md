@@ -108,7 +108,7 @@ weight:     6
 - **Bridget O'Leary**, Independent Director and Dramaturg
 - **Kittson O'Neill**, Philadelphia Theater Maker
 - **Bruce Ostler**, Bret Adams, Ltd.
-- **Alejandro Rodriguez**
+- **Alejandro Rodriguez**, Producer & Playwright
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
 - **Lisa Rothe**, Director
 - **Mark Routhier**, Director
