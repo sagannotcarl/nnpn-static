@@ -1,6 +1,6 @@
 ---
 title: "Matthew Libby"
-image: "matthew_libby.jpg"
+image: "Matthew_Libby.jpg"
 link: "newplayexchange.org/users/37999/matthew-libby"
 current: "true"
 related:
