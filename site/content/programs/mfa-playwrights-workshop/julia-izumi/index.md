@@ -2,7 +2,7 @@
 title: "Julia Izumi"
 image: "julia_izumi.jpg"
 link: "newplayexchange.org/users/9470/julia-izumi"
-current: "true"
+current: "false"
 related:
 - MFA Playwrights’ Workshop
 ---
