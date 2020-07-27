@@ -1,7 +1,7 @@
 ---
 title: "Jacob Margaret Archer"
 image: "jacob_margaret_archer.jpg"
-current: "true"
+current: "false"
 related:
 - MFA Playwrights’ Workshop
 ---
