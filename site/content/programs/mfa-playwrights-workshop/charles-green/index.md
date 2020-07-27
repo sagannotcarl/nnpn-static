@@ -2,7 +2,7 @@
 title: "Charles Green"
 image: "charles_green.jpg"
 link: "newplayexchange.org/users/21107/charles-green"
-current: "true"
+current: "false"
 related:
 - MFA Playwrights’ Workshop
 ---
