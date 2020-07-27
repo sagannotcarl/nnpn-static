@@ -2,7 +2,7 @@
 title: "Ali Viterbi"
 image: "ali_viterbi.jpg"
 link: "newplayexchange.org/users/2286/ali-viterbi"
-current: "true"
+current: "false"
 related:
 - MFA Playwrights’ Workshop
 ---
