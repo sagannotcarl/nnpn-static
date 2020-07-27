@@ -9,7 +9,7 @@ menu:
   programs:
 weight:                   9
 type:                     "programs"
-current_label:            "2019 MFA Playwrights"
+current_label:            "2020 MFA Playwrights"
 past_label:               "Alumni MFA Playwrights"
 related:
 - MFA Playwrights’ Workshop
