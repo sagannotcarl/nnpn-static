@@ -1,7 +1,7 @@
 ---
 title: "Announcing the 2020 MFA Playwrights' Workshop"
 type: "news"
-date: 2020-31-07
+date: 2020-07-31
 ---
 
 <p><span class="lead-in">National New Play Network, the country's alliance of professional theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays, together with the Kennedy Center American College Theater Festival and Stanford University’s National Center for New Plays is delighted to announce the playwrights selected for the 2020 MFA Playwrights' Workshop and Undergraduate Playwrights' Workshop. </span></p>
