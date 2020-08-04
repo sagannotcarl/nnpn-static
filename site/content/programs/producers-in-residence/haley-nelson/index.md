@@ -7,5 +7,5 @@ related:
 - Producers in Residence
 ---
 
-Kitchen Dog Theater
+Kitchen Dog Theater (2nd Year)
 
