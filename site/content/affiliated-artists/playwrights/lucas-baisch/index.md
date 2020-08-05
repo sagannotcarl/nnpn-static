@@ -1,5 +1,5 @@
 ---
-title: "lucas Baisch"
+title: "Lucas Baisch"
 image: "lucas_baisch.jpg"
 link: "newplayexchange.org/users/21137/lucas-baisch"
 ---
