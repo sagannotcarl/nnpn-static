@@ -7,4 +7,4 @@ related:
 - MFA Playwrights’ Workshop
 ---
 
-*Data*, New York University
+*Data*, New York University (Alliance Theatre Kendeda Prize)
