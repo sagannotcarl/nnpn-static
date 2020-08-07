@@ -4,4 +4,4 @@ image: "-_28.jpeg"
 link: "https://newplayexchange.org/users/14940/m-graham-smith"
 ---
 
-[National Directors Fellowship](/programs/national-directors-fellowship), [Affiliated Artists Council](/about/affiliated-artists-council)
+[National Directors Fellowship](/programs/national-directors-fellowship)
