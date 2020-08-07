@@ -1,6 +1,6 @@
 ---
 title: "Kholoud Sawaf"
-image: "kholoud_sawf.jpg"
+image: "Kholoud_Sawaf.jpg"
 link: "newplayexchange.org/users/37027/kholoud-sawaf"
 ---
 
