@@ -1,5 +1,5 @@
 ---
-title: "Rebecca Myers"
+title: "Becca Myers"
 image: "Rebecca-Myers.jpg"
 link: "newplayexchange.org/users/48606/rebecca-myers"
 current: "true"
