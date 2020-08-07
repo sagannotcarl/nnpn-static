@@ -1,6 +1,6 @@
 ---
 title: "Rebecca Myers"
-image: "Rebecca-Myers.jpg"
+image: "rebecca_myers.jpg"
 link: "newplayexchange.org/users/48606/rebecca-myers"
 current: "true"
 related:
