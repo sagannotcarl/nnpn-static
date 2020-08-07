@@ -1,6 +1,6 @@
 ---
 title: "Sharifa Yasmin"
-image: "sharifa_yasmin.jpg"
+image: "sharifa_yasmin.jpeg"
 link: "newplayexchange.org/users/30343/sharifa-yasmin"
 ---
 
