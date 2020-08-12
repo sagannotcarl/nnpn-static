@@ -44,7 +44,6 @@ weight:       -7
 ### Associate Members
 
 - [59E59 Theaters](https://www.59e59.org/) *New York, NY*
-- [A Contemporary Theatre](http://www.acttheatre.org/) *Seattle, WA*
 - [Alleyway Theatre](http://alleyway.com/) *Buffalo, NY*
 - [American Shakespeare Center](https://americanshakespearecenter.com/) *Staunton, VA*
 - [Amphibian Stage Productions](http://www.amphibianstage.com/) *Fort Worth, TX*
