@@ -1,6 +1,6 @@
 ---
 title: "Karina Fox"
-image: 
+image: "Karina-Fox.jpg"
 link: 
 current: "true"
 related:
