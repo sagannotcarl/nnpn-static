@@ -131,7 +131,6 @@ weight:       -7
 - [Theatre Lab](http://fau.edu/artsandletters/theatrelab/) *Boca Raton, FL*
 - [Theatre NOVA](https://www.theatrenova.org/) *Ann Arbor, MI*
 - [Thrown Stone Theatre Company](http://thrownstone.org/) *Ridgefield, CT*
-- [Trinity Rep](https://www.trinityrep.com/) *Providence, RI*
 - [Vermont Stage Company](http://www.vermontstage.org/) *Burlington, VT*
 - [Weston Playhouse Theatre Company](https://www.westonplayhouse.org/) *Weston, VT*
 - [Williamston Theatre](http://www.williamstontheatre.com/) *Williamston, MI*
