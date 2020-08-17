@@ -1,7 +1,7 @@
 ---
 title: "Karina Fox"
 image: "Karina-Fox.jpg"
-link: 
+link: "newplayexchange.org/users/48944/karina-fox"
 current: "true"
 related:
 - Producers in Residence
