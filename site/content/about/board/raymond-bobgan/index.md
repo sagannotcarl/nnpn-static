@@ -7,5 +7,4 @@ related:
 - Board of Directors
 ---
 
-President - Executive Committee\
 Executive Artistic Director, Cleveland Public Theatre
