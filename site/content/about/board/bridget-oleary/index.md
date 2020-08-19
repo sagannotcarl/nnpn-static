@@ -2,7 +2,7 @@
 title: "O'Leary"
 name_override: "Bridget O'Leary"
 image: "Bridget-Oleary.jpg"
-current: "true"
+current: "false"
 related:
 - Board of Directors
 ---
