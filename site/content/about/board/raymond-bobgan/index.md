@@ -1,5 +1,5 @@
 ---
-title: "6Bobgan"
+title: "Bobgan"
 name_override: "Raymond Bobgan"
 image: "Raymond-Bobgan.jpg"
 current: "true"
