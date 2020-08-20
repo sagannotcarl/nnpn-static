@@ -13,4 +13,4 @@ related:
 - Partner Organizations
 ---
 
-+ denotes and organizations with which NNPN has an artistic partnership
++ denotes new play development organizations that are invited to submit plays for the National Showcase of New Plays and nominate playwrights for the Smith Prize for Political Theatre
