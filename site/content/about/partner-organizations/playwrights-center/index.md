@@ -1,5 +1,5 @@
 ---
-title: "Playwrights' Center"
+title: "Playwrights' Center *"
 image: "pwc.png"
 link: "pwcenter.org/"
 current: "true"
