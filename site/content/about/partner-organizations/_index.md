@@ -12,4 +12,5 @@ past_label:     ""
 related:
 - Partner Organizations
 ---
-* denotes organizations with which NNPN has an artistic partnership
+
++ denotes and organizations with which NNPN has an artistic partnership
