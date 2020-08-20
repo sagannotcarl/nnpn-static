@@ -1,5 +1,5 @@
 ---
-title: "New Dramatists"
+title: "New Dramatists *"
 image: "nd.png"
 link: "newdramatists.org"
 current: "true"
