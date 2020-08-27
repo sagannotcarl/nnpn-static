@@ -1,6 +1,6 @@
 ---
 title: "Chad Eschman"
-image: "chad-a-1000.jpg"
+image: "Chad E.jpeg"
 link: "newplayexchange.org/users/192/chad-eschman"
 ---
 
