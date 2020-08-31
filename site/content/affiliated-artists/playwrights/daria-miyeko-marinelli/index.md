@@ -1,6 +1,6 @@
 ---
 title: "Daria Miyeko Marinelli"
-image: "marinelli.jpg"
+image: "Daria Marinelli.jpg"
 link: "newplayexchange.org/users/2948/daria-miyeko-marinelli"
 ---
 
