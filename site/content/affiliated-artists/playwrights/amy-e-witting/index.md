@@ -1,6 +1,6 @@
 ---
 title: "Amy E. Witting"
-image: "amy_e._witting.jpg"
+image: "Amy E. Witting.JPG"
 link: "newplayexchange.org/users/521/amy-e-witting"
 ---
 
