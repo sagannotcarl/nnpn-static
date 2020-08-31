@@ -1,6 +1,6 @@
 ---
 title: "M. Graham Smith"
-image: "-_28.jpeg"
+image: "MGrahamSmith.jpeg"
 link: "https://newplayexchange.org/users/14940/m-graham-smith"
 ---
 
