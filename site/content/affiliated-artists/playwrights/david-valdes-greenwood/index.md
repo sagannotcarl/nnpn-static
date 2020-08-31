@@ -1,6 +1,6 @@
 ---
 title: "David Valdes"
-image: "David-Valdes.jpg"
+image: "David Valdes.png"
 link: "https://newplayexchange.org/users/929/david-valdes-formerly-david-valdes-greenwood"
 ---
 
