@@ -1,6 +1,6 @@
 ---
 title: "Stephanie Alison Walker"
-image: "stephanie_alison_walker.jpg"
+image: "Stephanie Walker.jpg"
 link: "newplayexchange.org/users/281/stephanie-alison-walker"
 ---
 
