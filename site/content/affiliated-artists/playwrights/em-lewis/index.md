@@ -1,6 +1,6 @@
 ---
 title: "E.M. Lewis"
-image: "em_lewis.jpg"
+image: "EM Lewis.jpg"
 link: "newplayexchange.org/users/1044/e-m-lewis"
 ---
 
