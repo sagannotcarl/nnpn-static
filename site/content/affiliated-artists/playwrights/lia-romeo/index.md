@@ -1,6 +1,6 @@
 ---
 title: "Lia Romeo"
-image: "lia_romeo.jpg"
+image: "Lia Romeo.jpg"
 link: "newplayexchange.org/users/177/lia-romeo"
 ---
 
