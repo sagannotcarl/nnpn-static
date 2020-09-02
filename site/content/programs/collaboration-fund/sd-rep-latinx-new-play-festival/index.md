@@ -2,7 +2,7 @@
 title: "San Diego Repertory Theatre"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
 link: "sdrep.org"
-current: "true"
+current: "false"
 related:
 - Collaboration Fund
 ---
