@@ -2,7 +2,7 @@
 title: "Actor's Express"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
 link: "actors-express.com"
-current: "true"
+current: "false"
 related:
 - Collaboration Fund
 ---
