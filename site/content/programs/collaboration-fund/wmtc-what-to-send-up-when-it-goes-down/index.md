@@ -2,7 +2,7 @@
 title: "Woolly Mammoth Theatre Company"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
 link: "woollymammoth.net"
-current: "true"
+current: "false"
 related:
 - Collaboration Fund
 ---
