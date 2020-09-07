@@ -103,6 +103,7 @@ weight:     6
 - **Ricky J. Martinez**, Director & Playwright
 - **Annaliese McSweeney**, Literary Manager, Stage Left Theatre
 - **Kelly Miller**, Literate.
+- **Naysan Mojgani**, Literary Manager, Arena Stage
 - **Amy Mueller**, Director
 - **Shannon Musgrave**, Communications Manager, Allegheny Regional Asset District
 - **Bridget O'Leary**, Independent Director and Dramaturg
