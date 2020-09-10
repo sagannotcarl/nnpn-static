@@ -6,3 +6,4 @@ current: "true"
 related:
 - Partner Organizations
 ---
+Not-for-Profit Affiliate
