@@ -84,7 +84,7 @@ weight:     6
 - **Carol Dweck**, Stanford University
 - **Liz Engelman**, Tofte Lake Center
 - **Pat Flick**, Shakespeare Theatre Association
-- **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company
+- **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company*
 - **Lydia Fort**, Director
 - **David H. Friedlander**, Entertainment and Intellectual Property Attorney
 - **David Goldman**, Director, Stanford University National Center for New Plays; NNPN Founder
@@ -128,3 +128,4 @@ weight:     6
 - **Joseph Zettelmaier**, Roustabout Theatre Troupe
 - **Judy Zocchi**, Good to Go Festival
 
+*in memoriam
