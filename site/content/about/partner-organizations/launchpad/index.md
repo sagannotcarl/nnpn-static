@@ -1,6 +1,6 @@
 ---
 title: "LAUNCH PAD"
-image: "LAUNCH-PAD.jpg"
+image: "launchpad.jpeg"
 link: "launchpad.theaterdance.ucsb.edu/"
 current: "true"
 related:
