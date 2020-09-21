@@ -9,6 +9,8 @@ weight:                    2
 
 {{< donate >}}
 
+**One week only - help celebrate NNPN Executive Director Nan Barnett's 60th Birthday (September 27) by donating $60 to our 60 for 60 campaign. Click "Donate" to help us celebrate this milestone birthday with our fearless leader.**
+
 NNPN is changing the way the theater is created, made, and shared in America.
 
 NNPN Rolling World Premieres, Producer/Director Residencies, Commissions, the Collaboration Fund, the MFA Playwrights Workshop, the National Showcase of New Plays, and the New Play Exchange each have an astounding impact on the American canon of dramatic literature. Won’t you join us as we support the development, production, and continued life of new works through the organizations and artists who make new plays possible?
