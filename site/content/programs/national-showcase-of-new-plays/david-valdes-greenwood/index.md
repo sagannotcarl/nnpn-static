@@ -2,7 +2,7 @@
 title: "David Valdes"
 image: "David-Valdes.jpg"
 link: "newplayexchange.org/users/929/david-valdes-greenwood"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
