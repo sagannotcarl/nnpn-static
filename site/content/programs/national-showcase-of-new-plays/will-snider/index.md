@@ -8,4 +8,4 @@ related:
 ---
 
 <a href="https://newplayexchange.org/plays/56833/strange-men" rel="nofollow">*Strange Men*</a>
-
+<a href="https://newplayexchange.org/plays/38346/how-use-knife" rel="nofollow">*How to Use a Knife*</a>
