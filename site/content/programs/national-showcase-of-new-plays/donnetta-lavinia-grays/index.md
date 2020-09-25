@@ -7,5 +7,5 @@ related:
 - National Showcase of New Plays
 ---
 
-*Last Night and the Night Before *(formerly *Sam*)
+*Last Night and the Night Before* (formerly *Sam*)
 
