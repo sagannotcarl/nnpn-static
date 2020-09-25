@@ -2,7 +2,7 @@
 title: "Joe Giovannetti"
 image: "Joe-Giovannetti.png"
 link: "https://newplayexchange.org/users/22308/joe-giovannetti"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
