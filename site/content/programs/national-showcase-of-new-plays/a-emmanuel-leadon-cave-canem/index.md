@@ -2,7 +2,7 @@
 title: "A Emmanuel Leadon"
 image: "A-Emmanuel-Leadon.jpg"
 link: "newplayexchange.org/users/19059/emmanuel-leadon"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
