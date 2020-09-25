@@ -2,7 +2,7 @@
 title: "Madison Fiedler"
 image: "Madison-Fiedler.jpg"
 link: "newplayexchange.org/users/8493/madison-fiedler"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
