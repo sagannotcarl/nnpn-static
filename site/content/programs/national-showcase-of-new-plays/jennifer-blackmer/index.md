@@ -2,7 +2,7 @@
 title: "Jennifer Blackmer"
 image: "Jennifer-Blackmer.jpg"
 link: "newplayexchange.org/users/1167/jennifer-blackmer"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
