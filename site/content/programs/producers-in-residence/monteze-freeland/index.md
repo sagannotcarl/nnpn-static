@@ -1,7 +1,7 @@
 ---
 title: "Monteze Freeland"
 image: "Monteze-Freeland.jpg"
-link: ""
+link: "newplayexchange.org/users/28364/amanda-washington"
 current: "true"
 related:
 - Producers in Residence
