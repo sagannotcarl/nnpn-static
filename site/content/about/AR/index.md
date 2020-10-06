@@ -46,7 +46,7 @@ With a foundation of anti-racism/anti-bias values and a commitment to set an ant
 * NNPN will approve and publish this anti-racism/anti-bias statement and action plan prominently on its website, publications, social media, and in external documents as appropriate.
 * NNPN will require all Core and Associate Member Theaters to develop anti-racism/anti-bias statements to be ratified by their staffs and boards and publicly shared, by no later than June 30, 2021.
 * NNPN’s BIPOC and White Anti-Racist Affinity Groups will continue to be given space and resources to meet regularly, communicate directly to NNPN leadership, and practice facilitated restorative justice when necessary to hold Member Theaters accountable for racist behaviors.
-* NNPN will complete and publish a plan for recruiting TOCs into Core Membership towards the already stated goal having the Core Member Theaters be at least 30% TOC by 2025. 
+* NNPN will complete and publish a plan for recruiting TOCs into Core Membership towards the already stated goal of having the Core Member Theaters be at least 30% TOC by 2025. 
 * Through its virtual and in-person meetings and convenings, NNPN will provide resources and space for its Member Theaters to transform themselves into anti-racist arts institutions that are rooted in, responsive to, and in service of their communities.
 * The Program Evaluation Working Group will continue its work, re-evaluating programs to increase access to and build accountability for Member Theaters and to ensure that harm is not perpetrated against BIPOC, trans, and/or disabled theater-makers in any NNPN-supported activity.
 * As part of the development of NPX 2.0, we will be building new features designed to amplify the work of artists with disabilities. We will continue to promote the adoption of the tool by BIPOC users, and we will continue to prioritize highlighting works by BIPOC, trans, and/or disabled playwrights.
@@ -56,5 +56,5 @@ With a foundation of anti-racism/anti-bias values and a commitment to set an ant
 * NNPN’s Board will activate its Board-led committee devoted to Human Resources to assist Staff as it continues to audit its current organizational structure to identify and eradicate practices and policies based on cultural racism from all aspects of its operations. 
 * Staff will work with this Board committee to build short and long-term growth and succession plans for staffing, creating space for future leadership to continue the organization’s transformation.  
 * Staff leadership commits to make all new hires through anti-racist hiring and onboarding processes.
-* NNPN recognizes that this document will need consistent review and commits updating its actions for accountability at least-twice annually.
+* NNPN recognizes that this document will need consistent review and commits to updating its actions for accountability at least-twice annually.
 * NNPN commits to quarterly audits of progress, successes, and failures toward these action items, and the sharing of those results with all its constituencies twice annually at its regular convenings and publicly upon request and in its Annual Report. 
