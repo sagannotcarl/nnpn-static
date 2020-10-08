@@ -84,7 +84,7 @@ weight:     6
 - **Carol Dweck**, Stanford University
 - **Liz Engelman**, Tofte Lake Center
 - **Pat Flick**, Shakespeare Theatre Association
-- **Trevor Floyd**
+- **Trevor Floyd**, Playwright
 - **Bryan Fonseca**, Artistic Director, Fonseca Theatre Company*
 - **Lydia Fort**, Director
 - **David H. Friedlander**, Entertainment and Intellectual Property Attorney
