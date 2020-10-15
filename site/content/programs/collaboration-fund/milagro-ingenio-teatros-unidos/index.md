@@ -1,6 +1,6 @@
 ---
 title: "Milagro"
-image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
+image: "ingenio-2020-logo.png"
 link: "milagro.org"
 current: "true"
 related:
