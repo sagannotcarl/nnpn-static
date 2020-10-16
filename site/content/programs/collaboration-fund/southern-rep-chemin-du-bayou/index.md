@@ -1,6 +1,6 @@
 ---
 title: "Southern Rep Theatre"
-image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
+image: "chemin-du-bayou.jpg"
 link: "southernrep.com"
 current: "true"
 related:
