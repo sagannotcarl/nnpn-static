@@ -9,7 +9,6 @@ params:
   description:   "National New Play Network"
   author:        "Jordana"
   title:         "National New Play Network"
-  no_index:      true
 
 taxonomies:
   related: related
