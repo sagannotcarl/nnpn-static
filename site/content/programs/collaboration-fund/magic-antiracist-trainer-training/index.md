@@ -7,4 +7,4 @@ related:
 - Collaboration Fund
 ---
 
-Magic, **Crowded Fire Theatre** and **Playwrights Foundation** will collaborate on an anti-racist trainer training to empower a group of 12 local artists and theater administrators to lead the Bay Area theatre community creating in deep and lasting change toward greater equity.
+**Magic Theatre**, **Crowded Fire Theatre** and **Playwrights Foundation** will collaborate on an anti-racist trainer training to empower a group of 12 local artists and theater administrators to lead the Bay Area theatre community creating in deep and lasting change toward greater equity.
