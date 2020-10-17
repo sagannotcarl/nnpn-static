@@ -9,62 +9,6 @@ menu:
 weight:     6
 ---
 
-### Artist Ambassadors
-
-- **Evan Bergman**, New Jersey Repertory Company
-- **John Biguenet**, Southern Rep Theatre
-- **Enrique Bravo**, Perseverance Theatre
-- **Eric Coble**, Cleveland Public Theatre
-- **Walter Coppage**, Unicorn Theatre
-- **Dennis Delamar**, Actor's Theatre of Charlotte
-- **Jennifer Fawcett**, Riverside Theatre
-- **Thomas Gibbons**, InterAct Theatre Company
-- **Andra Harbold**, Salt Lake Acting Company
-- **Andrew Kramer**, Phoenix Theatre
-- **Aditi Brennan Kapil**, Mixed Blood Theatre
-- **York Kennedy**, Magic Theatre
-- **Robert Koon**, 16th Street Theater
-- **Maya Malan-González**, Milagro
-- **Mike Marinaccio**, Orlando Shakespeare Theater
-- **Lauren Gunderson**, Marin Theatre Company
-- **Jenny O'Hara**, Fountain Theatre
-- **Beau O’Reilly**, Prop Thtr
-- **Joe Rodota**, B Street Theatre
-- **Bruce Sevy**, Curious Theatre Company
-- **Eric Shimelonis**, Contemporary American Theater Festival
-- **Herbert Siguenza**, San Deigo REPertory Theatre
-- **Mark St. Germain**, Florida Studio Theatre
-- **Eva Zorille Tessler**, Borderlands Theater
-
-### Patron Ambassadors
-
-- **Susan Albritton**, Kitchen Dog Theater
-- **Susan Arkin**, Orlando Shakespeare Theater
-- **Lillian Sober Ain**, New Repertory Theatre
-- **Terry Cramer**, Perseverance Theatre
-- **Ron David**, Borderlands Theater
-- **Kipp Delbyck**, Marin Theatre Company
-- **Bill Farkas**, Phoenix Theatre
-- **Greg Frankenfield**, Mixed Blood Theatre
-- **Rick Frey**, B Street Theatre
-- **Bernard Jaffe**, Southern Rep Theatre
-- **Karen Kondazian**, Fountain Theatre
-- **Vasi Laurence**, New Jersey Repertory Company
-- **Jessica Linden**, Actor's Express
-- **Keryl McCord**, Horizon Theatre Company
-- **Pete Miller**, Woolly Mammoth Theatre Company
-- **Dawn Moore**, San Diego REPertory Theatre
-- **Clayton Owens**, Actor's Theatre of Charlotte
-- **Brian Saliman**, Magic Theatre
-- **RB Seem**, Contemporary American Theater Festival
-- **Jeremy Shamos**, Curious Theatre Company
-- **Charna Sherman**, Cleveland Public Theatre
-- **Gayle Smith**, InterAct Theatre Company
-- **Terence Stephens**, Salt Lake Acting Company
-- **Encarnacion Teruel**, Prop Thtr
-- **Jennifer Whitmore**, Riverside Theatre
-- **Shari Wilson**, Unicorn Theatre
-
 ### At Large Ambassadors
 
 - **Leah Abrams**, Independent Producer
@@ -127,6 +71,62 @@ weight:     6
 - **Richard Winkler**, Red Hanger Productions
 - **Gavin Witt**, Dramaturg and Director
 - **Joseph Zettelmaier**, Roustabout Theatre Troupe
-- **Judy Zocchi**, Good to Go Festival
+- **Judy Zocchi**, Good to Go Festival### Artist Ambassadors
+
+### Core Member Artist Ambassadors
+
+- **Evan Bergman**, New Jersey Repertory Company
+- **John Biguenet**, Southern Rep Theatre
+- **Enrique Bravo**, Perseverance Theatre
+- **Eric Coble**, Cleveland Public Theatre
+- **Walter Coppage**, Unicorn Theatre
+- **Dennis Delamar**, Actor's Theatre of Charlotte
+- **Jennifer Fawcett**, Riverside Theatre
+- **Thomas Gibbons**, InterAct Theatre Company
+- **Andra Harbold**, Salt Lake Acting Company
+- **Andrew Kramer**, Phoenix Theatre
+- **Aditi Brennan Kapil**, Mixed Blood Theatre
+- **York Kennedy**, Magic Theatre
+- **Robert Koon**, 16th Street Theater
+- **Maya Malan-González**, Milagro
+- **Mike Marinaccio**, Orlando Shakespeare Theater
+- **Lauren Gunderson**, Marin Theatre Company
+- **Jenny O'Hara**, Fountain Theatre
+- **Beau O’Reilly**, Prop Thtr
+- **Joe Rodota**, B Street Theatre
+- **Bruce Sevy**, Curious Theatre Company
+- **Eric Shimelonis**, Contemporary American Theater Festival
+- **Herbert Siguenza**, San Deigo REPertory Theatre
+- **Mark St. Germain**, Florida Studio Theatre
+- **Eva Zorille Tessler**, Borderlands Theater
+
+### Core Member Patron Ambassadors
+
+- **Susan Albritton**, Kitchen Dog Theater
+- **Susan Arkin**, Orlando Shakespeare Theater
+- **Lillian Sober Ain**, New Repertory Theatre
+- **Terry Cramer**, Perseverance Theatre
+- **Ron David**, Borderlands Theater
+- **Kipp Delbyck**, Marin Theatre Company
+- **Bill Farkas**, Phoenix Theatre
+- **Greg Frankenfield**, Mixed Blood Theatre
+- **Rick Frey**, B Street Theatre
+- **Bernard Jaffe**, Southern Rep Theatre
+- **Karen Kondazian**, Fountain Theatre
+- **Vasi Laurence**, New Jersey Repertory Company
+- **Jessica Linden**, Actor's Express
+- **Keryl McCord**, Horizon Theatre Company
+- **Pete Miller**, Woolly Mammoth Theatre Company
+- **Dawn Moore**, San Diego REPertory Theatre
+- **Clayton Owens**, Actor's Theatre of Charlotte
+- **Brian Saliman**, Magic Theatre
+- **RB Seem**, Contemporary American Theater Festival
+- **Jeremy Shamos**, Curious Theatre Company
+- **Charna Sherman**, Cleveland Public Theatre
+- **Gayle Smith**, InterAct Theatre Company
+- **Terence Stephens**, Salt Lake Acting Company
+- **Encarnacion Teruel**, Prop Thtr
+- **Jennifer Whitmore**, Riverside Theatre
+- **Shari Wilson**, Unicorn Theatre
 
 *in memoriam
