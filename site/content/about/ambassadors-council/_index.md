@@ -9,6 +9,8 @@ menu:
 weight:     6
 ---
 
+NNPN's Ambassadors Council are new play enthusiasts who are both familiar with and committed to NNPN's mission, vision, values, and work. At Large Ambassadors come to the Network as freelance artists, avid patrons, and industry professionals who aren't currently working with an NNPN Member Theater. Core Member Artist and Patron Ambassadors represent those Member Theaters' local constituencies within the Network's activities. Members of the Ambassadors Council are invited to participate in program adjudication processes, self-nominate to serve on the NNPN Board of Directors, and attend the [Annual Conference](http://nnpn.org/programs/annual-conference/) and [National Showcase of New Plays](http://nnpn.org/programs/national-showcase-of-new-plays/). 
+
 ### At Large Ambassadors
 
 - **Leah Abrams**, Independent Producer
