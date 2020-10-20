@@ -5,7 +5,7 @@ menu:         "top"
 weight:       1
 ---
 
-With an unwavering pledge to model a robust, equitable, and inclusive new play (1) ecology that reflects a broad range of aesthetics, National New Play Network has made equity, diversity, inclusion, and access strategic priorities, and is currently seeking Core Member Theaters of Color (2) and Associate Member Theaters, especially those that identify as Theaters of Color, which are like-minded, professional (3), non-profit organizations with a demonstrated commitment (4) to producing new plays. 
+**With an unwavering pledge to model a robust, equitable, and inclusive new play (1) ecology that reflects a broad range of aesthetics, National New Play Network has made equity, diversity, inclusion, and access strategic priorities, and is currently seeking Core Member Theaters of Color (2) and Associate Member Theaters, especially those that identify as Theaters of Color, which are like-minded, professional (3), non-profit organizations with a demonstrated commitment (4) to producing new plays.**
 
 NNPN Member Theaters must:
 
