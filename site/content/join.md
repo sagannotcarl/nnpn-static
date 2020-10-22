@@ -5,14 +5,14 @@ menu:         "top"
 weight:       1
 ---
 
-**With an unwavering pledge to model a robust, equitable, and inclusive new play (1) ecology that reflects a broad range of aesthetics, National New Play Network has made equity, diversity, inclusion, and access strategic priorities, and is currently seeking Core Member Theaters of Color (2) and Associate Member Theaters, especially those that identify as Theaters of Color, which are like-minded, professional (3), non-profit organizations with a demonstrated commitment (4) to producing new plays.**
+**With an unwavering pledge to model a robust, equitable, and inclusive new play ecology that reflects a broad range of aesthetics, National New Play Network has made equity, diversity, inclusion, and access strategic priorities, and is currently seeking Core Member *Theaters of Color* (See definition 1 below) and Associate Member Theaters, especially those that identify as Theaters of Color, which are like-minded, *professional* (2), non-profit organizations with a *demonstrated commitment* (3) to producing *new plays* (4).**
 
 NNPN Member Theaters must:
 
 - Pay dues as mandated annually by NNPN
 - Maintain eligibility per the criteria and definitions included in this document
 - Agree to actively participate in the Network
-- Sign and stand in solidarity and action with NNPN’s anti-racism/anti-bias statement and action plan (5)
+- Sign and stand in solidarity and action with NNPN’s *anti-racism/anti-bias statement and action plan* (5)
 - Adopt an organizational anti-racism/anti-bias statement with clear objectives for its organization by no later than June 30, 2021, and share outcomes/updates with all NNPN Member Theaters annually
 
 
@@ -47,15 +47,9 @@ For more on the process of applying for Core Membership, please contact nan@nnpn
 
 ### DEFINITIONS
 
-(1) A new play is, for NNPN’s purposes, one that is:
+(1) Theaters of Color are defined by NNPN as theaters that Self-Identify as Theaters of Color that make work by, for, with, and about Black, Indigenous, and/or People of Color (BIPOC) 
 
-- A work that was previously unproduced OR received its first professional production in the past three programming cycles or seasons
-- Has had no commercial productions since its initial opening 
-- Has had fewer than three regional productions 
-
-(2) Theaters of Color are defined by NNPN as theaters that Self-Identify as Theaters of Color that make work by, for, with, and about Black, Indigenous, and/or People of Color (BIPOC) 
-
-(3) Professional theaters are defined by NNPN as theaters that: 
+(2) Professional theaters are defined by NNPN as theaters that: 
 
 - Contract and compensate collaborators at rates commensurate with professional standards in their market 
 - Strive to achieve, advocate, and maintain the highest standards for the content and delivery of production 
@@ -67,10 +61,16 @@ For more on the process of applying for Core Membership, please contact nan@nnpn
 
 These principles are written in broad terms to help clarify what NNPN considers to be a professional theater. Active members of the Network are expected to demonstrate conduct that follows these recognized and established professional standards.  
 
-(4) NNPN determines that a theater has demonstrated a commitment to producing new plays if it has:  
+(3) NNPN determines that a theater has demonstrated a commitment to producing new plays if it has:  
 
 - Fully produced at least two new plays as defined above over the last three programming cycles or seasons 
 - No more than ⅓ of a theater’s new plays in the last three cycles or seasons have been adaptations of literary works or pre-existing material 
+
+(4) A new play is, for NNPN’s purposes, one that is:
+
+- A work that was previously unproduced OR received its first professional production in the past three programming cycles or seasons
+- Has had no commercial productions since its initial opening 
+- Has had fewer than three regional productions 
 
 (5) An anti-racism/anti-bias statement and action plan, broadly defined, is a document that codifies the objectives for and plans to counteract and prevent bias and oppose and prohibit unfair discrimination against people based on race, ethnicity, culture, religion, gender identity, language, sexual orientation, neurodiversity and/or disability, and/or economic class.   
 
