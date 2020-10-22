@@ -47,9 +47,9 @@ For more on the process of applying for Core Membership, please contact nan@nnpn
 
 ### DEFINITIONS
 
-(1) Theaters of Color are defined by NNPN as theaters that Self-Identify as Theaters of Color that make work by, for, with, and about Black, Indigenous, and/or People of Color (BIPOC) 
+(1) *Theaters of Color* are defined by NNPN as theaters that Self-Identify as Theaters of Color that make work by, for, with, and about Black, Indigenous, and/or People of Color (BIPOC) 
 
-(2) Professional theaters are defined by NNPN as theaters that: 
+(2) *Professional* theaters are defined by NNPN as theaters that: 
 
 - Contract and compensate collaborators at rates commensurate with professional standards in their market 
 - Strive to achieve, advocate, and maintain the highest standards for the content and delivery of production 
@@ -61,17 +61,17 @@ For more on the process of applying for Core Membership, please contact nan@nnpn
 
 These principles are written in broad terms to help clarify what NNPN considers to be a professional theater. Active members of the Network are expected to demonstrate conduct that follows these recognized and established professional standards.  
 
-(3) NNPN determines that a theater has demonstrated a commitment to producing new plays if it has:  
+(3) NNPN determines that a theater has *demonstrated a commitment to producing new plays* if it has:  
 
 - Fully produced at least two new plays as defined above over the last three programming cycles or seasons 
 - No more than ⅓ of a theater’s new plays in the last three cycles or seasons have been adaptations of literary works or pre-existing material 
 
-(4) A new play is, for NNPN’s purposes, one that is:
+(4) A *new play* is, for NNPN’s purposes, one that is:
 
 - A work that was previously unproduced OR received its first professional production in the past three programming cycles or seasons
 - Has had no commercial productions since its initial opening 
 - Has had fewer than three regional productions 
 
-(5) An anti-racism/anti-bias statement and action plan, broadly defined, is a document that codifies the objectives for and plans to counteract and prevent bias and oppose and prohibit unfair discrimination against people based on race, ethnicity, culture, religion, gender identity, language, sexual orientation, neurodiversity and/or disability, and/or economic class.   
+(5) An *anti-racism/anti-bias statement and action plan*, broadly defined, is a document that codifies the objectives for and plans to counteract and prevent bias and oppose and prohibit unfair discrimination against people based on race, ethnicity, culture, religion, gender identity, language, sexual orientation, neurodiversity and/or disability, and/or economic class.   
 
  
