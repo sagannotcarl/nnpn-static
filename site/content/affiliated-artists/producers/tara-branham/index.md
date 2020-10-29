@@ -1,6 +1,6 @@
 ---
 title: "Tara Branham"
-image: "tara_branham.jpeg"
+image: "T.Branham.png"
 link: "newplayexchange.org/users/17633/tara-branham"
 ---
 
