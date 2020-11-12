@@ -103,6 +103,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [PlayGround](http://www.playground-sf.org/) *Berkeley, CA*
 - [PlayMakers Repertory Company](https://playmakersrep.org/) *Chapel Hill, NC*
 - [PYGmalion Theatre Company](http://pygmalionproductions.org/) *Salt Lake City, UT*
+- [Queens Theatre](https://queenstheatre.org/) *Corona, NY*
 - [Redtwist Theatre](http://www.redtwist.org/) *Chicago, IL*
 - [Renaissance Theaterworks](https://www.r-t-w.com/) *Milwaukee, WI*
 - [Rep Stage](http://www.repstage.org/index.html) *Columbia, MD*
