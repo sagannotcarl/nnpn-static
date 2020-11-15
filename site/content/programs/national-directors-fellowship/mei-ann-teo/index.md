@@ -6,3 +6,4 @@ current: "false"
 related:
 - National Directors Fellowship
 ---
+**Woolly Mammoth Theatre Company** (Washington, D.C.)
