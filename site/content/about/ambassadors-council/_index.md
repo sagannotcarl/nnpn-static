@@ -37,6 +37,7 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **David Goldman**, Director, Stanford University National Center for New Plays; NNPN Founder
 - **Barclay Goldsmith**, Founder, Borderlands Theater
 - **Jane Harrison**
+- **Aimée Hayes**, Director
 - **Gary Heisserer**, Graceland University
 - **Gregg Henry**, Kennedy Center American College Theater Festival
 - **Donna Hoke**, Road Less Travelled Productions
