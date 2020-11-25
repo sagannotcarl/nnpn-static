@@ -68,6 +68,7 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Timothy Jay Smith**, Founder, the NNPN Smith Prize for Political Theatre
 - **Zev Valancy**, Dramaturg
 - **Kristen Vehill**, Board Member, 16th Street Theater and Prop Thtr
+- **Nicole A. Watson**, Associate Artistic Director, McCarter Theatre
 - **Amanda White Thietje**, DalekoArts
 - **Donna Willis**, Board Member, Actor's Express
 - **Richard Winkler**, Red Hanger Productions
