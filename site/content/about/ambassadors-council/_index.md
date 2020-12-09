@@ -94,7 +94,6 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Aditi Brennan Kapil**, Mixed Blood Theatre
 - **York Kennedy**, Magic Theatre
 - **Robert Koon**, 16th Street Theater
-- **Tito Smeath Livas**, Salt Lake Acting Company
 - **Maya Malan-González**, Milagro
 - **Mike Marinaccio**, Orlando Shakespeare Theater
 - **Jonathan Norton**, Kitchen Dog Theater
@@ -104,6 +103,7 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Bruce Sevy**, Curious Theatre Company
 - **Eric Shimelonis**, Contemporary American Theater Festival
 - **Herbert Siguenza**, San Deigo REPertory Theatre
+- **Tito Smeath-Livas**, Salt Lake Acting Company
 - **Mark St. Germain**, Florida Studio Theatre
 - **Eva Zorille Tessler**, Borderlands Theater
 - **Donya K. Washington**, Actor's Express
