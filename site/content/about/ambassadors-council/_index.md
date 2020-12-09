@@ -79,22 +79,25 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 
 ### Core Member Artist Ambassadors
 
+- **Anna Bahow**, Silk Road Rising
 - **Evan Bergman**, New Jersey Repertory Company
 - **John Biguenet**, Southern Rep Theatre
 - **Enrique Bravo**, Perseverance Theatre
+- **Jasmine Brooks**, Company One Theatre
 - **Eric Coble**, Cleveland Public Theatre
 - **Walter Coppage**, Unicorn Theatre
 - **Dennis Delamar**, Actor's Theatre of Charlotte
 - **Jennifer Fawcett**, Riverside Theatre
 - **Thomas Gibbons**, InterAct Theatre Company
-- **Andra Harbold**, Salt Lake Acting Company
+- **Lauren Gunderson**, Marin Theatre Company
 - **Andrew Kramer**, Phoenix Theatre
 - **Aditi Brennan Kapil**, Mixed Blood Theatre
 - **York Kennedy**, Magic Theatre
 - **Robert Koon**, 16th Street Theater
+- **Tito Smeath Livas**, Salt Lake Acting Company
 - **Maya Malan-González**, Milagro
 - **Mike Marinaccio**, Orlando Shakespeare Theater
-- **Lauren Gunderson**, Marin Theatre Company
+- **Jonathan Norton**, Kitchen Dog Theater
 - **Jenny O'Hara**, Fountain Theatre
 - **Beau O’Reilly**, Prop Thtr
 - **Joe Rodota**, B Street Theatre
@@ -103,12 +106,12 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Herbert Siguenza**, San Deigo REPertory Theatre
 - **Mark St. Germain**, Florida Studio Theatre
 - **Eva Zorille Tessler**, Borderlands Theater
+- **Donja K. Washington**, Actor's Express
 
 ### Core Member Patron Ambassadors
 
-- **Susan Albritton**, Kitchen Dog Theater
 - **Susan Arkin**, Orlando Shakespeare Theater
-- **Lillian Sober Ain**, New Repertory Theatre
+- **Dennis Bolin**, Kitchen Dog Theater
 - **Terry Cramer**, Perseverance Theatre
 - **Ron David**, Borderlands Theater
 - **Kipp Delbyck**, Marin Theatre Company
@@ -130,6 +133,8 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Gayle Smith**, InterAct Theatre Company
 - **Terence Stephens**, Salt Lake Acting Company
 - **Encarnacion Teruel**, Prop Thtr
+- **Fouad Teymour**, Silk Road Rising
+- **Sasha Abby VanDerzee**, Company One Theatre
 - **Jennifer Whitmore**, Riverside Theatre
 - **Shari Wilson**, Unicorn Theatre
 
