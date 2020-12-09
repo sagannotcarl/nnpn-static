@@ -106,7 +106,7 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Herbert Siguenza**, San Deigo REPertory Theatre
 - **Mark St. Germain**, Florida Studio Theatre
 - **Eva Zorille Tessler**, Borderlands Theater
-- **Donja K. Washington**, Actor's Express
+- **Donya K. Washington**, Actor's Express
 
 ### Core Member Patron Ambassadors
 
