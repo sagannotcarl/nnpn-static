@@ -19,7 +19,3 @@ Washington, DC
 [**The VORTEX**](http://vortexrep.org/30_homeward)\
 POSTPONED\
 Austin, TX
-
-[**Thrown Stone**](https://thrownstone.org/annie/)\
-POSTPONED: Summer 2021\
-Ridgefield, CT
