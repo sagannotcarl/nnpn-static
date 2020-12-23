@@ -15,7 +15,6 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 
 - **Leah Abrams**, Independent Producer
 - **Chelsea Anderson**, Director
-- **Roy Arauz**, Director
 - **Kelly Armstrong**, Playwright
 - **Brian Balcom**, Director
 - **Meghan Beals**, Dramaturg
@@ -57,6 +56,7 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Bridget O'Leary**, Independent Director and Dramaturg
 - **Kittson O'Neill**, Philadelphia Theater Maker
 - **Bruce Ostler**, Bret Adams, Ltd.
+- **Markus Potter**, Director
 - **Alejandro Rodriguez**, Producer & Playwright
 - **Art Rotch**, Emeritus Artistic Director, Perseverance Theatre
 - **Lisa Rothe**, Director
