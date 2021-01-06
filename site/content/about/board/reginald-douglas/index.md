@@ -7,5 +7,5 @@ related:
 - Board of Directors
 ---
 
-Executive Committee
+Executive Committee\
 Associate Artistic Director, Studio Theatre
