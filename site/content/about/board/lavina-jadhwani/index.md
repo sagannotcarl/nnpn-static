@@ -1,6 +1,6 @@
 ---
-title: "3Filmer"
-name_override: "Ann Filmer"
+title: "Jadhwani"
+name_override: "Lavina Jadhwani"
 image: "Lavina.Jadhwani.png"
 current: "true"
 related:
