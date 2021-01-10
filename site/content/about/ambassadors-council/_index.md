@@ -50,7 +50,7 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Ricky J. Martinez**, Director & Playwright
 - **Annaliese McSweeney**, Literary Manager, Stage Left Theatre
 - **Kelly Miller**, Literate.
-- **Naysan Mojgani**, Literary Manager, Arena Stage
+- **Naysan Mojgani**, Associate Artist, Round House Theatre
 - **Amy Mueller**, Director
 - **Shannon Musgrave**, Communications Manager, Allegheny Regional Asset District
 - **Bridget O'Leary**, Independent Director and Dramaturg
