@@ -19,11 +19,11 @@ We aim to be responsive to the issues around us so that we can best advance and 
 
 - All RWP productions and other impacted projects have been granted a **12-month extension**
 
-- All first-year Producers in Residence will be **granted an second year on a non-competitive basis**
+- All first-year 2019-20 Producers in Residence were **granted an second year on a non-competitive basis**
 
-- The Annual Conference is moving **online** from May 25-31
+- The 2020 and 2021 Annual Conference & Engaging Audiences Summit, as well as the 2020 National Showcase of New Plays were moved **online**
 
-- All funds for **current projects** have been released and reporting deadlines extended
+- All funds for **current projects** were released and reporting deadlines extended
   
 For more information about on-going adjustments to Programs, please contact [Jordana Fraider](mailto:jordana@nnpn.org). 
 
