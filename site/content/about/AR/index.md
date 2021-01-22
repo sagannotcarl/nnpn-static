@@ -10,7 +10,7 @@ menu:
 weight:     11
 ---
 
-### National New Play Network Anti-Racist and Anti-Bias Vision Statement ###
+## National New Play Network's Anti-Racism and Anti-Bias Vision Statement
 
 For over 20 years, National New Play Network has incubated and elevated ne work by creating community, fostering collaboration, and standing firm in our unshakable belief that everything is better when we all work together. 
 
