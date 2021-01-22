@@ -10,7 +10,7 @@ menu:
 weight:     10
 ---
 
-### National New Play Network completed its 20th year of operations in 2018. This juncture in the organization’s development was an opportune moment to interrogate who and what we are, and who and what we want to become. ### 
+## National New Play Network completed its 20th year of operations in 2018. This juncture in the organization’s development was an opportune moment to interrogate who and what we are, and who and what we want to become. 
 
 Taking into consideration the major technological, political, and cultural changes shaping the Network, the American theater, and the larger world, NNPN’s Board of Directors, Core Member Theaters, and staff agreed to assess every aspect of its current operation and embrace a bold and progressive future.
 
