@@ -26,7 +26,7 @@ National New Play Network desires to continue growing its impact as a leader in 
 
 NNPN holds a unique position of privilege at the intersection of artists and institutions in our industry. Therefore, we will aim to make the National New Play Network a model of the **robust, equitable, and inclusive ecology we believe the new play field can become.** 
 
-Guided by equity, diversity and inclusionconsiderations, NNPN will focus on changes in these four primary areas of strategic priority, referred to in the plan as its “pillars.” 
+Guided by equity, diversity and inclusion considerations, NNPN will focus on changes in these four primary areas of strategic priority, referred to in the plan as its “pillars.” 
 
 * **Governance & Membership**
 * **Programming**
