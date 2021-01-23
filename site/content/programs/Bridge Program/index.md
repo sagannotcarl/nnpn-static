@@ -1,13 +1,14 @@
 ---
 title:          "Bridge Program"
-identifier:     "bridge"
+identifier:     "bridge-program"
 menu:
   main:
     parent:     "Programs"
-  about:
-weight:         1
-type:           "Programs"
-current_label:  ""
+  programs:
+weight:     1
+type:           "programs"
+current_label:  "Current Bridge Program Projects"
+past_label:     "Completed Bridge Program Projects"
 related:
 - Bridge Program
 ---
