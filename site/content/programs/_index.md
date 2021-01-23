@@ -27,17 +27,15 @@ We aim to be responsive to the issues around us so that we can best advance and 
   
 For more information about on-going adjustments to Programs, please contact [Jordana Fraider](mailto:jordana@nnpn.org). 
 
-Additionally, NNPN is hosting **weekly check-in meetings** via Zoom for Member Theaters and Affiliated Artists, with additional check-ins for Board, Ambassadors, and other ad-hoc groups as needed. If you would like more information about these sessions, please contact [Jess Hutchinson](mailto:jess@nnpn.org).
+Additionally, NNPN is hosting **weekly check-in meetings** via Zoom for Member Theater Staff with additional check-ins for Affiliated Artists, Ambassadors, Board and other ad-hoc groups as needed. If you would like more information about these sessions, please contact [Jess Hutchinson](mailto:jess@nnpn.org).
 
 ---
 
 
 NNPN's Programs Include:
 
-- NNPN’s flagship initiative, the Rolling World Premiere program, gives playwrights and theaters the rare opportunity to bring a play from development to production in multiple locations across the country.
-- The New Play Exchange® is providing a cutting-edge, efficient, and streamlined way for new plays to be discovered and shared.
+- NNPN’s flagship initiative, the **Rolling World Premiere** program, gives playwrights and theaters the rare opportunity to bring a play from development to production in multiple locations across the country.
+- The **New Play Exchange®** is providing a cutting-edge, efficient, and streamlined way for new plays to be discovered and shared.
 - The National Showcase of New Plays sets the stage for theater makers, publishers, and agents to experience the new, production-ready work being championed by NNPN Member Theaters.
-- NNPN’s Commission programs and Collaboration Fund initiatives bring new work to the world through Member Theater initiatives, theater-to-theater collaborations, and theater-to-playwright collaborations.
-- The MFA Playwrights’ Workshop, the National Directors Fellowship, and the Producers in Residence program provide important career-shaping opportunities for diverse annual classes of promising writers, directors, and producers.
-- The International Exchange program fosters cultural and geographical consciousness through travel exchanges between U.S. artists and artists abroad.
-
+- NNPN’s **Commissions** programs and **Collaboration Fund** initiatives bring new work to the world through Member Theater initiatives, theater-to-theater collaborations, and theater-to-playwright collaborations.
+- The **MFA Playwrights’ Workshop**, the **National Directors Fellowship**, and the **Producers in Residence** program provide important career-shaping opportunities for diverse annual classes of promising writers, directors, and producers.
