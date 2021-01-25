@@ -1,6 +1,6 @@
 ---
 title: "test"
-image: 
+image: "nnpn 2021 bridge program.png"
 link: "nnpn.org"
 current: "true"
 promoted: "false"
