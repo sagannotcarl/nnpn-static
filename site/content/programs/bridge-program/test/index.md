@@ -13,4 +13,4 @@ play: "Title of Play"
 
 More details coming soon!
 
-Find more details [here](programs/bridge-program/test/details/)
+Find more details [here](https://nationalnewplaynetwork013.sharepoint.com/:w:/s/Programs/EUxPc1Hc09dIvzy7JRk8n_gBHifHsepBSpG1OqrIts_MFQ?e=glANVn)
