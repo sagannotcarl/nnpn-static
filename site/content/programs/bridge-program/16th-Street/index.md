@@ -1,5 +1,5 @@
 ---
-title: "16th Street Theater"
+title: "Natalie Moore"
 image: "16th Street.png"
 link: "nnpn.org"
 current: "true"
