@@ -21,7 +21,7 @@ The goals of the Bridge Program are two-fold:
 * To incentivize NNPN Member Theaters to develop, produce, and extend the life of new plays by theater artists who are Black, Indigenous, and/or People of Color (BIPOC) in their re-imagined 2020-21/2021 seasons.
 * To incentivize and support NNPN Member Theaters in developing and implementing anti-racist practices in their production of new plays by, for, about, and with BIPOC theater makers.
 
-#### Accountability to Anti-Racism ####
+### Accountability to Anti-Racism ###
 Audiences are recognized as a critical agent in any theatrical process;projects are required to have a public/presentation component.
 
 The primary point person and generative artist(s)responsible for/associated with the project will become part of a cohort for collective accountability around participating in the Bridge Program.
