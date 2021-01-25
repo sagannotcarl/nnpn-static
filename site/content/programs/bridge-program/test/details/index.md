@@ -1,9 +1,9 @@
 ---
 title:          "Test Details"
-type:           "program"
+type:           "detail"
 menu:
   main:
-    parent:     "Test"
+    parent:     "Bridge-Program"
   artist_type:
 weight:         1
 ---
