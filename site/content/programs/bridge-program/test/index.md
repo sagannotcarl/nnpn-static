@@ -12,3 +12,5 @@ play: "Title of Play"
 **Here is where there will be details**
 
 More details coming soon!
+
+Find details [here](testdetails.md)
