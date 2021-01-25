@@ -13,7 +13,7 @@ related:
 - Bridge Program
 ---
 
-<img source="nnpn 2021 bridge program.png" width = 800>
+![alt text](nnpn 2021 bridge program.png "Logo Title Text 1" width="800")
 
 ### Context & Structure ###
 While our theaters rebuild the capacity to participate in traditional Rolling World Premieres, NNPN can leverage the financial resources already set aside for that program in its FY21 budget to incentivize theaters to prioritize programming new work by BIPOC artists. Whether in development or production, work that is responsive to and in conversation with NNPN Member Theaters’ specific communities and the particular issues with which they are grappling,can move us closer to our goals of creating an anti-racist and anti-biased space for new plays.
