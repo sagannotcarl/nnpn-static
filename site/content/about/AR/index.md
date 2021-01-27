@@ -26,7 +26,7 @@ We have committed to anti-racist and anti-bias practices and will be releasing o
 
 Additionally, NNPN commits to fostering and supporting work that dismantles bias based on designations that contribute to the marginalization of groups of people, including but not limited to gender, gender identity, culture, religion, language, sexual orientation, age, neurodiversity and/or disability, and/or economic class. 
 
-### Acknowledgment 
+#### Acknowledgment 
 
 Since its founding, National New Play Network has existed in a white-dominant, culturally racist societal structure, and its work has reflected norms that align with those forces. The Network has approached the problem in numerous ways (historically, through its programs, awards, and professional development offerings; more recently, through increasing intentionality around supporting artists who are Black, Indigenous, Latina/o/x, Asian, Middle Eastern, and all People of Color) and with varying levels of success. However, we acknowledge that in the past, we did not make anti-racism and anti-bias work a priority; by resetting the organization to center this work, we hope to play a leading role in modeling how our entire field can move forward towards dismantling the systemic biases that have prevented a truly equitable and just American theater.  
 
@@ -36,7 +36,7 @@ NNPN is grateful for the generosity, time, and expertise of the theater-makers a
 
 National New Play Network is committed to sharing its journey toward awareness and action with its Member Theaters, constituencies, and other organizations to model and motivate these changes throughout the new play field and the theater, arts, and entertainment industries, and commits to supporting the anti-racism/anti-bias work being done at many of its Member Theaters and by the artists and theater-makers who are leading the way.  
 
-### How the Work Began
+#### How the Work Began
 
 The Network has wrestled with issues of access in the American theater within its internal workings and those of its Member Theaters from its inception, as evidenced by its work to bring emerging, unsung, and geographically diverse artists into the national spotlight. As the organization matured, professionalized its staff, and increased both the size of its membership and scope of its programs, it became more intentional about inclusion, diversity, and access, working towards gender parity and recognizing artists and works made by, for, about, and with Black, Indigenous, Latina/o/x, Asian, Middle Eastern, and all People of Color communities. NNPN’s online database of new plays, the New Play Exchange® (NPX®), which launched in 2015, was built to help remove barriers of all kinds so that both theater-makers and theater-lovers could access new works without regard to costs, a playwright’s’ pedigree, or location, or a play’s previous success. It also allowed for rotating featured lists, often focused on groups of plays written by or featuring Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans, and/or disabled people, and the use of demographic information so that those looking to discover works by specific artists or for specific casts can filter by gender, race, and ethnicity. 
 
@@ -50,7 +50,7 @@ The Network determined that it would focus its initial work primarily on racial 
 
 National New Play Network’s FY20-25 Strategic Plan established 5-year goals for the diversification of all decision-making positions and processes, understanding that the only true way forward must include all aspects of the organization. For NNPN, these initiatives - beginning with governance and including how the Network and its benefits are accessed and distributed - must include diversity and representation at every level of its structure for power to be redistributed in a way that is worthy of being seen as a model for significant and sustainable, field-wide change.
 
-### Where We Are Now
+#### Where We Are Now
 
 Since the new FY20-25 Strategic Plan was passed and began (August 1, 2019), NNPN has also taken the following actions: 
  
@@ -67,22 +67,22 @@ Since the new FY20-25 Strategic Plan was passed and began (August 1, 2019), NNP
 * NNPN has established both BIPOC and White Anti-Racist Affinity Groups to facilitate knowledge gathering and sharing, support, and collegiality.  
 
 * To remain eligible for continuing membership, all Core and Associate Member Theaters will develop anti-racism/anti-bias statements to be ratified by their staffs and boards and publicly shared, by no later than June 30, 2021. 
- 
-### Upcoming Actions 
+
+#### Upcoming Actions 
 
 NNPN recognizes its position of leadership in the field and pledges to serve as a model for other organizations with its commitment to anti-racism/anti-bias work and the policies and practices that result from this work. With a foundation of anti-racism/anti-bias values and a commitment to set an anti-racist standard for the rest of the industry, NNPN pledges to take the following actions over the next 12 months - including dedicating resources in the FY21 and 22 budgets to do so - and recognizes that this is an early step in what will be an ongoing movement to create new systems in our field that dismantle racism and other forms of oppression: 
 
-#### Public Affirmation 
+### Public Affirmation 
 NNPN will approve and publish this anti-racism/anti-bias statement and action plan prominently on its website, publications, social media, and in external documents as appropriate.
 
-#### Member Theaters
+### Member Theaters
 NNPN’s BIPOC and White Anti-Racist Affinity Groups will continue to be given space and resources to meet regularly and communicate directly to NNPN leadership. 
 
 NNPN will create and execute a transparent plan for recruiting TOCs into Core Membership towards the already stated goal of having the Core Member Theaters be at least 30% TOC by FY25.  
 
 Through its virtual and in-person meetings and convenings, NNPN will provide resources and space for its Member Theaters to transform themselves into anti-racist arts institutions that are rooted in, responsive to, and in service of their communities. 
 
-#### Programming 
+### Programming 
 The Program Evaluation Working Group will continue its work, re-evaluating programs to increase access to and build accountability for Member Theaters and to ensure that harm is not perpetrated against Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans, and/or disabled theater-makers in any NNPN-supported activity. 
 
 As part of the development of New Play Exchange® 2.0, NNPN will build new features designed to amplify the work of artists with disabilities. NNPN will continue to promote the adoption of the tool by users who are Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans and/or disabled, and will continue to prioritize highlighting works by playwrights who are Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans and/or disabled. 
@@ -91,17 +91,17 @@ While NNPN Member Theaters rebuild the capacity to participate in traditional 
 
 NNPN commits to maintaining future opportunities for its Member Theaters to seek support for projects that center playwrights and audiences who are Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans, and/or disabled, as well as and strengthen Member Theater's anti-racist and anti-biased artistic practices. 
 
-#### Advocacy/Field Leadership 
+### Advocacy/Field Leadership 
 NNPN commits to advocating for public policy that dismantles racism and other biases in support of Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans, and/or disabled theater-makers and the institutions that make work by, for, about, and with them. 
 
 NNPN will also incentivize and support theaters in developing and implementing anti-racism/anti-bias policies and practices in their production of new plays by, for, with, and about theater-makers who are Black, Indigenous, Latina/o/x, Asian, Middle Eastern, all People of Color, trans and/or disabled. 
 
-#### Internal Practices 
+### Internal Practices 
 NNPN’s Board will activate the Human Resources Committee of the Board and solicit other resources as necessary to assist Staff as it continues to audit its current organizational structure to identify and eradicate practices and policies based in systemic racism from all aspects of its operations and implement hiring and employment policies based in anti-racism and anti-bias practices.  
 
 Staff will work with the Human Resources Committee to build short and long-term growth and succession plans for staffing, creating space for future leadership to continue the organization’s transformation.   
 
-#### Accountability
+### Accountability
 Board Committees and/or Staff actively engaged in the implementation of this plan will report regularly to the Board and Membership. 
 
 NNPN recognizes that this document will need consistent review and commits to twice annual audits of progress, successes, and failures toward these actions for accountability, and updating them as required based on that evaluation and learning. 
