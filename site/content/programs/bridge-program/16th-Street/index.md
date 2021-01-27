@@ -1,6 +1,6 @@
 ---
-title: "Natalie Moore"
-image: "16th Street.png"
+title: "Natalie Y. Moore"
+image: "16th Street2.png"
 link: "nnpn.org"
 current: "true"
 promoted: "false"
