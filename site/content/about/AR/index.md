@@ -53,7 +53,7 @@ National New Play Network’s FY20-25 Strategic Plan established 5-year goals fo
 #### Where We Are Now
 
 Since the new FY20-25 Strategic Plan was passed and began (August 1, 2019), NNPN has also taken the following actions: 
- 
+
 * NNPN is examining its every activity, program, and award through the lens of the commitments above. In FY20 (Year One), both of its Commissions, half of its National Showcase of New Plays featured slots, 50% of its Residencies, and 40% of its Fellowships went to artists who are Black, Indigenous, Latina/o/x, Asian, Middle Eastern, and all People of Color and other theater-makers who have traditionally been excluded from positions of privilege or power. 
 
 * NNPN has built compensation for all adjudicators into every program budget and reached its initial goal of having program decision-making panels include no less than 30% Black, Indigenous, Latina/o/x, Asian, Middle Eastern, and all People of Color in Year One of the 5-year plan. 
