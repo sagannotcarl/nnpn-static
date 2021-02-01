@@ -1,6 +1,6 @@
 ---
 title: "Preston Choi"
-image: "16th Street3.png"
+image: "InterAct.png"
 link: 
 current: "true"
 promoted: "false"
