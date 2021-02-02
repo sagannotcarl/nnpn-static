@@ -1,6 +1,7 @@
 ---
 title:          "Bridge Program"
 identifier:     "bridge-program"
+image:      "BridgeBanner.png"
 menu:
   main:
     parent:     "Programs"
