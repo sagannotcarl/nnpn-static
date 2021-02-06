@@ -7,6 +7,4 @@ related:
 - Commissions
 ---
 
-*Vanye *(Smith Prize)\
-Workshop: City Theatre Company
-
+*Vanye* (Smith Prize)
