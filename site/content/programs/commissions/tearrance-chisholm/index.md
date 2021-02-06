@@ -7,6 +7,6 @@ related:
 - Commissions
 ---
 
-*Uncle Vanye *(Smith Prize)\
+*Vanye *(Smith Prize)\
 Workshop: City Theatre Company
 
