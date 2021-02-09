@@ -1,7 +1,7 @@
 ---
 title: "1Ashley"
 name_override: "Freddie Ashley"
-image: "freddie_ashley.jpg"
+image: "Freddie-Ashley.jpg"
 current: "true"
 related:
 - Board of Directors
