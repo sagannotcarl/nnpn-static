@@ -52,7 +52,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Aurora Theatre Company](https://www.auroratheatre.org/) *Berkeley, CA*
 - [Azuka Theatre](http://www.azukatheatre.org/) *Philadelphia, PA*
 - [Bloomington Playwrights Project](https://newplays.org/) *Bloomington, IN*
-- [BLUEBARN Theatre](http://bluebarn.org/) *Omaha, NE*
+- [The BLUEBARN Theatre](http://bluebarn.org/) *Omaha, NE*
 - [Boston Court Pasadena](http://www.bostoncourt.com/) *Pasadena, CA*
 - [Boulder Ensemble Theatre Company](http://betc.org/) *Boulder, CO*
 - [Capital Repertory Theatre](https://capitalrep.org/) *Albany, NY*
