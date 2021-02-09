@@ -75,7 +75,6 @@ NNPN's Ambassadors Council are new play enthusiasts who are both familiar with a
 - **Richard Winkler**, Red Hanger Productions
 - **Gavin Witt**, Dramaturg and Director
 - **Joseph Zettelmaier**, Roustabout Theatre Troupe
-- **Judy Zocchi**, Good to Go Festival
 
 ### Core Member Artist Ambassadors
 
