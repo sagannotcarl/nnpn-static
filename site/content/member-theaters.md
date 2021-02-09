@@ -91,6 +91,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [New Conservatory Theatre Center](https://www.nctcsf.org/) *San Francisco, CA*
 - [New Light Theater Project](http://www.NewLightTheaterProject.com) *New York, NY*
 - [NewYorkRep](https://www.newyorkrep.org/) *New York, NY*
+- [Noor Theatre](http://www.noortheatre.org/) *New York, NY*
 - [Oregon Contemporary Theatre](http://www.octheatre.org/) *Eugene, OR*
 - [Out of Hand Theater](http://www.outofhandtheater.com/) *Atlanta, GA*
 - [Pacific Resident Theatre](http://www.pacificresidenttheatre.com/) *Los Angeles, CA*
