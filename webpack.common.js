@@ -40,6 +40,10 @@ module.exports = {
     }),
     new CopyWebpackPlugin([
       {
+        from: './assets/fonts',
+        to: '../fonts'
+      },
+      {
         from: './assets/favicons',
         to: '../favicons'
       },
