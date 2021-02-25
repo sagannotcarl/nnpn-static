@@ -8,6 +8,6 @@ related:
 - Bridge Program
 play: "The Billboard"
 ---
-16th Street Theater and Pegasus Theatre Chicago will collaborate on the workshop, production and neighborhood tour of author and journalist Natalie Y. Moore's *The Billboard* about a fictional health clinic serving Black women in Chicago’s Englewood neighborhood and their fight with a local gadfly running for city council.
+16th Street Theater will workshop, produce and create a neighborhood tour of author and journalist Natalie Y. Moore's *The Billboard* about a fictional health clinic serving Black women in Chicago’s Englewood neighborhood and their fight with a local gadfly running for city council.
 
 To learn more about this project, click [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/Programs/ETfFL7Yhd9NGqWK7euSKkKoBYwlAxjAsRPisf-yPlKXQkQ?e=AmJSyn).
