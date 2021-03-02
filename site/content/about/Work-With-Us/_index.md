@@ -13,3 +13,6 @@ past_label:     "Past Opportunities"
 related:
 - Work With Us
 ---
+
+### There are currently no open opportunities. ###  
+Please check back soon!
