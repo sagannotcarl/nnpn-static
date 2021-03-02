@@ -14,5 +14,5 @@ related:
 - Work With Us
 ---
 
-### There are currently no open opportunities. ###  
+### There are currently no open opportunities.   
 Please check back soon!
