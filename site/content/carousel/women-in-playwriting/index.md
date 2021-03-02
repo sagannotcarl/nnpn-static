@@ -1,6 +1,6 @@
 ---
-slide_intro:    "New Plays to Know"
-slide_headline: "2020 Showcase"
-slide_link:     "bit.ly/NSNP2020Playbill"
+slide_intro:    "2021"
+slide_headline: "Bridge Program"
+slide_link:     "nnpn.org/programs/bridge-program/"
 type:           "carousel"
 ---
