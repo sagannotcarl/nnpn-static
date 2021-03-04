@@ -30,6 +30,7 @@ NNPN is currently in the second of a 5-year [Strategic Plan](http://nnpn.org/abo
 *Timeline:* The position will remain opened until filled. As the goal is to commence onboarding the new hire by May 1 to allow for overlap between the outgoing and incoming Programs Director, NNPN staff will reach out to candidates for interviews starting in early April.
 
 **About National New Play Network**
+
 NATIONAL NEW PLAY NETWORK (NNPN) is an alliance of professional theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays. Founded in 1998, NNPN continues to revolutionize the new play landscape through the strength of its Member Theaters, collaborative efforts, and its nationally recognized programs and services for artists and organizations.
 
 NNPN boasts a diverse roster of [Member Theaters](http://nnpn.org/member-theaters/) through its two-tiered membership structure: Core Members, the governing network of theaters with missions and production histories that affirm a dedication to new works; and Associate Members, companies that produce or develop at least one new work per year and demonstrate a commitment to NNPN’s values. Its [board](http://nnpn.org/about/board/) is comprised of Member Theater leaders, as well as representatives from its two other primary constituencies in the field: [Affiliated Artists](http://nnpn.org/affiliated-artists/) and [Ambassadors](http://nnpn.org/about/ambassadors-council/).
@@ -66,8 +67,7 @@ Meet with theaters, artists, and other industry partners to develop deep knowled
 
 Work with other NNPN staff on development (stewardship, funder meetings, and narrative contributions), communications (resource and event sharing between Members and constituencies), governance, strategic planning, and administrative activities (data management), particularly in the context of programming and engagement. This takes the form of daily core staff meetings, weekly one-on-ones with colleagues, monthly full staff meeting, and annual staff retreats.
 
-**Qualifications**
-
+**Qualifications**\
 - Knowledge & familiarity with the national funding environment for the cultural sector, with at least two years of experience working with re-granting programs, member/national service organizations, and/or professional associations required
 - Facilitation skills strongly desired and additional training and support to develop those skills are available 
 - NNPN uses Microsoft Office 365 for its email (Outlook), calendar, cloud storage (SharePoint), and staff cooperation (Teams). It is currently activating its first CRM with Salesforce. Additionally, this position will use Zoom, MightyNetworks, MailChimp, Adobe Document Cloud, Microsoft Office, Google Drive and Forms, SurveyMonkey, and other virtual platforms to carry out its functions. While experience with all of these platforms is not required, a curiosity to learn and utilize them and other forms of technology is.
