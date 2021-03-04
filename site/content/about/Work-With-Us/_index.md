@@ -67,7 +67,8 @@ Meet with theaters, artists, and other industry partners to develop deep knowled
 
 Work with other NNPN staff on development (stewardship, funder meetings, and narrative contributions), communications (resource and event sharing between Members and constituencies), governance, strategic planning, and administrative activities (data management), particularly in the context of programming and engagement. This takes the form of daily core staff meetings, weekly one-on-ones with colleagues, monthly full staff meeting, and annual staff retreats.
 
-**Qualifications**\
+**Qualifications**
+
 - Knowledge & familiarity with the national funding environment for the cultural sector, with at least two years of experience working with re-granting programs, member/national service organizations, and/or professional associations required
 - Facilitation skills strongly desired and additional training and support to develop those skills are available 
 - NNPN uses Microsoft Office 365 for its email (Outlook), calendar, cloud storage (SharePoint), and staff cooperation (Teams). It is currently activating its first CRM with Salesforce. Additionally, this position will use Zoom, MightyNetworks, MailChimp, Adobe Document Cloud, Microsoft Office, Google Drive and Forms, SurveyMonkey, and other virtual platforms to carry out its functions. While experience with all of these platforms is not required, a curiosity to learn and utilize them and other forms of technology is.
