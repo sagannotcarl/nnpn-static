@@ -5,12 +5,12 @@ menu:
   main:
     parent: "About"
   about:
-weight:     5
+weight:     7
 type:       "about"
 ---
 National New Play Network and its member theaters, affiliated artists, and audiences are deeply grateful for the support of the following patrons of new work. NNPN’s worldwide impact would not be possible without these generous donors.
 
-Won’t you join them? You can be a part of supporting the creation of new plays and the theater-makers of our time through the programs of NNPN.
+Won’t you [join them](http://nnpn.org/support/)? You can be a part of supporting the creation of new plays and the theater-makers of our time through the programs of NNPN.
 
 ### 20th Anniversary Artist's Circle\
 Lisa Adler/Horizon Theatre Company\
