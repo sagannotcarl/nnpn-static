@@ -5,7 +5,7 @@ menu:
   main:
     parent: "About"
   about:
-weight:     3
+weight:     5
 type:       "about"
 ---
 National New Play Network and its member theaters, affiliated artists, and audiences are deeply grateful for the support of the following patrons of new work. NNPN’s worldwide impact would not be possible without these generous donors.
