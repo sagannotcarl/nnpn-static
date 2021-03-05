@@ -89,7 +89,7 @@ Work with other NNPN staff on development (stewardship, funder meetings, and nar
  
 ### Apply
 
-First, please complete this form, which asks for basic biographical / contact information as well as a resume and cover letter addressing both why you are interested and uniquely qualified for the position. Additionally, you will be asked to provide a writing sample from your previous experience in grant-making and/or service organization(s).
+First, please complete [this form](https://forms.gle/iLyHsG5UhyfttueU8), which asks for basic biographical / contact information as well as a resume and cover letter addressing both why you are interested and uniquely qualified for the position. Additionally, you will be asked to provide a writing sample from your previous experience in grant-making and/or service organization(s).
 
 Candidates who are invited to interview will be asked to provide contact information for three references who can speak to the candidate’s qualifications for this role. Additional writing or work samples may be requested.
 
