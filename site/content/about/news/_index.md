@@ -5,7 +5,7 @@ menu:
   main:
     parent: "About"
   about:
-weight:     8
+weight:     9
 type:       "news"
 ---
 
