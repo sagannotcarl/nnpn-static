@@ -44,7 +44,7 @@ NNPN has an annual budget of $1.1 million and maintains a 10-person staff, four 
 
 As engagement is fundamental to how NNPN does its work for the new play field, ideal candidates are both comfortable with and stimulated by a lot of human interaction, particularly through meetings, emails, events, and to a lesser extent, social media. This person can see both the forest and the trees, paying attention to the details while working toward a vision of what is created when those details come together, and how that vision supports NNPN’s mission and affirms its values. They are passionate about the role of the artist, storytelling, and specifically that of new plays in strengthening communities. They are also committed to anti-racist practices and ideals, and excited to engage and seek out and create new relationships with and opportunities for artist and institutional partners in the new play field.
 
-### Primary Duties and Responsibilities
+**Primary Duties and Responsibilities**
 
 This position is responsible for the planning, oversight, management, administration, and future visioning of all NNPN competitive award programs which grant approximately $350,000 annually to Member Theaters and individual artists. Specifically including processes and systems related to design, applications, adjudication, reporting, debriefs, payouts, budgeting, facilitation, support, orientation, evaluation, and compliance. The current roster of NNPN [programs](http://nnpn.org/programs/) includes:
 
@@ -69,7 +69,7 @@ Meet with theaters, artists, and other industry partners to develop deep knowled
 
 Work with other NNPN staff on development (stewardship, funder meetings, and narrative contributions), communications (resource and event sharing between Members and constituencies), governance, strategic planning, and administrative activities (data management), particularly in the context of programming and engagement. This takes the form of daily core staff meetings, weekly one-on-ones with colleagues, monthly full staff meeting, and annual staff retreats.
 
-### Qualifications
+**Qualifications**
 
 - Knowledge & familiarity with the national funding environment for the cultural sector, with at least two years of experience working with re-granting programs, member/national service organizations, and/or professional associations required
 
@@ -95,5 +95,5 @@ First, please complete this form, which asks for basic biographical / contact in
 
 Candidates who are invited to interview will be asked to provide contact information for three references who can speak to the candidate’s qualifications for this role. Additional writing or work samples may be requested.
 
-**Questions?** Contact Executive Director Nan Barnett at nan@nnpn.org.
+**Questions?** Contact Executive Director Nan Barnett at [nan@nnpn.org](mailto:nan@nnpn.org).
 
