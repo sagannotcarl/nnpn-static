@@ -17,6 +17,7 @@ related:
 ### Accepting Applications: Programs Director   
 
 **Position Overview**
+
 National New Play Network is seeking an individual to lead the implementation, facilitation, evaluation, and strategic growth of a $350,000 portfolio of programs that support the new play field through the theaters, artists, and audiences that comprise it. A Director-level position that reports to the Executive Director, the ideal candidate for this role is excited by work that requires both high-level visioning and in-the-weeds administrative acumen. As a member service organization built on deep engagement with NNPN’s Member Theaters, other constituencies, and the field at large, the position requires intense communication and relationship-building. Rooted in a value system that prioritizes equity, anti-racism, and collaboration, these relationships inform the work of implementing and innovating the organization’s current programmatic offerings, something this position is both empowered and encouraged to initiate. While this is a position with authority and autonomy, the spirit of collaboration is strong among staff, buttressed by systems of cooperation, regular interaction, and collective decision-making.
 
 NNPN is currently in the second of a 5-year [Strategic Plan](http://nnpn.org/about/strategic-plan/), with explicit goals for programming that were recently augmented through its published [Anti-Racism/Anti-Bias Plan and Commitment to Action](http://nnpn.org/about/ar/). The Programs Director will be responsible for not only working within the organization to make progress on these goals, but also to continue to interrogate and evaluate the goals themselves for alignment with its mission, vision, and values.
@@ -43,9 +44,10 @@ NNPN has an annual budget of $1.1 million and maintains a 10-person staff, four 
 
 As engagement is fundamental to how NNPN does its work for the new play field, ideal candidates are both comfortable with and stimulated by a lot of human interaction, particularly through meetings, emails, events, and to a lesser extent, social media. This person can see both the forest and the trees, paying attention to the details while working toward a vision of what is created when those details come together, and how that vision supports NNPN’s mission and affirms its values. They are passionate about the role of the artist, storytelling, and specifically that of new plays in strengthening communities. They are also committed to anti-racist practices and ideals, and excited to engage and seek out and create new relationships with and opportunities for artist and institutional partners in the new play field.
 
-**Primary Duties and Responsibilities**
+### Primary Duties and Responsibilities
 
 This position is responsible for the planning, oversight, management, administration, and future visioning of all NNPN competitive award programs which grant approximately $350,000 annually to Member Theaters and individual artists. Specifically including processes and systems related to design, applications, adjudication, reporting, debriefs, payouts, budgeting, facilitation, support, orientation, evaluation, and compliance. The current roster of NNPN [programs](http://nnpn.org/programs/) includes:
+
 - Rolling World Premieres
 - Smith Prize and Annual Commission
 - Producers in Residence
@@ -67,15 +69,22 @@ Meet with theaters, artists, and other industry partners to develop deep knowled
 
 Work with other NNPN staff on development (stewardship, funder meetings, and narrative contributions), communications (resource and event sharing between Members and constituencies), governance, strategic planning, and administrative activities (data management), particularly in the context of programming and engagement. This takes the form of daily core staff meetings, weekly one-on-ones with colleagues, monthly full staff meeting, and annual staff retreats.
 
-**Qualifications**
+### Qualifications
 
 - Knowledge & familiarity with the national funding environment for the cultural sector, with at least two years of experience working with re-granting programs, member/national service organizations, and/or professional associations required
+
 - Facilitation skills strongly desired and additional training and support to develop those skills are available 
+
 - NNPN uses Microsoft Office 365 for its email (Outlook), calendar, cloud storage (SharePoint), and staff cooperation (Teams). It is currently activating its first CRM with Salesforce. Additionally, this position will use Zoom, MightyNetworks, MailChimp, Adobe Document Cloud, Microsoft Office, Google Drive and Forms, SurveyMonkey, and other virtual platforms to carry out its functions. While experience with all of these platforms is not required, a curiosity to learn and utilize them and other forms of technology is.
+
 - A willingness to learn about and/or contribute to the development and implementation of equitable, inclusive, anti-racist, and anti-oppressive frameworks
+
 - Ability to work both independently and as part of a creative, highly collaborative team environment
+
 - Attention to detail with excellent writing, communication, interpersonal and organizational skills
+
 - Ability to prioritize and organize workflow and meet deadlines
+
 - Flexibility to manage multiple tasks and deliverables
  
 **NNPN is an equal opportunity employer** and seeks to employ qualified individuals based on individual merit. It does not discriminate against any individual with respect to the terms and conditions of employment based on that individual’s race, sex, age, religion, color, national origin, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, housing status, or any other non-merit factor protected under state, local, or federal laws. Equal Employment Opportunity applies to all personnel actions such as recruiting, hiring, compensation, benefits, promotions, training, transfer, termination, and opportunities for training. NNPN is committed to a fair and equitable workplace where everyone is a respected and valued member of the team.
