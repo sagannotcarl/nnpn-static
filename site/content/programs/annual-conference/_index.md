@@ -12,12 +12,12 @@ related:
 - Annual Conference
 ---
 
-<span class="lead-in">In 2020, NNPN hosted its first virtual Annual Conference.</span>
+<span class="lead-in">In 2020, NNPN hosted its first virtual Annual Conference. And in 2021, we're going to do it again. Stay tuned for dates and details as they are available. In the meantime, check out what happened last year.</span>
 
 
-Additionally, this was the first time that NNPN introduced its annual Summit, which we envision as a time for NNPN’s constituencies and partners across the field to come together to contemplate the big questions impacting our work as a whole.
+Additionally, 2020 was the first time that NNPN introduced its annual Summit, which we envision as a time for NNPN’s constituencies and partners across the field to come together to contemplate the big questions impacting our work as a whole.
 
-This year, we ask the question: **How can theater become essential to our communities?**
+In 2020, we ask the question: **How can theater become essential to our communities?**
 
 We convened Tuesday, May 26 - Friday, May 29. See below for our schedule. 
 
@@ -104,20 +104,6 @@ Building on the discussions and ideas generated at the Women of Color Affinity S
 ### 4:15pm EDT / 1:15pm PDT | Anti-Racist Affinity Space for White Theater-Makers
 **Designed For: White Folx in the NNPN Community (includes Affiliated Artists, Ambassadors, and Partner Organizations)**\
 This session will provide an affinity space for white theater-makers eager to work toward racial justice and equity in the American theater (and the world writ large). This space will allow us to ask tough questions, share experiences and support, and work together to envision what might come next for ourselves and our field as we begin to imagine an anti-racist, post-pandemic world. 
-
-
-
-### POSTPONED | A Virtual New Play Reading of **THE LOYALS**
-**Best For: Anyone & Everyone! (please note that tickets are limited to this event)**\
-by NNPN Affiliated Artist [Allison Gregory](https://newplayexchange.org/users/1848/allison-gregory)\
-directed by Hayley Finn\
-presented by our friends at [The Playwrights' Center](https://pwcenter.org/)
-
-*Meet Peggy Shipman: young, bright, socially prominent, politically ambivalent. At eighteen she becomes Mrs. Benedict Arnold. But wait -- is she a knowing partner in her infamous husband’s treason? Is she playing a conniving role in his outrageous attempt to destroy an adolescent country fighting for its independence? Or is she merely a naïve spouse, betrayed along with George Washington and the rest of America? And how does she get her hair so high?*
-
-The Loyals *is a gripping investigation into espionage and patriotism during the American Revolution – and the greatest act of disloyalty this young country had ever seen. History is the fundamental lens through which we view the present. With this romantic comedy about treason, Gregory seeks to investigate the intersection of historical fact and her own narrative invention, while telling a two-hundred and forty year-old narrative that throws light and resonance on today’s political shenanigans.*
-
-**This reading is postponed until a to be announced date and time - we'll be in touch as we have more information.**
 
 ***
 
