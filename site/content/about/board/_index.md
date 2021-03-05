@@ -5,7 +5,7 @@ menu:
   main:
     parent:     "About"
   about:
-weight:     1
+weight:     4
 type:           "about"
 current_label:  
 past_label:     
