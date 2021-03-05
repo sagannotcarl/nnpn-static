@@ -7,7 +7,7 @@ menu:
   main:
     parent: "About"
   about:
-weight:     6
+weight:     3
 ---
 
 ## National New Play Network's Anti-Racism and Anti-Bias Vision Statement
