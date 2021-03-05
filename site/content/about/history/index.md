@@ -6,7 +6,7 @@ menu:
   main:
     parent: "About"
   about:
-weight:     7
+weight:     1
 ---
 
 <span class="lead-in">In 1998, a small group of theater leaders founded National New Play Network on the belief that the next generation of new play development should be decentralized, dynamic, and collaborative in scope and practice, and that there should be a pipeline for sharing new work between regional theaters.</span>
