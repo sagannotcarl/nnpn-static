@@ -7,7 +7,7 @@ menu:
   main:
     parent: "About"
   about:
-weight:     4
+weight:     2
 ---
 
 ## National New Play Network completed its 20th year of operations in 2018. This juncture in the organization’s development was an opportune moment to interrogate who and what we are, and who and what we want to become. 
