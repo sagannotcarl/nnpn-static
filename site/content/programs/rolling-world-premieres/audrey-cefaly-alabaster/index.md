@@ -47,7 +47,7 @@ POSTPONED\
 Long Branch, NJ
 
 [**Oregon Contemporary Theatre**](https://www.octheatre.org/)\
-October 21 - November 7, 2020\
+POSTPONED\
 Eugene, OR
 
 [**Salt Lake Acting Company**](https://www.saltlakeactingcompany.org/)\
