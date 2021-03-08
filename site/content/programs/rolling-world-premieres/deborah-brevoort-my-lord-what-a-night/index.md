@@ -14,7 +14,7 @@ type: "rolling_premier"
 Shepherdstown, WV
 
 [**Orlando Shakes**](https://www.orlandoshakes.org/show/my-lord-what-a-night/)\
-POSTPONED\
+Presented by video on demand February 3-14, 2021\
 Orlando, FL
 
 Third partner theater TBA
