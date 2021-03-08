@@ -23,13 +23,6 @@ POSTPONED\
 Ogden, UT
 
 [**Contemporary American Theater Festival**](https://catf.org/babel-by-jacqueline-goldfinger/)\
-POSTPONED: 2021 Season\
+POSTPONED\
 Shepherdstown, WV
-
-[**Passage Theatre**](https://passagetheatre.org/)\
-2020-21 Season\
-Trenton, NJ
-
-**6th Member Theater TBA** (pending season announcement)\
-Winter 2020-21
 
