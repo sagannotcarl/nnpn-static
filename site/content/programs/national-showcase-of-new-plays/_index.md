@@ -19,4 +19,4 @@ Core and Associate [Member Theaters](http://nnpn.org/member-theaters/), Affiliat
 
 Prospective Member Theaters, the [Ambassadors Council](http://nnpn.org/about/ambassadors-council/), [Affiliated Artists](http://nnpn.org/affiliated-artists/), and other industry professionals are invited to join our Core and Associate Members at the Showcase. More than 90% of the plays featured in Showcase have received a production within the next three seasons, many of them supported as NNPN Rolling World Premieres.
 
-The 2020 Showcase will take place virtually from November 19-22. Visit the virtual playbill site to find out more and register [here](https://sites.google.com/view/nsnp-2020/home?authuser=0). 
+The 2020 Showcase  took place virtually from November 19-22. Visit the virtual playbill site to find out more [here](https://sites.google.com/view/nsnp-2020/home?authuser=0). 
