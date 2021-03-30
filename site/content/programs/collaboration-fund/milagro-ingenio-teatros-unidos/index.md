@@ -2,7 +2,7 @@
 title: "Milagro"
 image: "ingenio-2020-logo.png"
 link: "milagro.org"
-current: "true"
+current: "false"
 related:
 - Collaboration Fund
 ---
