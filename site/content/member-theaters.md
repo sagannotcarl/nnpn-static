@@ -134,6 +134,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Theatre Lab](http://fau.edu/artsandletters/theatrelab/) *Boca Raton, FL*
 - [Theatre NOVA](https://www.theatrenova.org/) *Ann Arbor, MI*
 - [Thrown Stone Theatre Company](http://thrownstone.org/) *Ridgefield, CT*
+- [TuYo Theatre](https://www.tuyotheatre.org/) *San Diego, CA*
 - [Vermont Stage Company](http://www.vermontstage.org/) *Burlington, VT*
 - [Weston Playhouse Theatre Company](https://www.westonplayhouse.org/) *Weston, VT*
 - [Williamston Theatre](http://www.williamstontheatre.com/) *Williamston, MI*
