@@ -46,7 +46,7 @@ An organization driven and governed by its members, National New Play Network (N
 
 - [59E59 Theaters](https://www.59e59.org/) *New York, NY*
 - [Alleyway Theatre](http://alleyway.com/) *Buffalo, NY*
-- [American Theater Group](https://www.americantheatergroup.org/) *Basking Ridge, NJ*
+- [American Theater Group](https://www.americantheatergroup.org/) *East Brunswick, NJ*
 - [American Shakespeare Center](https://americanshakespearecenter.com/) *Staunton, VA*
 - [Amphibian Stage Productions](http://www.amphibianstage.com/) *Fort Worth, TX*
 - [Artists Repertory Theatre](http://www.artistsrep.org/) *Portland, OR*
