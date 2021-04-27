@@ -1,9 +1,12 @@
 ---
-title:          "Annual Conference 2020"
-identifier:     "AC-2020"
+title:      "Annual Conference 2020"
+identifier: "AC-2020"
 image:      "2020BannerV3.png"
-
+menu:
+  main:
+    parent:     "Programs"
 ---
+
 
 In 2020, we ask the question: **How can theater become essential to our communities?**
 
