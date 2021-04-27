@@ -1,6 +1,6 @@
 ---
-title:          "Bridge Program"
-identifier:     "bridge-program"
+title:          "Annual Conference 2020"
+identifier:     "AC-2020"
 image:      "2020BannerV3.png"
 
 ---
