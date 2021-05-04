@@ -11,7 +11,7 @@ weight:       4
 
 You can also follow us on [Twitter](//twitter.com/#!/NewPlayNetwork) and [Facebook](//www.facebook.com/pages/national-new-play-network/105667195944).
 
-Our mailing address is **National New Play Network**, P.O. Box 1692, Lake Worth Beach, FL 33460
+Our mailing address is **National New Play Network** P.O. Box 1692 | Lake Worth Beach, FL 33460
 
 - Executive Director [Nan Barnett](mailto:nan@nnpn.org) (she/her): 202.312.5270
 - Administrative Coordinator [Rose Figueroa](mailto:rose@nnpn.org) (she/her)
