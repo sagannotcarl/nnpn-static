@@ -7,5 +7,5 @@ related:
 - Commissions
 ---
 
-San Diego REPertory Theatre
+San Diego Repertory Theatre
 
