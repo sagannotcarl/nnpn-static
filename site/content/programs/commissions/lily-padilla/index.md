@@ -2,10 +2,10 @@
 title: "Lily Padilla"
 image: "lily_padilla.jpg"
 link: "newplayexchange.org/users/14089/lily-padilla"
-current: "true"
+current: "false"
 related:
 - Commissions
 ---
 
-San Diego REPertory Theatre, *Gifted and Talented*
+San Diego REPertory Theatre
 
