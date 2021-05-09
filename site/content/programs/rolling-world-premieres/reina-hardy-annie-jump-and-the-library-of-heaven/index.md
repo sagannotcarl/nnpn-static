@@ -3,7 +3,7 @@ title: "Reina Hardy"
 image: "reina_hardy.jpg"
 link: "newplayexchange.org/users/223/reina-hardy"
 current: "true"
-promoted: "false"
+promoted: "true"
 related:
 - Rolling World Premieres
 play: "Annie Jump and the Library of Heaven"
@@ -17,5 +17,5 @@ Milwaukee, WI
 Washington, DC
 
 [**The VORTEX**](http://vortexrep.org/30_homeward)\
-POSTPONED\
+June 4-July 3, 2021\
 Austin, TX
