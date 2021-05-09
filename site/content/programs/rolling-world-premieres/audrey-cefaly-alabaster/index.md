@@ -3,7 +3,7 @@ title: "Audrey Cefaly"
 image: "Audrey Cefaly_10.4.18.jpg"
 link: "newplayexchange.org/users/962/audrey-cefaly"
 current: "true"
-promoted: "false"
+promoted: "true"
 related:
 - Rolling World Premieres
 play: "Alabaster"
@@ -34,13 +34,17 @@ Austin, TX
 February 27 - April 4, 2020\
 Cincinnati, OH
 
+[**Salt Lake Acting Company**](https://www.saltlakeactingcompany.org/)\
+Streaming May 10-30, 2021\
+Salt Lake City, UT
+
+[**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
+October 8-30, 2021\
+Indianapolis, IN
+
 [**Williamston Theatre**](http://www.williamstontheatre.org/alabaster)\
 POSTPONED\
 Williamston, MI
-
-[**Phoenix Theatre**](https://www.phoenixtheatre.org/201920-phoenix-theatre-season/2020/3/1/alabaster)\
-POSTPONED\
-Indianapolis, IN
 
 [**New Jersey Repertory Company**](http://www.njrep.org/index.htm)\
 POSTPONED\
@@ -49,7 +53,3 @@ Long Branch, NJ
 [**Oregon Contemporary Theatre**](https://www.octheatre.org/)\
 POSTPONED\
 Eugene, OR
-
-[**Salt Lake Acting Company**](https://www.saltlakeactingcompany.org/)\
-POSTPONED\
-Salt Lake City, UT
