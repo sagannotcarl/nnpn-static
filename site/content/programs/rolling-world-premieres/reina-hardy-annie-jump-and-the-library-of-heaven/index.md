@@ -11,11 +11,13 @@ type: "rolling_premier"
 ---
 
 [**Renaissance Theaterworks**](http://r-t-w.com/assets/renaissance-anniejump-.pdf)\
+March 30 - April 21, 2019\
 Milwaukee, WI
 
-[**Rorschach Theatre**](https://rorschachtheatre.com/2019/03/03/annie-jump-and-the-library-of-heaven-opens-april-2019/)\
+[**Rorschach Theatre**](https://rorschachtheatre.com/annie-jump-and-the-library-of-heaven/)\
+April 19 - May 19, 2019\
 Washington, DC
 
 [**The VORTEX**](http://vortexrep.org/33_annie-jump-2021)\
-June 4-July 3, 2021\
+June 4 - July 3, 2021\
 Austin, TX
