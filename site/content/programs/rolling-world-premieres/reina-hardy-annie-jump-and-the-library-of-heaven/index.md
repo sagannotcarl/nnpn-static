@@ -16,6 +16,6 @@ Milwaukee, WI
 [**Rorschach Theatre**](https://rorschachtheatre.com/2019/03/03/annie-jump-and-the-library-of-heaven-opens-april-2019/)\
 Washington, DC
 
-[**The VORTEX**](http://vortexrep.org/30_homeward)\
+[**The VORTEX**](http://vortexrep.org/33_annie-jump-2021)\
 June 4-July 3, 2021\
 Austin, TX
