@@ -1,6 +1,6 @@
 ---
 title: "Heil"
-name_override: "Kim Heil"
+name_override: "Kim Montelibano Heil"
 image: "Kim.Heil.jpeg"
 current: "true"
 related:
