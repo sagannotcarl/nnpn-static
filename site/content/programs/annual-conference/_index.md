@@ -40,7 +40,7 @@ How can innovations created or deepened during the past year lead to greater eng
 **Centering the Audience During Leadership Change** <br>
 Leadership shifts can be important times for audience development. How can new leaders keep their audiences front of mind?
 
-**Creating Buy-In of Mission Among Donors and Board**
+**Creating Buy-In of Mission Among Donors and Board** <br>
 The Board of Directors has fiduciary oversight - but how can empowering them to "own" the mission increase investment and engagement?
  
 ### CLOSING PLENARY: Repositioning Theaters as Community Service Organizations ###
