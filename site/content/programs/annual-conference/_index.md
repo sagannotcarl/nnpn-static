@@ -13,7 +13,7 @@ related:
 ---
 <span class=lead-in>As patrons return to the theater, how can we Grow Forward to meet them?</span>
 
-The American theater's audiences are made of full humans. More than “butts in seats” and names on a donor page, what if we deepen our relationships with our communities so that they are truly mutually beneficial? How can audiences become invested co-creators in our missions, visions, and values?
+The American theater's audiences are made of full humans. More than “butts in seats” and names on a donor page, how can our relationships with our communities be deepened and made truly mutually beneficial? How can audiences become invested co-creators in our missions, visions, and values?
 
 How can we transform transactional relationships into vibrant partnerships as we grow forward toward a more equitable, robust, and responsive American theater?
 
