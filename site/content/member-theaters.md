@@ -55,7 +55,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Bloomington Playwrights Project](https://newplays.org/) *Bloomington, IN*
 - [The BLUEBARN Theatre](http://bluebarn.org/) *Omaha, NE*
 - [Boston Court Pasadena](http://www.bostoncourt.com/) *Pasadena, CA*
-- [Boulder Ensemble Theatre Company](http://betc.org/) *Boulder, CO*
+- [Buttefly Effect Theatre of Colorado](http://betc.org/) *Boulder, CO*
 - [Capital Repertory Theatre](https://capitalrep.org/) *Albany, NY*
 - [Capital Stage Company](https://capstage.org/) *Sacramento, CA*
 - [Centenary Stage Company](http://www.centenarystageco.org/) *Hackettstown, NJ*
