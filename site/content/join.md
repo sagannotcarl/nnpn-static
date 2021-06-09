@@ -28,7 +28,7 @@ Associate Member benefits include:
 - Participation in all Member Chats and Pitch Sessions
 - A free Organization subscription on the New Play Exchange®
 
-For more on the process of applying for Associate Membership, please contact jordana@nnpn.org.
+For more on the process of applying for Associate Membership, please contact Rose Figueroa at [rose@nnpn.org](mailto:rose@nnpn.org).
 
 ### CORE MEMBERSHIP
 
