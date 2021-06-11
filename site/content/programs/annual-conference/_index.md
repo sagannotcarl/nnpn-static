@@ -46,4 +46,4 @@ The Board of Directors has fiduciary oversight - but how can empowering them to 
 ### CLOSING PLENARY: Repositioning Theaters as Community Service Organizations ###
 What does it look like to reimagine how an arts institution defines, listens to, and creates work by, for, about, and with its audiences?
 
-For more information about attending the Annual Conference, please [contact us](mailto:jess@nnpn.org).
+For more information about attending the Annual Conference, please [register here](hopin.com/events/national-new-play-network-annual-conference-growing-forward-transcending-the-transactional).
