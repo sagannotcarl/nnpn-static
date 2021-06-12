@@ -15,12 +15,14 @@ Help us create a robust, equitable ecology for new plays and a supportive, vital
 
 ## Ways to Support
 
-  - Use the form on this page to securely support NNPN with a one-time or monthly recurring gift. You'll receive a tax receipt and acknowledgement of your gift via email.
-  - Send a check to: National New Play Network, c/o Nan Barnett, 365 Gregory Rd, West Palm Beach, FL 33405
-  - Executive Director Nan Barnett would be delighted to talk with you about other ways you can support our work. You can reach her at nan@nnpn.org or by calling 202.312.5270.
+National New Play Network is grateful for the time, talent, and treasure that our community contributes to ensure the future of our organization. If you're curious about how best to get involved or contribute to our work, Engagement Director Jess Hutchinson would be delighted to have a conversation with you. Contact her at [jess@nnpn.org](jess@nnpn.org) or 773.329.7803. 
+
+Right now, as we approach the end of our fiscal year on June 30, we are asking you to help us Grow Forward and enter the next year strong by becoming Sustaining Donors by creating a monthly gift. If you are able to give at $15/month or more, you'll receive our first-ever donor tote bag as a token of our gratitude. 
+
+Join us here:
 
 {{< donate >}}
 
 
 
-_National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. If this gift is intended for a specific NNPN program, please email or call Jordana Fraider, Programs Director at jordana@nnpn.org/310-422-0472. Thanks for the love!_
+_National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. To talk about supporting a specific NNPN program, please email or call Jess Hutchinson, Engagement Director at [jess@nnpn.org](mailto:jess@nnpn.org) / 773.329.7803._
