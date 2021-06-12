@@ -19,10 +19,7 @@ National New Play Network is grateful for the time, talent, and treasure that ou
 
 Right now, as we approach the end of our fiscal year on June 30, we are asking you to help us Grow Forward and enter the next year strong by becoming Sustaining Donors by creating a monthly gift. If you are able to give at $15/month or more, you'll receive our first-ever donor tote bag as a token of our gratitude. 
 
-Join us here:
 
-{{< donate >}}
-
-
+Join us [here](https://secure.givelively.org/donate/national-new-play-network-ltd/nnpn-monthly-sustaining-donors)
 
 _National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. To talk about supporting a specific NNPN program, please email or call Jess Hutchinson, Engagement Director at [jess@nnpn.org](mailto:jess@nnpn.org) / 773.329.7803._
