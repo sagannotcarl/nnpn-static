@@ -27,7 +27,7 @@ Featuring the following new(ish)-to-NNPN playwright-performers recommended by cu
 [**Nelson Diaz-Marcano**](https://newplayexchange.org/users/10377/nelson-diaz-marcano) - recommended by [Blayze Teischer](https://newplayexchange.org/users/46971/blayze-teicher)\
 [**Kristen I. Spencer**](https://kristenispencer.com/) - [Ken Weitzman](https://newplayexchange.org/users/435/ken-weitzman)\
 [**travis tate**](https://newplayexchange.org/users/1086/travis-tate) - [Hannah Wolf](https://newplayexchange.org/users/5414/hannah-wolf)\
-[**Scott C. Sickles**](https://newplayexchange.org/users/2036/scott-sickles) - [Dave Osmundsend](https://newplayexchange.org/users/1889/dave-osmundsen)\
+[**Scott C. Sickles**](https://newplayexchange.org/users/2036/scott-sickles) - [Dave Osmundsen](https://newplayexchange.org/users/1889/dave-osmundsen)\
 [**Taji Senior**](https://www.tajisenior.com/) - [Adrienne Dawes](https://newplayexchange.org/users/864/adrienne-dawes)\
 [**Kimberly Dixon-Mayes**](https://newplayexchange.org/users/15321/kimberly-dixon-mays) - [Mia McCullough](https://newplayexchange.org/users/200/mia-mccullough)\
 [**Gamal Chasten**](http://www.universesonstage.com/about_us/gamal_chasten/index.html) - [Jess Hutchinson](https://newplayexchange.org/users/311/jess-hutchinson) & [Jordana Fraider](https://newplayexchange.org/users/1527/jordana-fraider)\
