@@ -19,7 +19,20 @@ How can we transform transactional relationships into vibrant partnerships as we
 
 National New Play Network's 2021 Annual Conference aims to explore these questions, provoke still others, and share the expertise, curiosity, and dream building occurring within and just adjacent to our community of new play makers and lovers nationwide.
 
-Planned sessions for our June 12th conference day include:
+We kicked off the Conference on June 11 with a:
+
+### PLAYWRIGHT SLAM ###
+Featuring the following new(ish)-to-NNPN playwright-performers recommended by current Affiliated Artists:
+[**Nelson Diaz-Marcano**](https://newplayexchange.org/users/10377/nelson-diaz-marcano) - recommended by [Blayze Teischer](https://newplayexchange.org/users/46971/blayze-teicher)\
+[**Kristen I. Spencer**](https://kristenispencer.com/) - [Ken Weitzman](https://newplayexchange.org/users/435/ken-weitzman)\
+[**travis tate**](https://newplayexchange.org/users/1086/travis-tate) - [Hannah Wolf](https://newplayexchange.org/users/5414/hannah-wolf)\
+[**Scott C. Sickles**](https://newplayexchange.org/users/2036/scott-sickles) - [Dave Osmundsend](https://newplayexchange.org/users/1889/dave-osmundsen)\
+[**Taji Senior**](https://www.tajisenior.com/) - [Adrienne Dawes](https://newplayexchange.org/users/864/adrienne-dawes)\
+[**Kimberly Dixon-Mayes**](https://newplayexchange.org/users/15321/kimberly-dixon-mays) - [Mia McCullough](https://newplayexchange.org/users/200/mia-mccullough)\
+[**Gamal Chasten**](http://www.universesonstage.com/about_us/gamal_chasten/index.html) - [Jess Hutchinson](https://newplayexchange.org/users/311/jess-hutchinson) & [Jordana Fraider](https://newplayexchange.org/users/1527/jordana-fraider)\
+[**Megan Tabaque**](https://newplayexchange.org/users/5090/megan-tabaque) - [Drew Paryzer](https://newplayexchange.org/users/14685/drew-paryzer)
+
+Sessions for our June 12th conference day included:
 
 ### OPENING PLENARY: Decolonizing Theater's Relationship with Audiences ###
 What do non-extractive, anti-racist, and interdependent relationships with audience, community, and the land look like?
