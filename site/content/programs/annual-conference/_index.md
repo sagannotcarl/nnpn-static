@@ -23,6 +23,7 @@ We kicked off the Conference on June 11 with a:
 
 ### PLAYWRIGHT SLAM ###
 Featuring the following new(ish)-to-NNPN playwright-performers recommended by current Affiliated Artists:
+
 [**Nelson Diaz-Marcano**](https://newplayexchange.org/users/10377/nelson-diaz-marcano) - recommended by [Blayze Teischer](https://newplayexchange.org/users/46971/blayze-teicher)\
 [**Kristen I. Spencer**](https://kristenispencer.com/) - [Ken Weitzman](https://newplayexchange.org/users/435/ken-weitzman)\
 [**travis tate**](https://newplayexchange.org/users/1086/travis-tate) - [Hannah Wolf](https://newplayexchange.org/users/5414/hannah-wolf)\
