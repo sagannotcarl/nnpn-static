@@ -15,7 +15,7 @@ Our mailing address is **National New Play Network** P.O. Box 1692 | Lake Worth 
 
 - Executive Director [Nan Barnett](mailto:nan@nnpn.org) (she/her): 202.312.5270
 - Administrative Coordinator [Rose Figueroa](mailto:rose@nnpn.org) (she/her)
-- Programs Director [Jordana Fraider](mailto:jordana@nnpn.org) (she/her): 310.422.0472
+- Programs Director [Anne Morgan](mailto:anne@nnpn.org) (she/her)
 - Engagement Director [Jess Hutchinson](mailto:jess@nnpn.org) (she/her)
 - Communications Associate [Monica Montoya](mailto:monica@nnpn.org) (she/her)
 - New Play Exchange Director [Gwydion Suilebhan](mailto:gwydion@nnpn.org) (he/him)
