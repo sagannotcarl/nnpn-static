@@ -22,4 +22,4 @@ Executive Director Nan Barnett would be delighted to talk with you about other w
 
 {{< donate >}}
 
-National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. If this gift is intended for a specific NNPN program, please email or call Jordana Fraider, Engagement Director at [jess@nnpn.org](mailto:jess@nnpn.org)/773.329.7803.
+National New Play Network is a 501(c)3 non-profit organization, so all donations made to NNPN are tax-deductible to the extent allowed by law. Unless specified, all donations will go toward general operating support. If this gift is intended for a specific NNPN program, please email or call Jess Hutchinson, Engagement Director at [jess@nnpn.org](mailto:jess@nnpn.org)/773.329.7803.
