@@ -25,7 +25,7 @@ We aim to be responsive to the issues around us so that we can best advance and 
 
 - All funds for **current projects** were released and reporting deadlines extended
   
-For more information about on-going adjustments to Programs, please contact [Jordana Fraider](mailto:jordana@nnpn.org). 
+For more information about on-going adjustments to Programs, please contact [Anne Morgan](mailto:anne@nnpn.org). 
 
 Additionally, NNPN is hosting **weekly check-in meetings** via Zoom for Member Theater Staff with additional check-ins for Affiliated Artists, Ambassadors, Board and other ad-hoc groups as needed. If you would like more information about these sessions, please contact [Jess Hutchinson](mailto:jess@nnpn.org).
 
