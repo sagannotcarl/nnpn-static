@@ -6,3 +6,5 @@ current: "true"
 related:
 - National Directors Fellowship
 ---
+
+**Magic Theatre** (San Francisco, CA)
