@@ -6,3 +6,5 @@ current: "true"
 related:
 - National Directors Fellowship
 ---
+
+**Passage Theatre Company** (Trenton, NJ)
