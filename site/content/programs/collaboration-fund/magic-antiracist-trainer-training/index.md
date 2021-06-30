@@ -2,7 +2,7 @@
 title: "Magic Theatre"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
 link: "magictheatre.org/"
-current: "false"
+current: "true"
 related:
 - Collaboration Fund
 ---
