@@ -19,5 +19,5 @@ April 19 - May 19, 2019\
 Washington, DC
 
 [**The VORTEX**](http://vortexrep.org/33_annie-jump-2021)\
-June 4 - July 3, 2021\
+June 3 - July 4, 2021\
 Austin, TX
