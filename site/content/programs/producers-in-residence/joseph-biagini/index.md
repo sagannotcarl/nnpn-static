@@ -2,7 +2,7 @@
 title: "Joseph Biagini"
 image: "joseph_w._biagini.jpg"
 link: "newplayexchange.org/users/35126/joseph-biagini"
-current: "true"
+current: "false"
 related:
 - Producers in Residence
 ---
