@@ -2,7 +2,7 @@
 title: "Orlando Shakes"
 image: "nnpn_logo_violet_web_icon_128x128_640x612.jpg"
 link: "orlandoshakes.org"
-current: "true"
+current: "false"
 related:
 - Collaboration Fund
 ---
