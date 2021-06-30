@@ -2,7 +2,7 @@
 title: "InterAct Theatre Company"
 image: "Reina-Hardy.jpg"
 link: "www.interacttheatre.org/"
-current: "true"
+current: "false"
 related:
 - Collaboration Fund
 ---
