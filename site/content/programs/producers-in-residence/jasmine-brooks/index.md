@@ -2,7 +2,7 @@
 title: "Jasmine Brooks"
 image: "Jasmine-Brooks.jpg"
 link: "newplayexchange.org/users/16133/jasmine-brooks"
-current: "true"
+current: "false"
 related:
 - Producers in Residence
 ---
