@@ -2,7 +2,7 @@
 title: "Jacqueline Flores"
 image: "jacqueline-flores.jpg"
 link: "newplayexchange.org/users/47410/jacqueline-flores"
-current: "true"
+current: "false"
 related:
 - Producers in Residence
 ---
