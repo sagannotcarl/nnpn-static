@@ -2,7 +2,7 @@
 title: "Haley Nelson"
 image: "haley_nelson.jpg"
 link: "newplayexchange.org/users/14727/haley-nelson"
-current: "true"
+current: "false"
 related:
 - Producers in Residence
 ---
