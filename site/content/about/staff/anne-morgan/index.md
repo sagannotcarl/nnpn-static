@@ -1,13 +1,13 @@
 ---
 title:          "2Morgan"
-name_override:  "Anne Morgan"
+name_override:  "Anne G. Morgan"
 image:          "DSC_0180.jpg"
 current:        "true"
 related:
 - Staff
 ---
 
-### Incoming Programs Director
+### Programs Director
 
 [Anne G. Morgan](https://newplayexchange.org/users/531/anne-g-morgan) (she/her/hers) is a dramaturg, literary manager and new play advocate based in Staunton, VA. She received the 2019 Elliott Hayes Award for Outstanding Achievement in Dramaturgy for her work on Shakespeare’s New Contemporaries, the American Shakespeare Center’s groundbreaking new play initiative. While at ASC, Anne dramaturged new plays by Mary Elizabeth Hamilton, Anchuli Felicia King, Emma Whipday, and Amy E. Witting.
 
