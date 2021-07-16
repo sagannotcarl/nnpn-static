@@ -19,4 +19,4 @@ Cleveland, OH
 
 [**Milagro**](https://milagro.org/)\
 POSTPONED\
-Porltand, OR
+Portland, OR
