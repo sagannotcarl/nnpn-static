@@ -2,7 +2,7 @@
 title:          "2Fraider"
 name_override:  "Jordana Fraider"
 image:          "csh_9976.jpg"
-current:        "true"
+current:        "false"
 related:
 - Staff
 ---
