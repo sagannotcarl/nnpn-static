@@ -61,7 +61,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Centenary Stage Company](http://www.centenarystageco.org/) *Hackettstown, NJ*
 - [CenterStage Theatre at the JCC](https://jccrochester.org/centerstage) *Rochester, NY*
 - [Central Works Theater Company](http://www.centralworks.org/) *Berkeley, CA*
-- [City Theatre](http://citytheatre.com/pages/) *Miami, FL*
+- [City Theatre](http://citytheatre.com/) *Miami, FL*
 - [Company of Fools](https://sunvalleycenter.org/companyoffools/) *Hailey, ID*
 - [Crowded Fire Theater Company](http://www.crowdedfire.org/) *San Francisco, CA*
 - [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
