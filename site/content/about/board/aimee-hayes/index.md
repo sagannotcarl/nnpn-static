@@ -10,4 +10,4 @@ related:
 *she/her/hers* <br>
 Director
 
-learn more about Aimée [here]("https://newplayexchange.org/users/59394/aim%C3%A9e-hayes")
+learn more about Aimée [here]("newplayexchange.org/users/59394/aim%C3%A9e-hayes")
