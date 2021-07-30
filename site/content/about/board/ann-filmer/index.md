@@ -8,4 +8,4 @@ related:
 ---
 
 
-Director and Producer
+Director
