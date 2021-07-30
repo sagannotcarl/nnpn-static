@@ -2,7 +2,7 @@
 title: "Rosario"
 name_override: "Lynde Rosario"
 image: "Lynde-Rosario.jpg"
-current: "true"
+current: "false"
 related:
 - Board of Directors
 ---
