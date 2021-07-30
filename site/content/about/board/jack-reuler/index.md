@@ -7,5 +7,5 @@ related:
 - Board of Directors
 ---
 
-Treasurer - Executive Committee </br>
+Treasurer - Executive Committee <br>
 Artistic Director, Mixed Blood Theatre
