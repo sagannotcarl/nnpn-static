@@ -5,7 +5,7 @@ image:
 menu:
   main:
     parent:     "About"
-  programs:
+  about:
 weight:     10
 type:           "about"
 current_label:  "Current Opportunities"
