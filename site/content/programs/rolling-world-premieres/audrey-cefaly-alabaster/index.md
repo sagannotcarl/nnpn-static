@@ -3,7 +3,7 @@ title: "Audrey Cefaly"
 image: "Audrey Cefaly_10.4.18.jpg"
 link: "newplayexchange.org/users/962/audrey-cefaly"
 current: "true"
-promoted: "true"
+promoted: "false"
 related:
 - Rolling World Premieres
 play: "Alabaster"
