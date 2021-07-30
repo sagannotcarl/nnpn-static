@@ -9,11 +9,14 @@ identifier:               "home"
 - Actor’s Express
 - Actor’s Theatre of Charlotte
 - B Street Theatre
+- The Black Rep
+- Cara Mía Theater
 - City Theatre Company
 - Cleveland Public Theatre
 - Company One Theatre
 - Contemporary American Theater Festival
 - Curious Theatre Company
+- East West Players
 - Florida Studio Theatre
 - Fountain Theatre
 - Horizon Theatre Company
@@ -33,6 +36,9 @@ identifier:               "home"
 - San Diego REPertory Theatre
 - Silk Road Rising
 - Southern Rep Theatre
+- Teatro Luna West
+- Theater Alliance
+- True Colors Theatre Company
 - Unicorn Theatre
 - The VORTEX
 - Woolly Mammoth Theatre Company
