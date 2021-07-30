@@ -13,11 +13,14 @@ An organization driven and governed by its members, National New Play Network (N
 - [Actor’s Express](http://www.actors-express.com/) *Atlanta, GA*
 - [Actor’s Theatre of Charlotte](https://atcharlotte.org/) *Charlotte, NC*
 - [B Street Theatre](http://bstreettheatre.org/) *Sacramento, CA*
+- [The Black Rep](https://www.theblackrep.org/) *St. Louis, MO*
+- [Cara Mía Theatre](https://www.caramiatheatre.org/) *Dallas, TX*
 - [City Theatre Company](http://www.citytheatrecompany.org/) *Pittsburgh, PA*
 - [Cleveland Public Theatre](http://www.cptonline.org/) *Cleveland, OH*
 - [Company One Theatre](https://companyone.org/) *Boston, MA*
 - [Contemporary American Theater Festival](http://catf.org/) *Shepherdstown, WV*
 - [Curious Theatre Company](https://www.curioustheatre.org/) *Denver, CO*
+- [East West Players](https://eastwestplayers.org/) *Los Angeles, CA*
 - [Florida Studio Theatre](https://www.floridastudiotheatre.org/) *Sarasota, FL*
 - [Fountain Theatre](http://www.fountaintheatre.com/) *Los Angeles, CA*
 - [Horizon Theatre Company](https://www.horizontheatre.com/) *Atlanta, GA*
@@ -37,6 +40,9 @@ An organization driven and governed by its members, National New Play Network (N
 - [San Diego Repertory Theatre](http://www.sdrep.org/) *San Diego, CA*
 - [Silk Road Rising](https://www.silkroadrising.org/) *Chicago, IL*
 - [Southern Rep Theatre](http://www.southernrep.com/) *New Orleans, LA*
+- [Teatro Luna West](https://teatroluna.org/) *Los Angeles, CA*
+- [Theater Alliance](https://theateralliance.com/) *Washington, D.C.*
+- [True Colors Theatre Company](https://truecolorstheatre.org/) *Atlanta, GA*
 - [Unicorn Theatre](https://unicorntheatre.org/) *Kansas City, MO*
 - [The VORTEX](http://vortexrep.org/) *Austin, TX*
 - [Woolly Mammoth Theatre Company](https://www.woollymammoth.net/) *Washington, DC*
@@ -128,7 +134,6 @@ An organization driven and governed by its members, National New Play Network (N
 - [The NOLA Project](http://www.nolaproject.com/) *New Orleans, LA*
 - [The Victory Theatre Center](https://www.thevictorytheatrecenter.org/) *Burbank, CA*
 - [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
-- [Theater Alliance](http://www.theateralliance.com/) *Washington, DC*
 - [Theater J](http://washingtondcjcc.org/center-for-arts/theater-j/) *Washington, DC*
 - [Theatre 3](https://www.theatre3dallas.com/) *Dallas, TX*
 - [Theatre Exile](http://www.theatreexile.org/) *Philadelphia, PA*
