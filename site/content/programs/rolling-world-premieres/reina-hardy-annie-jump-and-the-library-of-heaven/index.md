@@ -2,8 +2,8 @@
 title: "Reina Hardy"
 image: "reina_hardy.jpg"
 link: "newplayexchange.org/users/223/reina-hardy"
-current: "true"
-promoted: "true"
+current: "false"
+promoted: "false"
 related:
 - Rolling World Premieres
 play: "Annie Jump and the Library of Heaven"
