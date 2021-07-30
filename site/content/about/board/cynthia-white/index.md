@@ -7,4 +7,4 @@ related:
 - Board of Directors
 ---
 
-Director and Dramaturg
+Director
