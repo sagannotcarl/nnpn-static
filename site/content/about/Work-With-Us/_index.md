@@ -14,5 +14,5 @@ related:
 - Work With Us
 ---
 
-NNPN does not currently have any employment openings. Future opportunities will be posted here!
+Future opportunities will be posted here!
 
