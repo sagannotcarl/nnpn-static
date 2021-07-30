@@ -7,4 +7,5 @@ related:
 - Board of Directors
 ---
 
-Ambassador
+
+Director
