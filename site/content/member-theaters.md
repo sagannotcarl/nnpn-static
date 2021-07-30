@@ -91,7 +91,6 @@ An organization driven and governed by its members, National New Play Network (N
 - [Lower Depth Theatre Ensemble](https://www.lower-depth.com/) *Los Angeles, CA*
 - [Merrimack Repertory Theatre](https://mrt.org/) *Lowell, MA*
 - [Milwaukee Repertory Theater](http://www.milwaukeerep.com/) *Milwaukee, WI*
-- [Minnesota Jewish Theater Company](http://mnjewishtheatre.org/) *St. Paul, MN*
 - [Moving Arts](http://movingarts.org/) *Los Angeles, CA*
 - [Moxie Theatre](http://www.moxietheatre.com/) *San Diego, CA*
 - [Native Voices at the Autry](https://theautry.org/native-voices/theatre-native-voices) *Los Angeles, CA*
@@ -125,6 +124,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Shadowland Stages](https://shadowlandstages.org/) *Ellenville, NY*
 - [Shrewd Productions](http://www.shrewdproductions.com/) *Austin, TX*
 - [Simpatico Theatre](https://www.simpaticotheatre.org/) *Philadelphia, PA*
+- [Six Points Theater](http://mnjewishtheatre.org/) *St. Paul, MN*
 - [Skylight Theatre Company](http://skylighttheatrecompany.com/) *Los Angeles, CA*
 - [South Coast Repertory](http://www.scr.org/) *Costa Mesa, CA*
 - [Stageworks](http://stageworkstheatre.org/) *Tampa, FL*
