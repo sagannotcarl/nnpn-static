@@ -2,7 +2,7 @@
 title: "7Bobgan"
 name_override: "Raymond Bobgan"
 image: "Raymond-Bobgan.jpg"
-current: "true"
+current: "false"
 related:
 - Board of Directors
 ---
