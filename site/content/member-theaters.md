@@ -68,7 +68,6 @@ An organization driven and governed by its members, National New Play Network (N
 - [CenterStage Theatre at the JCC](https://jccrochester.org/centerstage) *Rochester, NY*
 - [Central Works Theater Company](http://www.centralworks.org/) *Berkeley, CA*
 - [City Theatre](http://citytheatre.com/) *Miami, FL*
-- [Company of Fools](https://sunvalleycenter.org/companyoffools/) *Hailey, ID*
 - [Crowded Fire Theater Company](http://www.crowdedfire.org/) *San Francisco, CA*
 - [Cumberland County Playhouse](http://www.ccplayhouse.com/) *Crossville, TN*
 - [DCPA Theatre Company](https://www.denvercenter.org) *Denver, CO*
@@ -88,6 +87,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [IAMA Theatre Company](http://www.iamatheatre.com/) *Van Nuys, CA*
 - [Island City Stage](http://www.islandcitystage.org/) *Wilton Manors, FL*
 - [Know Theatre of Cincinnati](http://knowtheatre.com/) *Cincinnati, OH*
+- [The liberty Theatre Company](https://www.libertytheatrecompany.org/) *Hailey, ID*
 - [Lower Depth Theatre Ensemble](https://www.lower-depth.com/) *Los Angeles, CA*
 - [Merrimack Repertory Theatre](https://mrt.org/) *Lowell, MA*
 - [Milwaukee Repertory Theater](http://www.milwaukeerep.com/) *Milwaukee, WI*
@@ -97,6 +97,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [New Conservatory Theatre Center](https://www.nctcsf.org/) *San Francisco, CA*
 - [New Light Theater Project](http://www.NewLightTheaterProject.com) *New York, NY*
 - [NewYorkRep](https://www.newyorkrep.org/) *New York, NY*
+- [The NOLA Project](http://www.nolaproject.com/) *New Orleans, LA*
 - [Noor Theatre](http://www.noortheatre.org/) *New York, NY*
 - [Oregon Contemporary Theatre](http://www.octheatre.org/) *Eugene, OR*
 - [Out of Hand Theater](http://www.outofhandtheater.com/) *Atlanta, GA*
@@ -131,9 +132,6 @@ An organization driven and governed by its members, National New Play Network (N
 - [Su Teatro](http://www.suteatro.org/) *Denver, CO*
 - [Synchronicity Theatre](http://www.synchrotheatre.com/) *Atlanta, GA*
 - [Taproot Theatre Company](http://taproottheatre.org/) *Seattle, WA*
-- [The NOLA Project](http://www.nolaproject.com/) *New Orleans, LA*
-- [The Victory Theatre Center](https://www.thevictorytheatrecenter.org/) *Burbank, CA*
-- [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
 - [Theater J](http://washingtondcjcc.org/center-for-arts/theater-j/) *Washington, DC*
 - [Theatre 3](https://www.theatre3dallas.com/) *Dallas, TX*
 - [Theatre Exile](http://www.theatreexile.org/) *Philadelphia, PA*
@@ -142,7 +140,9 @@ An organization driven and governed by its members, National New Play Network (N
 - [Thrown Stone Theatre Company](http://thrownstone.org/) *Ridgefield, CT*
 - [TuYo Theatre](https://www.tuyotheatre.org/) *San Diego, CA*
 - [Vermont Stage Company](http://www.vermontstage.org/) *Burlington, VT*
+- [The Victory Theatre Center](https://www.thevictorytheatrecenter.org/) *Burbank, CA*
 - [Weston Playhouse Theatre Company](https://www.westonplayhouse.org/) *Weston, VT*
+- [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
 - [Williamston Theatre](http://www.williamstontheatre.com/) *Williamston, MI*
 - [Zoetic Stage](http://www.zoeticstage.org/) *Miami, FL*
 
