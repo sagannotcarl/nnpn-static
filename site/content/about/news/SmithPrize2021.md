@@ -1,5 +1,5 @@
 ---
-title: "2021 Smith Prize for Political Theater goes to Vicki Ramirez"
+title: "2021 Smith Prize for Political Theater awarded to Bernardo Cubría"
 type: "news"
 date: 2021-06-25
 ---
