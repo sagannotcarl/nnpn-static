@@ -2,6 +2,7 @@
 title:        "Notes for the Field"
 identifier:   "Notes"
 menu:         "top"
+link:         "www.notes.nnpn.org"
 weight:       3
 ---
 
