@@ -12,22 +12,6 @@ Our programs are designed to support new play makers on both the organizational 
 
 We aim to be responsive to the issues around us so that we can best advance and sustain our [Core and Associate Members](/member-theaters), [Affiliated Artists](/affiliated-artists), and the national new play sector as a whole.
 
----
-
-
-**In response to COVID-19, please note the following:**
-
-- All RWP productions and other impacted projects have been granted a **12-month extension**
-
-- All first-year 2019-20 Producers in Residence were **granted an second year on a non-competitive basis**
-
-- The 2020 and 2021 Annual Conference & Engaging Audiences Summit, as well as the 2020 National Showcase of New Plays were moved **online**
-
-- All funds for **current projects** were released and reporting deadlines extended
-  
-For more information about on-going adjustments to Programs, please contact [Anne Morgan](mailto:anne@nnpn.org). 
-
-Additionally, NNPN is hosting **weekly check-in meetings** via Zoom for Member Theater Staff with additional check-ins for Affiliated Artists, Ambassadors, Board and other ad-hoc groups as needed. If you would like more information about these sessions, please contact [Jess Hutchinson](mailto:jess@nnpn.org).
 
 ---
 
