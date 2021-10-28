@@ -24,5 +24,4 @@ You can also follow us on [Twitter](//twitter.com/#!/NewPlayNetwork) and [Facebo
 - Higher Education Partnerships Manager, New Play Exchange [Siobhan Carroll](mailto:siobhan@nnpn.org) she/her 
 - Support Specialist, New Play Exchange [Ryan-Patrick McLaughlin](mailto:support@nnpn.org) (he/him)
 
-<br></br>
 Our mailing address is **National New Play Network** P.O. Box 1692 | Lake Worth Beach, FL 33460
