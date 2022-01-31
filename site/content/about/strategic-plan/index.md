@@ -12,7 +12,7 @@ weight:     2
 
 ## National New Play Network completed its 20th year of operations in 2018. This juncture in the organization’s development was an opportune moment to interrogate who and what we are, and who and what we want to become. 
 
-### See a summary of the January 2022 Report reflecting our progress toward the goals of our Strategic Plan and Anti-Racism and Anti-Bias Commitment [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/ImpactAssessment/EeJFt2BcXp9AtZZEaQ9deS8BVZPDc41kDaIMNarQEwOE5A?e=rpjXym). And read the full report [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/ImpactAssessment/EeJFt2BcXp9AtZZEaQ9deS8BVZPDc41kDaIMNarQEwOE5A?e=MgaaiC).
+### See a summary of the January 2022 Report reflecting our progress toward the goals of our Strategic Plan and Anti-Racism and Anti-Bias Commitment [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/ImpactAssessment/Ec1uhcXGEaJLmPPcvKz1uqoBydyASMV25f5ZFindO6vNkA?e=3vJ62h). And read the full report [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/ImpactAssessment/EeJFt2BcXp9AtZZEaQ9deS8BVZPDc41kDaIMNarQEwOE5A?e=6tcbNv).
 
 Taking into consideration the major technological, political, and cultural changes shaping the Network, the American theater, and the larger world, NNPN’s Board of Directors, Core Member Theaters, and staff agreed to assess every aspect of its current operation and embrace a bold and progressive future.
 
