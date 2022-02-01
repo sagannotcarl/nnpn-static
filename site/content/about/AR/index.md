@@ -12,6 +12,8 @@ weight:     3
 
 ## National New Play Network's Anti-Racism and Anti-Bias Vision Statement
 
+### See a summary of the January 2022 Report reflecting our progress toward the goals of our Strategic Plan and Anti-Racism and Anti-Bias Commitment [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/ImpactAssessment/Ec1uhcXGEaJLmPPcvKz1uqoBydyASMV25f5ZFindO6vNkA?e=3vJ62h). And read the full report [here](https://nationalnewplaynetwork013.sharepoint.com/:b:/s/ImpactAssessment/EeJFt2BcXp9AtZZEaQ9deS8BVZPDc41kDaIMNarQEwOE5A?e=6tcbNv).
+
 For over 20 years, National New Play Network has incubated and elevated new work by creating community, fostering collaboration, and standing firm in our unshakable belief that everything is better when we all work together. 
 
 Two years ago, we strengthened our commitment to new work and to each other by dedicating our next five years to making NNPN and the new play field more equitable, diverse, and inclusive. 
