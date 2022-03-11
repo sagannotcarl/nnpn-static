@@ -93,6 +93,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Luna Stage](https://www.lunastage.org/) *West Orange, NJ*
 - [Merrimack Repertory Theatre](https://mrt.org/) *Lowell, MA*
 - [Milwaukee Repertory Theater](http://www.milwaukeerep.com/) *Milwaukee, WI*
+- [Mosaic Theater Company](https://mosaictheater.org/) *Washington, DC*
 - [Moving Arts](http://movingarts.org/) *Los Angeles, CA*
 - [Moxie Theatre](http://www.moxietheatre.com/) *San Diego, CA*
 - [Native Voices at the Autry](https://theautry.org/native-voices/theatre-native-voices) *Los Angeles, CA*
