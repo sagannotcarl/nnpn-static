@@ -84,10 +84,12 @@ An organization driven and governed by its members, National New Play Network (N
 - [Greenway Court Theatre](http://www.greenwaycourttheatre.org/) *Los Angeles, CA*
 - [Gulfshore Playhouse](http://www.gulfshoreplayhouse.org/) *Naples, FL*
 - [Halcyon Theatre](http://halcyontheatre.org/) *Chicago, IL*
+- [Hangar Theatre](https://hangartheatre.org/) *Ithaca, NY*
 - [History Theatre](http://www.historytheatre.com/) *St. Paul, MN*
 - [IAMA Theatre Company](http://www.iamatheatre.com/) *Van Nuys, CA*
 - [Island City Stage](http://www.islandcitystage.org/) *Wilton Manors, FL*
 - [Know Theatre of Cincinnati](http://knowtheatre.com/) *Cincinnati, OH*
+- [Leviathan Lab](https://leviathanlab.org/) *New York, NY*
 - [The liberty Theatre Company](https://www.libertytheatrecompany.org/) *Hailey, ID*
 - [Lower Depth Theatre Ensemble](https://www.lower-depth.com/) *Los Angeles, CA*
 - [Luna Stage](https://www.lunastage.org/) *West Orange, NJ*
