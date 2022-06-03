@@ -2,7 +2,7 @@
 title: "Candrice Jones"
 image: "Candrice-Jones.png"
 link: "newplayexchange.org/users/8068/candrice-jones"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
