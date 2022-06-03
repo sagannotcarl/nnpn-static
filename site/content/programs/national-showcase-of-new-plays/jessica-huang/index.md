@@ -2,7 +2,7 @@
 title: "Jessica Huang"
 image: "Jessica-Huang.jpg"
 link: "newplayexchange.org/users/113/jessica-huang"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
