@@ -2,7 +2,7 @@
 title: "Vera Starbard"
 image: "Vera-Starbard.jpg"
 link: "newplayexchange.org/users/3074/vera-starbard"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
