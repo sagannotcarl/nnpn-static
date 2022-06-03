@@ -2,7 +2,7 @@
 title: "Alexis Scheer"
 image: "Alexis-Scheer.jpg"
 link: "newplayexchange.org/users/1509/alexis-scheer"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
