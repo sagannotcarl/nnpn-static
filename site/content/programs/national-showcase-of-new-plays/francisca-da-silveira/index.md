@@ -2,7 +2,7 @@
 title: "Francisca Da Silveira"
 image: "Fran-Da-Silveira.jpg"
 link: "newplayexchange.org/users/15876/francisca-da-silveira"
-current: "true"
+current: "false"
 related:
 - National Showcase of New Plays
 ---
