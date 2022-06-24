@@ -33,10 +33,8 @@ identifier:               "home"
 - Prop Thtr
 - Riverside Theatre
 - Salt Lake Acting Company
-- San Diego REPertory Theatre
-- Silk Road Rising
 - Southern Rep Theatre
-- Teatro Luna West
+- Studio Luna
 - Theater Alliance
 - True Colors Theatre Company
 - Unicorn Theatre
