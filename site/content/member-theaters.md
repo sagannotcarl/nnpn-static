@@ -5,7 +5,7 @@ menu:         "main"
 weight:       -7
 ---
 
-**Find a searchable map of our current Member Theaters [here.](https://www.notes.nnpn.org/nnpn-member-theater-locator)**
+**Find a searchable map of our current Member Theaters [here.](https://www.google.com/maps/d/u/0/embed?mid=1QYHm9UhXnaP6QyXdk-pXGSkjOpH3pHOc&ehbc=2E312F)**
 
 An organization driven and governed by its members, National New Play Network (NNPN) is a community of professional, nonprofit theaters that produce and develop new work. The Network offers two levels of engagement for these companies, designated as Associate Members and Core Members. If you are interested in adding your theater company's name to either of these rosters, please [click here](http://nnpn.org/join/).
 
