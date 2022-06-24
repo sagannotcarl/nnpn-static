@@ -1,7 +1,7 @@
 ---
 title: "NNPN Add Five New Faces to its Board of Directors"
 type: "news"
-date: 2022-07-21
+date: 2022-06-21
 ---
 
 <p><span class="lead-in">National New Play Network, the country's alliance of nonprofit theaters that collaborate in innovative ways to develop, produce, and extend the life of new plays, has elected a slate of five new Directors as well as new Officers for its FY23 Board.
