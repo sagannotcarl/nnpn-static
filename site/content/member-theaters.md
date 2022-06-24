@@ -35,12 +35,10 @@ An organization driven and governed by its members, National New Play Network (N
 - [New Jersey Repertory Company](http://www.njrep.org/) *Long Branch, NJ*
 - [Orlando Shakes](https://www.orlandoshakes.org/) *Orlando, FL*
 - [Perseverance Theatre](http://www.ptalaska.org/) *Anchorage/Juneau, AK*
-- [Phoenix Theatre](https://www.phoenixtheatre.org/) *Indianapolis, IN*
+- [Phoenix Theatre Cultural Centre](https://www.phoenixtheatre.org/) *Indianapolis, IN*
 - [Prop Thtr](https://www.propthtr.org/) *Chicago, IL*
 - [Riverside Theatre](https://www.riversidetheatre.org/) *Iowa City, IA*
 - [Salt Lake Acting Company](https://www.saltlakeactingcompany.org/) *Salt Lake City, UT*
-- [San Diego Repertory Theatre](http://www.sdrep.org/) *San Diego, CA*
-- [Silk Road Rising](https://www.silkroadrising.org/) *Chicago, IL*
 - [Southern Rep Theatre](http://www.southernrep.com/) *New Orleans, LA*
 - [Teatro Luna West](https://teatroluna.org/) *Los Angeles, CA*
 - [Theater Alliance](https://theateralliance.com/) *Washington, D.C.*
@@ -54,7 +52,6 @@ An organization driven and governed by its members, National New Play Network (N
 
 - [Alleyway Theatre](http://alleyway.com/) *Buffalo, NY*
 - [American Theater Group](https://www.americantheatergroup.org/) *East Brunswick, NJ*
-- [American Shakespeare Center](https://americanshakespearecenter.com/) *Staunton, VA*
 - [Amphibian Stage Productions](http://www.amphibianstage.com/) *Fort Worth, TX*
 - [Artists Repertory Theatre](http://www.artistsrep.org/) *Portland, OR*
 - [Aurora Theatre Company](https://www.auroratheatre.org/) *Berkeley, CA*
@@ -75,15 +72,12 @@ An organization driven and governed by its members, National New Play Network (N
 - [Diversionary Theatre](https://www.diversionary.org/) *San Diego, CA*
 - [Dorset Theatre Festival](https://dorsettheatrefestival.org/) *Dorset, VT*
 - [Ensemble Theatre Cincinnati](https://www.ensemblecincinnati.org/) *Cincinnati, OH*
-- [Everyman Theatre](http://www.everymantheatre.org/) *Baltimore, MD*
 - [Florida Repertory Theatre](https://www.floridarep.org/) *Fort Myers, FL*
 - [Flying V Theatre](http://www.flyingvtheatre.com) *Bethesda, MD*
 - [Geva Theatre Center](http://www.gevatheatre.org/) *Rochester, NY*
 - [Gloucester Stage Company](https://gloucesterstage.com/) *Gloucester, MA*
 - [Good Company Theatre](https://www.goodcotheatre.com/) *Ogden, UT*
-- [Greenway Court Theatre](http://www.greenwaycourttheatre.org/) *Los Angeles, CA*
 - [Gulfshore Playhouse](http://www.gulfshoreplayhouse.org/) *Naples, FL*
-- [Halcyon Theatre](http://halcyontheatre.org/) *Chicago, IL*
 - [Hangar Theatre](https://hangartheatre.org/) *Ithaca, NY*
 - [History Theatre](http://www.historytheatre.com/) *St. Paul, MN*
 - [IAMA Theatre Company](http://www.iamatheatre.com/) *Van Nuys, CA*
@@ -111,18 +105,13 @@ An organization driven and governed by its members, National New Play Network (N
 - [Palm Beach Dramaworks](http://www.palmbeachdramaworks.org/) *West Palm Beach, FL*
 - [Passage Theatre](https://passagetheatre.org/) *Trenton, NJ*
 - [People’s Light](http://peopleslight.org/) *Malvern, PA*
-- [Phoenix Arts Association Theatre](http://www.phoenixtheatresf.org/) *San Francisco, CA*
-- [Pillsbury House Theatre](https://pillsburyhouseandtheatre.org/) *Minneapolis, MN*
 - [Plan-B Theatre Company](http://www.planbtheatre.org/) *Salt Lake City, UT*
 - [PlayGround](http://www.playground-sf.org/) *Berkeley, CA*
 - [PlayMakers Repertory Company](https://playmakersrep.org/) *Chapel Hill, NC*
-- [PYGmalion Theatre Company](http://pygmalionproductions.org/) *Salt Lake City, UT*
 - [Queens Theatre](https://queenstheatre.org/) *Corona, NY*
 - [Redtwist Theatre](http://www.redtwist.org/) *Chicago, IL*
 - [Renaissance Theaterworks](https://www.r-t-w.com/) *Milwaukee, WI*
-- [Rep Stage](http://www.repstage.org/index.html) *Columbia, MD*
 - [Rivendell Theatre Ensemble](http://rivendelltheatre.org/) *Chicago, IL*
-- [Road Less Traveled Productions](http://www.roadlesstraveledproductions.org/) *Buffalo, NY*
 - [Rogue Machine Theatre](http://roguemachinetheatre.com/) *Los Angeles, CA*
 - [Rorschach Theatre](https://rorschachtheatre.com/) *Washington, DC*
 - [Round House Theatre](http://www.roundhousetheatre.org/) *Bethesda, MD*
@@ -133,13 +122,10 @@ An organization driven and governed by its members, National New Play Network (N
 - [Simpatico Theatre](https://www.simpaticotheatre.org/) *Philadelphia, PA*
 - [Six Points Theater](http://mnjewishtheatre.org/) *St. Paul, MN*
 - [Skylight Theatre Company](http://skylighttheatrecompany.com/) *Los Angeles, CA*
-- [South Coast Repertory](http://www.scr.org/) *Costa Mesa, CA*
 - [Stageworks](http://stageworkstheatre.org/) *Tampa, FL*
 - [Su Teatro](http://www.suteatro.org/) *Denver, CO*
-- [Synchronicity Theatre](http://www.synchrotheatre.com/) *Atlanta, GA*
 - [Taproot Theatre Company](http://taproottheatre.org/) *Seattle, WA*
 - [Theater Mu](https://www.theatermu.org/) *St. Paul, MN*
-- [Theatre 3](https://www.theatre3dallas.com/) *Dallas, TX*
 - [Theatre Exile](http://www.theatreexile.org/) *Philadelphia, PA*
 - [Theatre Lab](http://fau.edu/artsandletters/theatrelab/) *Boca Raton, FL*
 - [Theatre NOVA](https://www.theatrenova.org/) *Ann Arbor, MI*
@@ -148,9 +134,7 @@ An organization driven and governed by its members, National New Play Network (N
 - [Upstream Theatre](https://www.upstreamtheater.org/) *St. Louis, MO*
 - [Vermont Stage Company](http://www.vermontstage.org/) *Burlington, VT*
 - [Victory Gardens Theater](https://victorygardens.org/) *Chicago, IL*
-- [The Victory Theatre Center](https://www.thevictorytheatrecenter.org/) *Burbank, CA*
 - [Weston Playhouse Theatre Company](https://www.westonplayhouse.org/) *Weston, VT*
-- [The Wilbury Theatre Group](http://www.thewilburygroup.org/) *Providence, RI*
 - [Williamston Theatre](http://www.williamstontheatre.com/) *Williamston, MI*
 - [Zoetic Stage](http://www.zoeticstage.org/) *Miami, FL*
 
