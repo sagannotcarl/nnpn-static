@@ -42,14 +42,14 @@ Salt Lake City, UT
 October 8-30, 2021\
 Indianapolis, IN
 
+[**Oregon Contemporary Theatre**](https://www.octheatre.org/)\
+May 20 - June 5, 2022
+Eugene, OR
+
 [**Williamston Theatre**](http://www.williamstontheatre.org/alabaster)\
-POSTPONED\
+May 18 - June 18, 2023
 Williamston, MI
 
 [**New Jersey Repertory Company**](http://www.njrep.org/index.htm)\
 POSTPONED\
 Long Branch, NJ
-
-[**Oregon Contemporary Theatre**](https://www.octheatre.org/)\
-POSTPONED\
-Eugene, OR
