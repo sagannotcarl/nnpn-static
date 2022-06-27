@@ -6,7 +6,7 @@ menu:
   main:
     parent:     "Programs"
   programs:
-weight:     1
+weight:     10
 type:           "programs"
 current_label:  "Current Bridge Program Projects"
 past_label:     "Completed Bridge Program Projects"
