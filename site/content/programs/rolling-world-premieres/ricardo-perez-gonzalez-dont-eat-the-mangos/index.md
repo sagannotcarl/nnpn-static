@@ -1,7 +1,7 @@
 ---
 title: "Ricardo Pérez González"
 image: "Ricardo-Perez-Gonzalez.png"
-current: "true"
+current: "false"
 promoted: "false"
 related:
 - Rolling World Premieres
