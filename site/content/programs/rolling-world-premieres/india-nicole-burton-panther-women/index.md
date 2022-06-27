@@ -1,6 +1,6 @@
 ---
 title: "India Nicole Burton"
-image: "India.Nicole.Burtonjpeg"
+image: "India.Nicole.Burton.jpeg"
 link: "newplayexchange.org/users/32659/india-nicole-burton"
 current: "true"
 promoted: "true"
