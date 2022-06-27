@@ -2,7 +2,7 @@
 title: "Jacqueline Goldfinger"
 image: "Jacqueline-Goldfinger.JPG"
 link: "newplayexchange.org/plays/118761/babel"
-promoted: "false"
+promoted: "true"
 current: "true"
 related:
 - Rolling World Premieres
