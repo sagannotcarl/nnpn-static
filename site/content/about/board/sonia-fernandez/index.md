@@ -7,4 +7,5 @@ related:
 - Board of Directors
 ---
 
-Interim Artistic Director, Magic Theatre
+Director of New Work\
+Woolly Mammoth
