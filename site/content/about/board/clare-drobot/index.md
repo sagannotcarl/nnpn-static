@@ -6,5 +6,5 @@ current: "true"
 related:
 - Board of Directors
 ---
-Treasurer - Executive Committee
+Treasurer - Executive Committee\
 Co-Artistic Director, City Theatre Company 
