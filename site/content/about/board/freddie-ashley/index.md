@@ -1,5 +1,5 @@
 ---
-title: "1Ashley"
+title: "4Ashley"
 name_override: "Freddie Ashley"
 image: "Freddie-Ashley.jpg"
 current: "true"
@@ -7,5 +7,5 @@ related:
 - Board of Directors
 ---
 
-President - Executive Committee\
+Secretary - Executive Committee\
 Artistic Director, Actor’s Express
