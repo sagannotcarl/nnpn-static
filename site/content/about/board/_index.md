@@ -13,4 +13,6 @@ related:
 - Board of Directors
 ---
 
-<span class="lead-in">The full Board meets twice each year; the Executive Committee meets quarterly.</span>
+NNPN's primary governing body, the Board of Directors is comprised of representatives from the Network's four primary constituencies: Core Member Theaters, Associate Member Theaters, Affiliated Artists, and Ambassadors. The Board meets twice annually; its Executive Committee has meetings scheduled quarterly.
+
+For more on the FY23 Board of Directors, click [here.](/nationalnewplaynetwork013.sharepoint.com/:b:/s/Communications/Ed-UqB9TVF9Kmpf_hmXIcyoBLFy-JnN6mW3GiE-lbcYHxg?e=G4M9kZ)
