@@ -1,11 +1,11 @@
 ---
 title: "Engelman"
 name_override: "Liz Engelman"
-image: "Liz-Engelman.jpg"
+image: "Liz.Engelman.jpg"
 current: "true"
 related:
 - Board of Directors
 ---
 
-Dramaturg\
-Tofte Lake Center
+Executive Director, Tofte Lake Center\
+NNPN Ambassador
