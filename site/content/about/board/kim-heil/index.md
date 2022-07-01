@@ -6,4 +6,5 @@ current: "true"
 related:
 - Board of Directors
 ---
-Freelance Casting Director
+Casting Director\
+NNPN Ambassador
